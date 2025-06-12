@@ -1,0 +1,43 @@
+﻿{{0}}
+{ponteiro: 700,128}{bloco: 38}{name: 0}{color: 32774}
+{margem: 71}14 de Março, 1:16{b}
+{margem: 89}?????????{wait: 30}{nextpage_nobutton}
+
+{{1}}
+{ponteiro: 1044,312}{bloco: 77}{name: 0}{color: 0}
+Garantir que cada réu seja{b}
+declarado culpado.{wait: 15} Que outra{b}
+escolha teria eu?{nextpage_nobutton}
+
+{{2}}
+{ponteiro: 1396,256}{bloco: 53}{name: 0}{color: 0}
+Esse é o trabalho dos{b}
+bons promotores afinal.{nextpage_nobutton}
+
+{{3}}
+{ponteiro: 1744,212}{bloco: 43}{name: 0}{color: 0}
+P-{wait: 16}pode até ser,{wait: 16}{b}
+mas por quê...?{wait: 20}{nextpage_nobutton}
+
+{{4}}
+{ponteiro: 2096,32}{bloco: 21}{name: 0}{color: 0}
+{wait: 8}Por que ir tão longe?{nextpage_nobutton}
+
+{{5}}
+{ponteiro: 2384,392}{bloco: 94}{name: 0}{color: 0}
+Perdão,{wait: 12} talvez eu não tenha{b}
+sido claro,{wait: 12} mas para mim o{b}
+veredito de culpado é tudo.{wait: 15}{nextpage_nobutton}
+
+{{6}}
+{ponteiro: 2756,56}{bloco: 29}{name: 0}{color: 0}
+Custe o que custar.{wait: 30}{nextpage_nobutton}
+
+{{7}}
+{ponteiro: 3988,88}{bloco: 37}{name: 0}{color: 0}
+Eu sou um {wait: 8}prodígio{b}
+entre os promotores.{nextpage_nobutton}
+
+{{8}}
+{ponteiro: 4168,168}{bloco: 41}{name: 0}{color: 0}
+Sempre fui...{wait: 8} e sempre serei.{wait: 24}{nextpage_nobutton}

@@ -1,0 +1,2689 @@
+﻿{{0}}
+{ponteiro: 159848,886464}{bloco: 68}{name: 0}{color: 0}
+{margem: 47}Erro ao escrever dados.{b}
+{margem: 54}Desligue o aparelho e{b}
+{margem: 40}reinsira o cartucho de DS.{nop}{nextpage_00}
+
+{{1}}
+{ponteiro: 159852,886204}{bloco: 17}{name: 0}{color: 0}{margem: 76}Erro ao salvar.{nextpage_button}
+
+{{2}}
+{ponteiro: 159856,886328}{bloco: 67}{name: 0}{color: 0}
+{margem: 64}Erro ao ler dados.{b}
+{margem: 54}Desligue o aparelho e{b}
+{margem: 40}reinsira o cartucho de DS.{nop}{nextpage_00}
+
+{{3}}
+{ponteiro: 159860,886396}{bloco: 67}{name: 28208}{color: 34496}{margem: 64}Erro ao ler dados.{b}
+{margem: 54}Desligue o aparelho e{b}
+{margem: 40}reinsira o cartucho de DS.{nop}{nextpage_00}
+
+{{4}}
+{ponteiro: 160728,886224}{bloco: 51}{name: 0}{color: 0}{margem: 29}Os dados de gravação estão{b}
+{margem: 26}corrompidos e serão apagados.{nop}{nextpage_00}
+
+{{5}}
+{ponteiro: 160732,886276}{bloco: 52}{name: 28796}{color: 0}{margem: 29}Os dados de gravação estão{b}
+{margem: 17}corrompidos e serão recuperados.{nop}{nextpage_00}
+
+{{6}}
+{ponteiro: 550872,1140128}{bloco: 55}{name: 25968}{color: 32784}{margem: 70}{color: 2}Salvar{color: 0} dados até{b}
+{margem: 88}este ponto?{nextpage_button}
+
+{{7}}
+{ponteiro: 550876,1140080}{bloco: 47}{name: 26072}{color: 0}
+{margem: 75}{color: 2}Salvar{color: 0} o jogo e{b}
+{margem: 60}{color: 2}suspender{color: 0} a partida?{nextpage_button}
+
+{{8}}
+{ponteiro: 551628,1140032}{bloco: 46}{name: 0}{color: 0}
+{margem: 97}{color: 2}Salvando{color: 0}...{b}
+{margem: 50}Não desligue o aparelho.{nextpage_button}
+
+{{9}}
+{ponteiro: 552028,1140004}{bloco: 27}{name: 0}{color: 0}
+{margem: 58}{color: 2}Suspendendo{color: 0} o jogo.{nextpage_button}
+
+{{10}}
+{ponteiro: 603364,1165676}{bloco: 64}{name: 0}{color: 0}
+{margem: 38}{color: 2}Apagar{color: 0} todos os dados e{b}
+{margem: 23}restaurar {color: 2}configurações padrão{color: 0}?{nextpage_button}
+
+{{11}}
+{ponteiro: 605764,1167132}{bloco: 43}{name: 4204}{color: 0}
+{margem: 60}Um Episódio inédito{b}
+{margem: 78}foi adicionado.{nextpage_button}
+
+{{12}}
+{ponteiro: 1009124,984348}{bloco: 68}{name: 2}{color: 32772}
+(Este local está conectado de{b}
+alguma forma com alguma prova{b}
+que eu possuo...?){nextpage_button}
+
+{{13}}
+{ponteiro: 1009648,979128}{bloco: 54}{name: 2}{color: 32768}
+É a chave mestra para{b}
+cada gabinete deste prédio.{nextpage_button}
+
+{{14}}
+{ponteiro: 1009836,991916}{bloco: 82}{name: 2}{color: 32768}
+Tal como dito pela Srta. Mozias,{wait: 6}{b}
+o horário impresso no recibo prova{b}
+que a mala foi comprada às 5:40.{nextpage_button}
+
+{{15}}
+{ponteiro: 1011212,976112}{bloco: 40}{name: 2}{color: 32768}
+É o cabo de uma faca.{wait: 10}{b}
+Nele,{wait: 6} há uma borboleta.{nextpage_button}
+
+{{16}}
+{ponteiro: 1011352,982508}{bloco: 65}{name: 2}{color: 32768}
+Onde será que foi parar a lâmina{b}
+que devia estar acoplada a ele...?{nextpage_button}
+
+{{17}}
+{ponteiro: 1011548,1008008}{bloco: 103}{name: 2}{color: 32772}
+(Quando a cena do crime e a{b}
+prova não se encaixam, eu devo{flash: 0, 1}{shake: 2, 2}{sfx: 14}{b}
+{color: 1}Apresentar{color: 2} algo que o corrobore!){nextpage_button}
+
+{{18}}
+{ponteiro: 1011720,975100}{bloco: 28}{name: 2}{color: 32772}
+(É assim que eu faço as coisas.){nextpage_button}
+
+{{19}}
+{ponteiro: 1011916,1007384}{bloco: 101}{name: 2}{color: 32772}
+(E quando eu encontrar provas{b}
+o suficiente para comprovar a{b}
+contradição,{wait: 6} basta {flash: 0, 1}{shake: 2, 2}{sfx: 14}{color: 1}Apresentar{color: 2}!){nextpage_button}
+
+{{20}}
+{ponteiro: 1012088,975068}{bloco: 28}{name: 2}{color: 32772}
+(É assim que eu faço as coisas.){nextpage_button}
+
+{{21}}
+{ponteiro: 1012632,983868}{bloco: 67}{name: 2}{color: 32768}
+É uma chapa de falsificação,{wait: 6}{b}
+empregada para falsificar{b}
+as cédulas de Fheng Ni.{nextpage_button}
+
+{{22}}
+{ponteiro: 1012772,990236}{bloco: 80}{name: 2}{color: 32768}
+Ela é absurdamente detalhada.{wait: 10}{b}
+Tem até mesmo a ilustração{b}
+de uma fênix voando no céu.{nextpage_button}
+
+{{23}}
+{ponteiro: 1012912,996692}{bloco: 87}{name: 2}{color: 32768}
+Tratando-se de notas tão{b}
+bem-feitas,{wait: 6} é nítido que a{b}
+distinção das falsas seja difícil.{nextpage_button}
+
+{{24}}
+{ponteiro: 1013132,989188}{bloco: 79}{name: 2}{color: 32772}
+{flash: 0, 1}{sfx: 21}(É isso.{wait: 16} Este buraco de bala é{b}
+onde {shake: 2, 2}a contradição se encontra!){nextpage_button}
+
+{{25}}
+{ponteiro: 1013272,1003716}{bloco: 93}{name: 2}{color: 32772}
+(Quando eu vejo que algo está{b}
+errado, devo tocar no {color: 1}Botão{b}
+Deduzir{color: 2} com convicção!){nextpage_nobutton}
+
+{{26}}
+{ponteiro: 1014208,1008552}{bloco: 112}{name: 2}{color: 32768}
+Esta caixa de {color: 1}{flash: 0, 0}{sfx: 19}Dogões Samurai{color: 0} tem{b}
+um leque com um sol nascente...{wait: 12}{b}
+E isso nunca deveria{wait: 8} {shake: 1, 1}existir.{nextpage_button}
+
+{{27}}
+{ponteiro: 1014348,1007696}{bloco: 102}{name: 2}{color: 32768}
+Quero que todos observem com{b}
+atenção este ponto avermelhado.{wait: 16}{b}
+Trata-se de uma {flash: 0, 0}{sfx: 21}{color: 1}gota de sangue{color: 0}.{nextpage_button}
+
+{{28}}
+{ponteiro: 1014504,980236}{bloco: 58}{name: 2}{color: 32768}
+Esta parte não tem nada{b}
+de especial comparada às{b}
+demais caixas.{nextpage_button}
+
+{{29}}
+{ponteiro: 1014644,1005860}{bloco: 98}{name: 2}{color: 32768}
+Mas há {sfx: 19}{flash: 0, 1}algo em particular nela{b}
+que parece diferente das outras.{wait: 16}{b}
+Mas {speed: 2}o que seria isso?{nextpage_button}
+
+{{30}}
+{ponteiro: 1016224,981852}{bloco: 62}{name: 2}{color: 32768}
+Eu achava que esses anéis eram{b}
+apenas uma escolha decorativa...{nextpage_button}
+
+{{31}}
+{ponteiro: 1016364,980896}{bloco: 59}{name: 2}{color: 32768}
+... mas quem iria imaginar que isso{b}
+se trata,{wait: 6} na verdade,{wait: 6} de flechas?{nextpage_button}
+
+{{32}}
+{ponteiro: 1016520,984708}{bloco: 69}{name: 2}{color: 32768}
+Acredito que essa terra tenha{b}
+vindo de quando este suporte{b}
+para plantas estava no vaso.{nextpage_button}
+
+{{33}}
+{ponteiro: 1016660,977276}{bloco: 48}{name: 23}{color: 32768}
+Ah,{wait: 6} deve ser por isso que só{b}
+tem sujeira bem na ponta,{wait: 6} né?{nextpage_button}
+
+{{34}}
+{ponteiro: 1016800,974448}{bloco: 6}{name: 2}{color: 32768}
+É.{nextpage_button}
+
+{{35}}
+{ponteiro: 1016988,980776}{bloco: 59}{name: 2}{color: 32768}
+Será que este pedaço de pano{b}
+estaria encharcado de sangue...{nextpage_button}
+
+{{36}}
+{ponteiro: 1017128,976932}{bloco: 45}{name: 2}{color: 32768}
+... devido à vítima ter{b}
+sido enrolada nele em{b}
+algum momento?{nextpage_button}
+
+{{37}}
+{ponteiro: 1017304,980476}{bloco: 58}{name: 2}{color: 32768}
+De acordo com o Sr. Coblanc,{wait: 6}{b}
+este tecido é bem famoso.{nextpage_button}
+
+{{38}}
+{ponteiro: 1017444,974692}{bloco: 21}{name: 3}{color: 32768}
+Mas que {shake: 1, 1}desperdício...{nextpage_button}
+
+{{39}}
+{ponteiro: 1017600,989428}{bloco: 79}{name: 2}{color: 32768}
+Hmm...{wait: 16}{b}
+Há algo de familiar no{b}
+{sfx: 19}{flash: 0, 1}padrão deste tecido...{nextpage_button}
+
+{{40}}
+{ponteiro: 1017856,989508}{bloco: 79}{name: 2}{color: 32768}
+Como todos puderam ver,{wait: 6} a faca{b}
+babalesa acaba de ser dividida em{b}
+duas partes.{nextpage_button}
+
+{{41}}
+{ponteiro: 1017996,986876}{bloco: 75}{name: 2}{color: 32768}
+O assassino deve ter arrancado a{b}
+arma do crime do corpo da vítima...{nextpage_button}
+
+{{42}}
+{ponteiro: 1018136,989588}{bloco: 79}{name: 2}{color: 32768}
+... e corrido para trocar o cabo{b}
+original da faca por este,{wait: 6} o qual{b}
+possui uma borboleta.{nextpage_button}
+
+{{43}}
+{ponteiro: 1018292,989668}{bloco: 79}{name: 2}{color: 32768}
+Graças ao padrão de borboleta,{wait: 6}{b}
+podemos ter certeza de que a{b}
+faca em questão é babalesa.{nextpage_button}
+
+{{44}}
+{ponteiro: 1018432,999956}{bloco: 89}{name: 2}{color: 32768}
+Tudo indica que encontramos a{b}
+lâmina pertencente ao cabo que{b}
+a Taís levava consigo.{nextpage_button}
+
+{{45}}
+{ponteiro: 1018620,979996}{bloco: 57}{name: 2}{color: 32768}
+As {sfx: 19}{flash: 0, 1}digitais da Srta. Lambito{b}
+foram encontradas na arma.{nextpage_button}
+
+{{46}}
+{ponteiro: 1018760,975436}{bloco: 35}{name: 23}{color: 32768}
+Deixa eu segurar aí,{wait: 6}{b}
+bem rapidinho?{nextpage_button}
+
+{{47}}
+{ponteiro: 1018900,1003140}{bloco: 92}{name: 2}{color: 32768}
+Se você não sabe como manusear,{wait: 6}{b}
+então é melhor não.{wait: 16} E ademais,{wait: 6}{b}
+tem digitais da Srta. Lambito nela.{nextpage_button}
+
+{{48}}
+{ponteiro: 1019040,1006968}{bloco: 100}{name: 23}{color: 32768}
+Olha aqui!{wait: 16} Eu tô de {flash: 0, 1}{sfx: 21}luva!{wait: 16}{b}
+Não tem problema não!{wait: 16}{b}
+Quero só dar uma {shake: 1, 1}olhadinha...{nextpage_button}
+
+{{49}}
+{ponteiro: 1019180,1008112}{bloco: 105}{name: 23}{color: 32768}
+Até parece que eu vou só{b}
+pegar e dar no pé...{wait: 16} eu sempre{b}
+devolvo tudo,{wait: 6} {flash: 0, 1}{sfx: 29}{shake: 2, 2}menos tesouros!{nextpage_button}
+
+{{50}}
+{ponteiro: 1019320,980056}{bloco: 57}{name: 2}{color: 32768}
+Você sabe que independentemente{b}
+disso,{wait: 6} roubar um destes a colocaria{b}
+atrás das grades,{wait: 6} não é?{nextpage_button}
+
+{{51}}
+{ponteiro: 1019524,1007280}{bloco: 101}{name: 2}{color: 32768}
+Dizem que o desenho do distintivo{b}
+reflete{flash: 0, 1}{sfx: 21} a implacabilidade e a{b}
+disciplina dos aplicadores da lei.{nextpage_button}
+
+{{52}}
+{ponteiro: 1019664,993612}{bloco: 84}{name: 2}{color: 32768}
+Vem da autoridade a nós investida{b}
+como {flash: 0, 1}{sfx: 17}guardiões absolutos da lei...{nextpage_button}
+
+{{53}}
+{ponteiro: 1019804,996340}{bloco: 87}{name: 2}{color: 32768}
+... e executores de sentenças,{wait: 10} tal{b}
+como o frio dos invernos rigorosos{b}
+e os dias de verão escaldantes.{nextpage_button}
+
+{{54}}
+{ponteiro: 1019944,1006060}{bloco: 99}{name: 2}{color: 32768}
+Portá-lo significa identificar-se{b}
+como um promotor,{wait: 10} mas não{b}
+tenho {shake: 2, 2}{sfx: 23}{flash: 0, 1}interesse algum em fazê-lo.{nextpage_button}
+
+{{55}}
+{ponteiro: 1020100,989028}{bloco: 79}{name: 2}{color: 32768}
+Cada distintivo de promotor{b}
+é entalhado com um número{b}
+referente ao dono no verso.{nextpage_button}
+
+{{56}}
+{ponteiro: 1020240,1002084}{bloco: 92}{name: 2}{color: 32768}
+Hmph,{wait: 6} números...{wait: 16}{shake: 2, 2}{wait: 8} {flash: 0, 1}{sfx: 29}sempre assim.{wait: 16}{b}
+Parece até que,{wait: 6} por dentro,{wait: 6} nós{b}
+já deixamos de ser humanos!{nextpage_button}
+
+{{57}}
+{ponteiro: 1020444,1007072}{bloco: 101}{name: 2}{color: 32768}
+Dizem que o desenho do distintivo{b}
+reflete{flash: 0, 1}{sfx: 21} a implacabilidade e a{b}
+disciplina dos aplicadores da lei.{nextpage_button}
+
+{{58}}
+{ponteiro: 1020584,993524}{bloco: 84}{name: 2}{color: 32768}
+Vem da autoridade a nós investida{b}
+como {flash: 0, 1}{sfx: 17}guardiões absolutos da lei...{nextpage_button}
+
+{{59}}
+{ponteiro: 1020724,996780}{bloco: 87}{name: 2}{color: 32768}
+... e executores de sentenças,{wait: 10} tal{b}
+como o frio dos invernos rigorosos{b}
+e os dias de verão escaldantes.{nextpage_button}
+
+{{60}}
+{ponteiro: 1020864,1006260}{bloco: 99}{name: 2}{color: 32768}
+Portá-lo significa identificar-se{b}
+como um promotor,{wait: 10} mas não{b}
+tenho {shake: 2, 2}{sfx: 23}{flash: 0, 1}interesse algum em fazê-lo.{nextpage_button}
+
+{{61}}
+{ponteiro: 1021020,988708}{bloco: 79}{name: 2}{color: 32768}
+Cada distintivo de promotor{b}
+é entalhado com um número{b}
+referente ao dono no verso.{nextpage_button}
+
+{{62}}
+{ponteiro: 1021160,1002564}{bloco: 92}{name: 2}{color: 32768}
+Hmph,{wait: 6} números...{wait: 16}{shake: 2, 2}{wait: 8} {flash: 0, 1}{sfx: 29}sempre assim.{wait: 16}{b}
+Parece até que,{wait: 6} por dentro,{wait: 6} nós{b}
+já deixamos de ser humanos!{nextpage_button}
+
+{{63}}
+{ponteiro: 1021364,977900}{bloco: 51}{name: 3}{color: 32768}
+{sfx: 21}{flash: 0, 1}Ah!{wait: 24} {shake: 2, 2}{sfx: 29}{flash: 0, 1}Isso é sangue,{wait: 6} né?!{nextpage_button}
+
+{{64}}
+{ponteiro: 1021504,1000692}{bloco: 90}{name: 2}{color: 32768}
+Sim,{wait: 6} e acredito que isso era o {b}
+que o "bom promotor" estava{b}
+tentando {sfx: 21}{flash: 0, 1}esconder de nós!{nextpage_button}
+
+{{65}}
+{ponteiro: 1021660,975132}{bloco: 28}{name: 2}{color: 32772}
+{sfx: 19}(O Incidente KG-8...?){nextpage_button}
+
+{{66}}
+{ponteiro: 1021800,1002660}{bloco: 92}{name: 3}{color: 32768}
+Isso é código de caso policial,{b}
+senhor!{wait: 16} Será que significa que{b}
+isso é uma prova daquele caso?{nextpage_button}
+
+{{67}}
+{ponteiro: 1021940,1003908}{bloco: 93}{name: 2}{color: 32768}
+Interessante...{wait: 16} todavia,{wait: 6}{sfx: 21}{flash: 0, 1}{b}
+o conteúdo gravado nisto não{b}
+é o que importa neste momento.{nextpage_button}
+
+{{68}}
+{ponteiro: 1022080,976980}{bloco: 45}{name: 2}{color: 32768}
+Aprofundemo-nos melhor{b}
+no invólucro em si.{nextpage_button}
+
+{{69}}
+{ponteiro: 1022284,1007488}{bloco: 101}{name: 2}{color: 32768}
+Dizem que o desenho do distintivo{b}
+reflete{flash: 0, 1}{sfx: 21} a implacabilidade e a{b}
+disciplina dos aplicadores da lei.{nextpage_button}
+
+{{70}}
+{ponteiro: 1022424,993788}{bloco: 84}{name: 2}{color: 32768}
+Vem da autoridade a nós investida{b}
+como {flash: 0, 1}{sfx: 17}guardiões absolutos da lei...{nextpage_button}
+
+{{71}}
+{ponteiro: 1022564,996868}{bloco: 87}{name: 2}{color: 32768}
+... e executores de sentenças,{wait: 10} tal{b}
+como o frio dos invernos rigorosos{b}
+e os dias de verão escaldantes.{nextpage_button}
+
+{{72}}
+{ponteiro: 1022704,1006460}{bloco: 99}{name: 2}{color: 32768}
+Portá-lo significa identificar-se{b}
+como um promotor,{wait: 10} mas não{b}
+tenho {shake: 2, 2}{sfx: 23}{flash: 0, 1}interesse algum em fazê-lo.{nextpage_button}
+
+{{73}}
+{ponteiro: 1022860,989748}{bloco: 79}{name: 2}{color: 32768}
+Cada distintivo de promotor{b}
+é entalhado com um número{b}
+referente ao dono no verso.{nextpage_button}
+
+{{74}}
+{ponteiro: 1023000,1002756}{bloco: 92}{name: 2}{color: 32768}
+Hmph,{wait: 6} números...{wait: 16}{shake: 2, 2}{wait: 8} {flash: 0, 1}{sfx: 29}sempre assim.{wait: 16}{b}
+Parece até que,{wait: 6} por dentro,{wait: 6} nós{b}
+já deixamos de ser humanos!{nextpage_button}
+
+{{75}}
+{ponteiro: 1023204,1007592}{bloco: 101}{name: 2}{color: 32768}
+Dizem que o desenho do distintivo{b}
+reflete a {flash: 0, 1}{sfx: 21}implacabilidade e a{b}
+disciplina dos aplicadores da lei.{nextpage_button}
+
+{{76}}
+{ponteiro: 1023344,994580}{bloco: 84}{name: 2}{color: 32768}
+Vem da autoridade a nós investida{b}
+como {flash: 0, 1}{sfx: 17}guardiões absolutos da lei...{nextpage_button}
+
+{{77}}
+{ponteiro: 1023484,997572}{bloco: 87}{name: 2}{color: 32768}
+... e executores de sentenças,{wait: 10} tal{b}
+como o frio dos invernos rigorosos{b}
+e os dias de verão escaldantes.{nextpage_button}
+
+{{78}}
+{ponteiro: 1023624,1006560}{bloco: 99}{name: 2}{color: 32768}
+Portá-lo significa identificar-se{b}
+como um promotor,{wait: 10} mas não{b}
+tenho {shake: 2, 2}{sfx: 23}{flash: 0, 1}interesse algum em fazê-lo.{nextpage_button}
+
+{{79}}
+{ponteiro: 1023780,989828}{bloco: 79}{name: 2}{color: 32768}
+Cada distintivo de promotor{b}
+é entalhado com um número{b}
+referente ao dono no verso.{nextpage_button}
+
+{{80}}
+{ponteiro: 1023920,1003236}{bloco: 92}{name: 2}{color: 32768}
+Hmph,{wait: 6} números...{wait: 16}{shake: 2, 2}{wait: 8} {flash: 0, 1}{sfx: 29}sempre assim.{wait: 16}{b}
+Parece até que,{wait: 6} por dentro,{wait: 6} nós{b}
+já deixamos de ser humanos!{nextpage_button}
+
+{{81}}
+{ponteiro: 1024140,989108}{bloco: 79}{name: 2}{color: 32768}
+Devido ao adorno de borboleta,{wait: 6}{b}
+não há dúvidas de que a faca{b}
+babalesa seja esta.{nextpage_button}
+
+{{82}}
+{ponteiro: 1024280,999128}{bloco: 89}{name: 2}{color: 32768}
+Tudo indica que estamos em{b}
+posse da lâmina pertencente{b}
+ao cabo que a Taís segurava.{nextpage_button}
+
+{{83}}
+{ponteiro: 1024436,982644}{bloco: 65}{name: 2}{color: 32768}
+Agora,{wait: 6} este cabo com aparência de{b}
+borboleta é o único de seu tipo...{nextpage_button}
+
+{{84}}
+{ponteiro: 1024576,978288}{bloco: 52}{name: 2}{color: 32768}
+... já que os outros dois{b}
+foram consumidos nas{b}
+chamas daquele incêndio.{nextpage_button}
+
+{{85}}
+{ponteiro: 1024732,982712}{bloco: 65}{name: 2}{color: 32768}
+Agora,{wait: 6} este cabo com aparência de{b}
+borboleta é o único de seu tipo...{nextpage_button}
+
+{{86}}
+{ponteiro: 1024872,978344}{bloco: 52}{name: 2}{color: 32768}
+... já que os outros dois{b}
+foram consumidos nas{b}
+chamas daquele incêndio.{nextpage_button}
+
+{{87}}
+{ponteiro: 1025060,997932}{bloco: 88}{name: 2}{color: 32768}
+Não acredito que rocamboles deste{b}
+tipo estejam sendo comercializados{b}
+em máquinas de venda.{nextpage_button}
+
+{{88}}
+{ponteiro: 1025200,976836}{bloco: 45}{name: 31}{color: 32768}
+Pois é,{wait: 6} ainda não creio que{b}
+dois deles custem R$ 12,00...{nextpage_button}
+
+{{89}}
+{ponteiro: 1025340,985140}{bloco: 71}{name: 31}{color: 32768}
+Digo,{wait: 6} existe alguém que pague{b}
+tanto por um alimento {flash: 0, 1}{shake: 1, 1}{sfx: 30}precário{b}
+e comum?!{nextpage_button}
+
+{{90}}
+{ponteiro: 1025528,994668}{bloco: 85}{name: 2}{color: 32768}
+{flash: 0, 1}{sfx: 21}Franziska...{wait: 16}{b}
+se quiser um,{wait: 6} só{b}
+precisa comprar...{nextpage_button}
+
+{{91}}
+{ponteiro: 1025668,1008668}{bloco: 123}{name: 31}{color: 32768}
+Quê...?!{wait: 16} Eu estou à {speed: 1}{flash: 0, 0}{shake: 1, 1}{sfx: 23}serviço!{wait: 16}{b}
+Comer tendo um caso a{b}
+decidir é {flash: 0, 1}{shake: 2, 2}{sfx: 37}muito impróprio!{nextpage_button}
+
+{{92}}
+{ponteiro: 1025868,987668}{bloco: 77}{name: 2}{color: 32768}
+Gnnnrgh!{wait: 16}{b}
+{color: 2}(Você claramente vê o trabalho{b}
+de uma forma oposta à minha!){nextpage_button}
+
+{{93}}
+{ponteiro: 1027080,1007176}{bloco: 101}{name: 2}{color: 32768}
+Dizem que o desenho do distintivo{b}
+reflete a {flash: 0, 1}{sfx: 21}implacabilidade e a{b}
+disciplina dos aplicadores da lei.{nextpage_button}
+
+{{94}}
+{ponteiro: 1027220,993436}{bloco: 84}{name: 2}{color: 32768}
+Vem da autoridade a nós investida{b}
+como {flash: 0, 1}{sfx: 17}guardiões absolutos da lei...{nextpage_button}
+
+{{95}}
+{ponteiro: 1027360,996164}{bloco: 87}{name: 2}{color: 32768}
+... e executores de sentenças,{wait: 10} tal{b}
+como o frio dos invernos rigorosos{b}
+e os dias de verão escaldantes.{nextpage_button}
+
+{{96}}
+{ponteiro: 1027500,978904}{bloco: 54}{name: 2}{color: 32768}
+Portá-lo significa identificar-se{b}
+como um promotor.{nextpage_button}
+
+{{97}}
+{ponteiro: 1027640,1001152}{bloco: 91}{name: 2}{color: 32768}
+... Mas meu mentor ensinou-me{b}
+que há grande {flash: 0, 1}{sfx: 21}elegância em{b}
+mantê-lo no meu bolso.{nextpage_button}
+
+{{98}}
+{ponteiro: 1027796,988948}{bloco: 79}{name: 2}{color: 32768}
+Cada distintivo de promotor{b}
+é entalhado com um número{b}
+referente ao dono no verso.{nextpage_button}
+
+{{99}}
+{ponteiro: 1027936,1001892}{bloco: 92}{name: 2}{color: 32768}
+Hmph,{wait: 6} números...{wait: 16}{shake: 2, 2}{wait: 8} {flash: 0, 1}{sfx: 29}sempre assim.{wait: 16}{b}
+Parece até que,{wait: 6} por dentro,{wait: 6} nós{b}
+já deixamos de ser humanos!{nextpage_button}
+
+{{100}}
+{ponteiro: 1028140,995196}{bloco: 85}{name: 2}{color: 32768}
+Este sangue pertence ao{b}
+Inspetor Leal,{wait: 6} que fora morto em{b}
+meu gabinete pelo Sr. Portivo.{nextpage_button}
+
+{{101}}
+{ponteiro: 1028280,990992}{bloco: 81}{name: 2}{color: 32768}
+Infelizmente,{wait: 6} parece que ele{b}
+acabou tornando-se parceiro{b}
+de um péssimo promotor.{nextpage_button}
+
+{{102}}
+{ponteiro: 1028436,974764}{bloco: 22}{name: 2}{color: 32768}
+O Incidente KG-8...{nextpage_button}
+
+{{103}}
+{ponteiro: 1028576,983732}{bloco: 67}{name: 2}{color: 32768}
+Foi nesse caso onde Lívia Teixeira,{wait: 6}{b}
+inadvertidamente,{wait: 6} acabou morrendo...{nextpage_button}
+
+{{104}}
+{ponteiro: 1028716,1000876}{bloco: 90}{name: 2}{color: 32768}
+... justamente quando ela ia expor{b}
+a ligação entre o Grupo Fontoura{b}
+e a rede de contrabando.{nextpage_button}
+
+{{105}}
+{ponteiro: 1028856,982848}{bloco: 65}{name: 2}{color: 32768}
+Também foi a partir disso que se{b}
+deu a formação original do grupo{b}
+chamado "Yatagarasu".{nextpage_button}
+
+{{106}}
+{ponteiro: 1028996,992840}{bloco: 83}{name: 2}{color: 32768}
+Será que os eventos deste caso{b}
+possuem algum tipo de elo com{b}
+esse caso de uma década atrás...?{nextpage_button}
+
+{{107}}
+{ponteiro: 1029184,995548}{bloco: 86}{name: 2}{color: 32768}
+"Rocamboles especiais do tribunal"...{wait: 16}{b}
+será que estão vendendo isto em{b}
+alguma das instalações?{nextpage_button}
+
+{{108}}
+{ponteiro: 1029324,984924}{bloco: 70}{name: 31}{color: 32768}
+Eu não me recordo de ter visto{b}
+restaurante algum neste tribunal...{nextpage_button}
+
+{{109}}
+{ponteiro: 1029464,992084}{bloco: 83}{name: 2}{color: 32768}
+Algo me diz que não se encontra{b}
+uma comida tão vulgar no cardápio{b}
+de um restaurante,{wait: 6} Franziska...{nextpage_button}
+
+{{110}}
+{ponteiro: 1029604,981724}{bloco: 62}{name: 31}{color: 32768}
+Pois muito bem,{wait: 6} poderia me dizer{b}
+{flash: 0, 1}{shake: 1, 1}{sfx: 29}onde é que se vende algo assim?!{nextpage_button}
+
+{{111}}
+{ponteiro: 1029744,976332}{bloco: 42}{name: 2}{color: 32768}
+Err...{wait: 10}{b}
+Numa mercearia,{wait: 6} talvez...?{nextpage_button}
+
+{{112}}
+{ponteiro: 1029884,1003428}{bloco: 93}{name: 31}{color: 32768}
+Ora,{wait: 6} pois eu garanto que também{b}
+não há "mercearia" {flash: 0, 1}{shake: 1, 1}{sfx: 29}alguma dentro{b}
+deste tribunal,{wait: 6} Eduardo Spada!{nextpage_button}
+
+{{113}}
+{ponteiro: 1030084,980596}{bloco: 59}{name: 2}{color: 32768}
+Gnnnrgh!{wait: 16}{b}
+{color: 2}(... De onde é que{b}
+isso aqui veio?){nextpage_button}
+
+{{114}}
+{ponteiro: 1030304,981212}{bloco: 60}{name: 2}{color: 32768}
+Tem um tanto de sangue do{b}
+Sr. Remew nesta lâmina.{nextpage_button}
+
+{{115}}
+{ponteiro: 1030444,992336}{bloco: 83}{name: 2}{color: 32768}
+Em virtude do meu cargo de{b}
+promotor,{wait: 6} imagino que eu já tenha{b}
+me acostumado a ver sangue...{nextpage_button}
+
+{{116}}
+{ponteiro: 1030600,978400}{bloco: 52}{name: 2}{color: 32768}
+O cabo desta faca foi criado{b}
+para que fosse removível.{nextpage_button}
+
+{{117}}
+{ponteiro: 1030740,999220}{bloco: 89}{name: 2}{color: 32768}
+O assassino tentou nos dar a{b}
+impressão de que esta era uma{b}
+faca babalesa,{wait: 6} trocando os cabos.{nextpage_button}
+
+{{118}}
+{ponteiro: 1030880,982304}{bloco: 64}{name: 2}{color: 32768}
+É óbvio que deve haver{b}
+algum motivo para que{b}
+tal ato fosse cometido!{nextpage_button}
+
+{{119}}
+{ponteiro: 1031036,983256}{bloco: 66}{name: 2}{color: 32768}
+É impressionante o ornamento{b}
+florido presente no cabo desta{b}
+faca.{nextpage_button}
+
+{{120}}
+{ponteiro: 1031176,1000600}{bloco: 90}{name: 2}{color: 32768}
+Comparando com o cabo da faca{b}
+babalesa,{wait: 6} este perde no quesito{b}
+"presença" contra o de Alebaste.{nextpage_button}
+
+{{121}}
+{ponteiro: 1031396,976692}{bloco: 44}{name: 2}{color: 32768}
+Tem um pouco de sangue{b}
+em uma das quinas...{nextpage_button}
+
+{{122}}
+{ponteiro: 1031536,978512}{bloco: 52}{name: 2}{color: 32768}
+Será que esse cofrinho{b}
+é a {flash: 0, 1}{sfx: 19}arma do crime?{nextpage_button}
+
+{{123}}
+{ponteiro: 1031692,987348}{bloco: 76}{name: 2}{color: 32768}
+O chapéu em sua cabeça foi{b}
+achado dentro de um espaço{b}
+de exibição na loja do voo.{nextpage_button}
+
+{{124}}
+{ponteiro: 1031832,982108}{bloco: 63}{name: 2}{color: 32768}
+{sfx: 19}{flash: 0, 1}Será que esse fato{b}
+influencia em algo{b}
+no caso atual...?{nextpage_button}
+
+{{125}}
+{ponteiro: 1031988,974980}{bloco: 26}{name: 2}{color: 32768}
+Aqui diz "Companhia Aérea CeVoa".{nextpage_button}
+
+{{126}}
+{ponteiro: 1032128,994052}{bloco: 84}{name: 2}{color: 32768}
+Devo dizer que há algo bem{b}
+recorrente nos últimos tempos{b}
+que me incomoda bastante...{nextpage_button}
+
+{{127}}
+{ponteiro: 1032268,999680}{bloco: 89}{name: 2}{color: 32768}
+... mas por que raios algumas{b}
+marcas acham válido simplesmente {flash: 0, 1}{sfx: 19}{b}
+aglutinar duas palavras e pronto?{nextpage_button}
+
+{{128}}
+{ponteiro: 1032456,992168}{bloco: 83}{name: 2}{color: 32768}
+O Inspetor Gaspar e a Taís{b}
+fizeram uma "vaquinha" para{b}
+a compra dos rocamboles.{nextpage_button}
+
+{{129}}
+{ponteiro: 1032596,978008}{bloco: 52}{name: 31}{color: 32768}
+Será que eles precisavam{b}
+tanto assim desse lanche?{nextpage_button}
+
+{{130}}
+{ponteiro: 1032736,983120}{bloco: 66}{name: 2}{color: 32768}
+Aposto que a Taís estava{b}
+guardando este para o seu{b}
+pai,{wait: 6} a fim de animá-lo.{nextpage_button}
+
+{{131}}
+{ponteiro: 1032876,981084}{bloco: 60}{name: 2}{color: 32768}
+{flash: 0, 1}{sfx: 21}Nada contra,{wait: 6} claro.{wait: 16}{b}
+Eu sei bem como ela se sente.{nextpage_button}
+
+{{132}}
+{ponteiro: 1033016,976552}{bloco: 43}{name: 31}{color: 32768}
+...{wait: 8}...{wait: 8}...{wait: 8}...{wait: 8}...{wait: 8}...{wait: 8}{b}
+Hmph.{nextpage_button}
+
+{{133}}
+{ponteiro: 1033156,1004388}{bloco: 94}{name: 31}{color: 32768}
+{sfx: 19}Bem,{wait: 6} já que estamos aqui,{wait: 6} vamos{b}
+comprar alguns quando encerrarmos{b}
+o caso e levá-los até nossa casa.{nextpage_button}
+
+{{134}}
+{ponteiro: 1033296,974504}{bloco: 16}{name: 2}{color: 32768}
+Claro,{wait: 6} por que não?{nextpage_button}
+
+{{135}}
+{ponteiro: 1033436,981980}{bloco: 63}{name: 2}{color: 32772}
+(Ah,{wait: 6} não posso esquecer de{b}
+dar isto ao Inspetor Gaspar.){nextpage_button}
+
+{{136}}
+{ponteiro: 1033640,976024}{bloco: 40}{name: 2}{color: 32768}
+Aha...{wait: 12}{b}
+Então esta área anelar...{nextpage_button}
+
+{{137}}
+{ponteiro: 1033780,980656}{bloco: 59}{name: 2}{color: 32768}
+... existe para que vinhas como{b}
+as das flores de maracujá{b}
+tenham suporte,{wait: 6} não é verdade?{nextpage_button}
+
+{{138}}
+{ponteiro: 1033920,991664}{bloco: 82}{name: 2}{color: 32768}
+Mas se essa é mesmo sua única{b}
+utilidade,{wait: 6} então para que serve o{b}
+entalhe na parte superior?{nextpage_button}
+
+{{139}}
+{ponteiro: 1034060,993260}{bloco: 84}{name: 23}{color: 32768}
+Será que não é pra passar uma{b}
+linha ou qualquer coisa assim?{wait: 10}{b}
+O palito tem que ficar bem reto...{nextpage_button}
+
+{{140}}
+{ponteiro: 1034200,976596}{bloco: 44}{name: 2}{color: 32768}
+Um entalhe para que uma{b}
+{sfx: 21}linha atravesse,{wait: 6} não é?{nextpage_button}
+
+{{141}}
+{ponteiro: 1034356,992252}{bloco: 83}{name: 2}{color: 32768}
+Acredito que essa terra tenha{b}
+vindo de quando este suporte{b}
+para plantas estava no vaso.{nextpage_button}
+
+{{142}}
+{ponteiro: 1034496,977172}{bloco: 48}{name: 23}{color: 32768}
+Ah,{wait: 6} deve ser por isso que só{b}
+tem sujeira bem na ponta,{wait: 6} né?{nextpage_button}
+
+{{143}}
+{ponteiro: 1034636,974456}{bloco: 6}{name: 2}{color: 32768}
+É.{nextpage_button}
+
+{{144}}
+{ponteiro: 1034888,975584}{bloco: 37}{name: 2}{color: 32768}
+Suco de uva mancha{b}
+a capa exterior.{nextpage_button}
+
+{{145}}
+{ponteiro: 1035028,1002852}{bloco: 92}{name: 2}{color: 32768}
+Na verdade,{wait: 6} fui eu quem{b}
+derramou o suco,{wait: 6} mas não{b}
+foi por querer fazer o mal.{nextpage_button}
+
+{{146}}
+{ponteiro: 1035228,978176}{bloco: 52}{name: 2}{color: 32768}
+Além deste passaporte,{wait: 6}{b}
+não parece haver mais{b}
+nada aqui dentro.{nextpage_button}
+
+{{147}}
+{ponteiro: 1035384,978232}{bloco: 52}{name: 2}{color: 32768}
+Além deste passaporte,{wait: 6}{b}
+não parece haver mais{b}
+nada aqui dentro.{nextpage_button}
+
+{{148}}
+{ponteiro: 1035540,975704}{bloco: 37}{name: 2}{color: 32768}
+Suco de uva mancha{b}
+a capa exterior.{nextpage_button}
+
+{{149}}
+{ponteiro: 1035680,1002948}{bloco: 92}{name: 2}{color: 32768}
+Na verdade,{wait: 6} fui eu quem{b}
+derramou o suco,{wait: 6} mas não{b}
+foi por querer fazer o mal.{nextpage_button}
+
+{{150}}
+{ponteiro: 1035836,979696}{bloco: 56}{name: 2}{color: 32768}
+Não há dinheiro algum no interior{b}
+desta carteira de viagem.{nextpage_button}
+
+{{151}}
+{ponteiro: 1037284,1005060}{bloco: 96}{name: 2}{color: 32768}
+O gatilho...{wait: 6} apesar de ser uma{b}
+pequena peça metálica,{wait: 6} ainda é{b}
+capaz de eliminar toda uma vida{wait: 8}.{wait: 8}.{wait: 8}.{nextpage_button}
+
+{{152}}
+{ponteiro: 1037424,985356}{bloco: 72}{name: 2}{color: 32768}
+Eu esperava nunca mais ter de{b}
+pôr os olhos em uma arma{wait: 8}.{wait: 8}.{wait: 8}.{nextpage_button}
+
+{{153}}
+{ponteiro: 1037580,1005160}{bloco: 96}{name: 2}{color: 32768}
+O gatilho...{wait: 6} apesar de ser uma{b}
+pequena peça metálica,{wait: 6} ainda é{b}
+capaz de eliminar toda uma vida{wait: 8}.{wait: 8}.{wait: 8}.{nextpage_button}
+
+{{154}}
+{ponteiro: 1037720,985432}{bloco: 72}{name: 2}{color: 32768}
+Eu esperava nunca mais ter de{b}
+pôr os olhos em uma arma{wait: 8}.{wait: 8}.{wait: 8}.{nextpage_button}
+
+{{155}}
+{ponteiro: 1037860,979520}{bloco: 55}{name: 31}{color: 32768}
+Mas o que é isso aqui?{wait: 16}{b}
+Tem medo de {flash: 0, 1}{sfx: 21}armas,{wait: 6} Eduardo?{nextpage_button}
+
+{{156}}
+{ponteiro: 1038000,980176}{bloco: 58}{name: 2}{color: 32768}
+.{wait: 8}.{wait: 8}.{wait: 8} Não é {flash: 0, 1}{sfx: 19}nada disso!{wait: 16}{b}
+Acontece que...{nextpage_button}
+
+{{157}}
+{ponteiro: 1038140,979756}{bloco: 56}{name: 31}{color: 32768}
+Ora,{wait: 6} pois!{wait: 16}{b}
+É melhor ficar sabendo que eu não{b}
+tenho medo nenhum dessas coisas!{nextpage_button}
+
+{{158}}
+{ponteiro: 1038280,980956}{bloco: 60}{name: 2}{color: 32772}
+(De onde ela tira tamanho{b}
+descaramento,{wait: 6} a ponto de{b}
+dizer algo assim...?){nextpage_button}
+
+{{159}}
+{ponteiro: 1038508,976644}{bloco: 44}{name: 2}{color: 32768}
+Tem um pouco de sangue{b}
+em uma das quinas...{nextpage_button}
+
+{{160}}
+{ponteiro: 1038648,979296}{bloco: 55}{name: 2}{color: 32768}
+Será que esse cofrinho{b}
+é a {flash: 0, 1}{sfx: 19}arma do crime?{nextpage_button}
+
+{{161}}
+{ponteiro: 1038804,977224}{bloco: 48}{name: 2}{color: 32768}
+Acredito que é aqui onde{b}
+as moedas são enfiadas.{nextpage_button}
+
+{{162}}
+{ponteiro: 1038944,980116}{bloco: 57}{name: 2}{color: 32768}
+Devo comentar que,{wait: 6} para um{b}
+cofrinho,{wait: 6} é muito bem-feito.{nextpage_button}
+
+{{163}}
+{ponteiro: 1039084,995108}{bloco: 85}{name: 2}{color: 32768}
+Tão bem-feito que não tenho ideia{b}
+se é {flash: 0, 1}{sfx: 19}possível retirar seu dinheiro...{nextpage_button}
+
+{{164}}
+{ponteiro: 1039240,974924}{bloco: 26}{name: 2}{color: 32768}
+Aqui diz "Companhia Aérea CeVoa".{nextpage_button}
+
+{{165}}
+{ponteiro: 1039380,993964}{bloco: 84}{name: 2}{color: 32768}
+Devo dizer que há algo bem{b}
+recorrente nos últimos tempos{b}
+que me incomoda bastante...{nextpage_button}
+
+{{166}}
+{ponteiro: 1039520,999588}{bloco: 89}{name: 2}{color: 32768}
+... mas parece que ninguém mais{b}
+sabe as regras de {flash: 0, 1}{sfx: 19}espaçamento e{b}
+maiusculização dos substantivos.{nextpage_button}
+
+{{167}}
+{ponteiro: 1039768,1007904}{bloco: 103}{name: 31}{color: 32768}
+Não acredito que isso virou uma{b}
+{shake: 2, 2}{flash: 0, 1}{sfx: 23}chave!{wait: 16} E pensar que essa coisinha{b}
+poderia fazer um truque desses...!{nextpage_button}
+
+{{168}}
+{ponteiro: 1039908,993348}{bloco: 84}{name: 2}{color: 32768}
+Ou seja:{wait: 6} a arma usada para matar{b}
+o Sr. Chaves foi a chave roubada{b}
+pelo próprio Yatagarasu...{nextpage_button}
+
+{{169}}
+{ponteiro: 1040048,1005960}{bloco: 99}{name: 2}{color: 32772}
+(Desde o começo deste caso,{wait: 6}{b}
+essa foi a informação mais{b}
+{flash: 0, 1}{shake: 2, 2}{sfx: 30}crítica que nós já obtivemos!){nextpage_button}
+
+{{170}}
+{ponteiro: 1040204,981468}{bloco: 61}{name: 2}{color: 32768}
+Esta é a arma que foi usada{b}
+para {flash: 0, 1}{sfx: 19}matar o Sr. Chaves...{nextpage_button}
+
+{{171}}
+{ponteiro: 1040344,988868}{bloco: 79}{name: 2}{color: 32768}
+É admirável a estilização{b}
+de ambos cabo e lâmina.{nextpage_button}
+
+{{172}}
+{ponteiro: 1040484,985736}{bloco: 73}{name: 31}{color: 32768}
+Veja só!{wait: 16} Aqui nesta área dourada,{wait: 6}{b}
+há um adorno de formato florido.{nextpage_button}
+
+{{173}}
+{ponteiro: 1040624,985584}{bloco: 72}{name: 31}{color: 32768}
+Se isso não tivesse sido usado{b}
+para matar alguém,{wait: 6} eu bem{b}
+que gostaria de pegar para mim.{nextpage_button}
+
+{{174}}
+{ponteiro: 1040764,1000416}{bloco: 90}{name: 2}{color: 32772}
+(... {speed: 2}Ela parece ter gostado bastante{b}
+dos enfeites.{wait: 16} Eu até daria,{wait: 6} se esta{b}
+faca fosse minha.){nextpage_button}
+
+{{175}}
+{ponteiro: 1041028,998024}{bloco: 88}{name: 2}{color: 32768}
+Nosso primeiro contato com esse{b}
+truque foi há sete anos,{wait: 6} e graças{b}
+a ele,{wait: 7} encurralamos a Srta. Teixeira.{nextpage_button}
+
+{{176}}
+{ponteiro: 1041168,990656}{bloco: 81}{name: 2}{color: 32768}
+Mas ninguém ia pensar que essa{b}
+chave fosse {shake: 1, 1}vir à tona depois de{b}
+ter passado todo esse tempo...{nextpage_button}
+
+{{177}}
+{ponteiro: 1041324,980716}{bloco: 59}{name: 2}{color: 32768}
+Há um padrão de vinhas no{b}
+ornamento desta lâmina.{nextpage_button}
+
+{{178}}
+{ponteiro: 1041464,983664}{bloco: 67}{name: 2}{color: 32768}
+Apesar disso,{wait: 6} o Inspetor Gaspar{b}
+jura ver um {color: 1}padrão estrelado{color: 0} aí.{nextpage_button}
+
+{{179}}
+{ponteiro: 1041604,994756}{bloco: 85}{name: 2}{color: 32768}
+Entre a lâmina e o cabo{b}
+há uma flor,{wait: 6} e a própria{b}
+chave é uma borboleta.{nextpage_button}
+
+{{180}}
+{ponteiro: 1041744,994844}{bloco: 85}{name: 2}{color: 32768}
+Esta chave foi roubada pelo{b}
+Yatagarasu há sete anos,{wait: 6} em sua{b}
+invasão à embaixada codopiana...{nextpage_button}
+
+{{181}}
+{ponteiro: 1041884,990740}{bloco: 81}{name: 2}{color: 32768}
+... e isso indica que ela{b}
+foi criada enquanto Codopia{b}
+ainda era um estado legítimo.{nextpage_button}
+
+{{182}}
+{ponteiro: 1042040,1000508}{bloco: 90}{name: 2}{color: 32768}
+Não é tão absurdo imaginar que{b}
+a ponta desta chave era para{b}
+se parecer com uma borboleta.{nextpage_button}
+
+{{183}}
+{ponteiro: 1042244,974624}{bloco: 19}{name: 2}{color: 32768}
+{flash: 0, 0}{sfx: 21}Hm{speed: 8}...?!{nextpage_button}
+
+{{184}}
+{ponteiro: 1042384,975864}{bloco: 39}{name: 3}{color: 32768}
+É{speed: 8}... {speed: 1}{wait: 16}{speed: 2}{flash: 0, 0}{shake: 1, 1}{sfx: 29}sangue!{nextpage_button}
+
+{{185}}
+{ponteiro: 1042524,977328}{bloco: 48}{name: 2}{color: 32768}
+Este deve ser o sangue{b}
+do {flash: 0, 0}{sfx: 21}{wait: 8}{speed: 2}Sr. Remew.{nextpage_button}
+
+{{186}}
+{ponteiro: 1042664,1007800}{bloco: 102}{name: 2}{color: 32768}
+Ele prova justamente que este{b}
+carrinho foi usado para {flash: 0, 0}{shake: 2, 2}{sfx: 14}deslocar{b}
+o corpo do Sr. Remew.{nextpage_button}
+
+{{187}}
+{ponteiro: 1042820,985888}{bloco: 73}{name: 2}{color: 32768}
+O pai,{wait: 6} Samurai de Aço,{wait: 6} usou{b}
+este carrinho para levar o{b}
+Infante de Ferro num passeio.{nextpage_button}
+
+{{188}}
+{ponteiro: 1042960,992420}{bloco: 83}{name: 23}{color: 32768}
+Esse "Infante de Ferro" aí é o{b}
+{flash: 0, 0}{sfx: 21}filho do Samurai de Aço com{b}
+a Princesa Rosa,{wait: 6} não é isso?{nextpage_button}
+
+{{189}}
+{ponteiro: 1043100,981596}{bloco: 61}{name: 2}{color: 32768}
+Isso.{wait: 12}{b}
+Ele fez uma participação{b}
+no fim da peça teatral.{nextpage_button}
+
+{{190}}
+{ponteiro: 1043240,988788}{bloco: 79}{name: 2}{color: 32768}
+{shake: 1, 1}Hmph{speed: 8}...{wait: 16}{b}
+Aquele sim foi um encerramento{b}
+{speed: 2}{flash: 0, 0}{sfx: 21}e tanto para a história toda.{nextpage_button}
+
+{{191}}
+{ponteiro: 1043380,1006360}{bloco: 99}{name: 2}{color: 32772}
+(E pensar que forçaram o Samurai{b}
+de Aço a transportar um cadáver{b}
+sem que ele soubesse...{wait: 10} {flash: 0, 0}{shake: 2, 2}{sfx: 29}crueldade!){nextpage_button}
+
+{{192}}
+{ponteiro: 1043604,991496}{bloco: 82}{name: 2}{color: 32772}
+(Este sangue aqui é do Sr. Chaves,{wait: 6}{b}
+mas não tem nenhuma outra pista.){nextpage_button}
+
+{{193}}
+{ponteiro: 1043744,975544}{bloco: 37}{name: 2}{color: 32772}
+(Diante disso,{wait: 6} a {flash: 0, 1}{sfx: 19}dúvida{b}
+que fica no ar é...){nextpage_button}
+
+{{194}}
+{ponteiro: 1043884,997748}{bloco: 88}{name: 2}{color: 32772}
+(... será que preciso pôr este saco{b}
+num outro saco para que ele seja{b}
+preservado enquanto prova?){nextpage_button}
+
+{{195}}
+{ponteiro: 1044040,988628}{bloco: 79}{name: 2}{color: 32768}
+Tudo indica que este saco foi{b}
+usado diretamente no homicídio{b}
+do Sr. Chaves.{nextpage_button}
+
+{{196}}
+{ponteiro: 1044180,974668}{bloco: 21}{name: 31}{color: 32768}
+{flash: 0, 1}{sfx: 21}!{wait: 16}{b}
+
+
+
+
+
+
+
+
+
+Espere aí...{nextpage_button}
+
+{{197}}
+{ponteiro: 1044320,1005660}{bloco: 97}{name: 31}{color: 32768}
+Sendo assim,{wait: 6} não é possível que{b}
+o assassino tenha deixado alguma{b}
+{flash: 0, 1}{shake: 1, 1}{sfx: 29}impressão digital dentro disso?!{nextpage_button}
+
+{{198}}
+{ponteiro: 1044460,997840}{bloco: 88}{name: 2}{color: 32768}
+Sinto muito informar,{wait: 6} mas parece{b}
+que nosso culpado tomou todo o{b}
+cuidado para não deixar rastros.{nextpage_button}
+
+{{199}}
+{ponteiro: 1044600,980536}{bloco: 59}{name: 31}{color: 32768}
+... Parece que estamos cara a{b}
+cara com um assassino gatuno.{nextpage_button}
+
+{{200}}
+{ponteiro: 1044740,1000324}{bloco: 90}{name: 31}{color: 32768}
+{flash: 0, 1}{sfx: 19}Pensando melhor,{wait: 6} é possível que o{b}
+tal inspetor seja inocente,{wait: 6} mesmo.{nextpage_button}
+
+{{201}}
+{ponteiro: 1046436,981276}{bloco: 60}{name: 2}{color: 32768}
+Tem um tanto de sangue do{b}
+Sr. Remew nesta lâmina.{nextpage_button}
+
+{{202}}
+{ponteiro: 1046576,992504}{bloco: 83}{name: 2}{color: 32768}
+Em virtude do meu cargo de{b}
+promotor,{wait: 6} imagino que eu já tenha{b}
+me acostumado com ver sangue...{nextpage_button}
+
+{{203}}
+{ponteiro: 1046716,977076}{bloco: 46}{name: 2}{color: 32768}
+Mas isso é irrelevante{b}
+neste momento!{nextpage_button}
+
+{{204}}
+{ponteiro: 1046872,981340}{bloco: 60}{name: 2}{color: 32768}
+Tem um tanto de sangue do{b}
+Sr. Remew nesta lâmina.{nextpage_button}
+
+{{205}}
+{ponteiro: 1047012,992588}{bloco: 83}{name: 2}{color: 32768}
+Em virtude do meu cargo de{b}
+promotor,{wait: 6} imagino que eu já tenha{b}
+me acostumado com ver sangue...{nextpage_button}
+
+{{206}}
+{ponteiro: 1047212,975036}{bloco: 28}{name: 35}{color: 32768}
+Mas que marca{b}
+é essa?{nextpage_button}
+
+{{207}}
+{ponteiro: 1047368,985964}{bloco: 73}{name: 2}{color: 32768}
+É uma gravura do{b}
+símbolo nacional do{b}
+Reino de Alebaste...{nextpage_button}
+
+{{208}}
+{ponteiro: 1047508,974788}{bloco: 23}{name: 2}{color: 32768}
+... que é uma flor.{nextpage_button}
+
+{{209}}
+{ponteiro: 1047648,992672}{bloco: 83}{name: 2}{color: 32768}
+Apesar de escondida pelo cabo,{wait: 6}{b}
+fica claro que a faca foi criada{b}
+tendo em mente o patriotismo.{nextpage_button}
+
+{{210}}
+{ponteiro: 1047880,983460}{bloco: 66}{name: 2}{color: 32768}
+Os olhos dessa estátua parecem{b}
+ser constituídos de uma pedra à{b}
+semelhança de uma joia.{nextpage_button}
+
+{{211}}
+{ponteiro: 1048020,994404}{bloco: 84}{name: 3}{color: 32768}
+Que lindas essas joias,{wait: 6} hein?{wait: 16}{b}
+Olha só como é forte esse{b}
+tom de {flash: 0, 1}{sfx: 21}{speed: 2}{color: 1}laranja{color: 0} nelas,{wait: 6} senhor!{nextpage_button}
+
+{{212}}
+{ponteiro: 1048160,986800}{bloco: 75}{name: 2}{color: 32768}
+Bem,{wait: 6} de acordo com o que{b}
+disse o Sr. Coblanc,{wait: 6} esta{b}
+estátua custa uma boa nota.{nextpage_button}
+
+{{213}}
+{ponteiro: 1048300,977380}{bloco: 48}{name: 3}{color: 32768}
+{sfx: 21}{flash: 0, 1}Nossa!{wait: 16}{b}
+Eu tive uma baita ideia,{wait: 6} agora!{nextpage_button}
+
+{{214}}
+{ponteiro: 1048456,991076}{bloco: 81}{name: 2}{color: 32768}
+As pedras no espaço dos olhos...{wait: 16}{b}
+foram criadas para que se{b}
+parecessem com joias autênticas.{nextpage_button}
+
+{{215}}
+{ponteiro: 1048596,976420}{bloco: 42}{name: 3}{color: 32768}
+Então quer dizer que elas...{wait: 10}{b}
+não são de {sfx: 19}{flash: 0, 1}verdade?{nextpage_button}
+
+{{216}}
+{ponteiro: 1048736,988388}{bloco: 78}{name: 2}{color: 32768}
+Acha mesmo que um farsante{b}
+gastaria todo esse dinheiro ao{b}
+criar uma falsificação?{nextpage_button}
+
+{{217}}
+{ponteiro: 1048876,983324}{bloco: 66}{name: 3}{color: 32768}
+Acho que não...{wait: 16}{b}
+{sfx: 21}{flash: 0, 1}ah!{wait: 16}{b}
+Eu tive uma baita ideia agora!{nextpage_button}
+
+{{218}}
+{ponteiro: 1049024,1003044}{bloco: 92}{name: 3}{color: 32768}
+Vou tentar achar uma brita num{b}
+terreno de construção,{wait: 6} dar uma{b}
+polida e ver se parece uma joia!{nextpage_button}
+
+{{219}}
+{ponteiro: 1049164,998484}{bloco: 88}{name: 3}{color: 32768}
+Se ficar bem parecida mesmo,{wait: 6}{b}
+vou dar uma de {wait: 8}{flash: 0, 1}{shake: 2, 2}{sfx: 29}presente pra{b}
+Giseli qualquer dia desses!{nextpage_button}
+
+{{220}}
+{ponteiro: 1049304,994492}{bloco: 84}{name: 2}{color: 32772}
+(Não sei bem se ele está sendo{b}
+irônico...{wait: 12} será que,{wait: 6} por via das{b}
+dúvidas,{wait: 10} eu deveria impedi-lo...?){nextpage_button}
+
+{{221}}
+{ponteiro: 1049524,978456}{bloco: 52}{name: 2}{color: 32768}
+Este sangue de coloração{b}
+avermelhada e escura...{wait: 16}{b}
+sim,{wait: 10} ele mesmo é a prova.{nextpage_button}
+
+{{222}}
+{ponteiro: 1049664,999312}{bloco: 89}{name: 2}{color: 32768}
+Prova de que as ordens deste{b}
+cartão foram concretizadas em{b}
+meio àquela tragédia {shake: 2, 2}{flash: 0, 1}{sfx: 14}horrível!{nextpage_button}
+
+{{223}}
+{ponteiro: 1049820,975292}{bloco: 32}{name: 2}{color: 32768}
+Segundo o Inspetor Durano...{nextpage_button}
+
+{{224}}
+{ponteiro: 1049960,990152}{bloco: 80}{name: 2}{color: 32768}
+... os cartões diretivos do{b}
+Embaixador Alba carregam a marca{b}
+de um corvo de três pernas...{nextpage_button}
+
+{{225}}
+{ponteiro: 1050100,975624}{bloco: 37}{name: 2}{color: 32768}
+... ou melhor dizendo,{wait: 6}{b}
+um "Yatagarasu".{nextpage_button}
+
+{{226}}
+{ponteiro: 1050240,990824}{bloco: 81}{name: 2}{color: 32768}
+Creio que essa marca tenha sido{b}
+a inspiração para que seu grupo se{b}
+chamasse justamente "Yatagarasu".{nextpage_button}
+
+{{227}}
+{ponteiro: 1050396,1002372}{bloco: 92}{name: 2}{color: 32768}
+Uma parte do texto foi oculta{b}
+pelo sangue,{wait: 6} mas é óbvio que{b}
+é uma escrita codopiana.{nextpage_button}
+
+{{228}}
+{ponteiro: 1050536,975328}{bloco: 32}{name: 2}{color: 32768}
+Segundo o Inspetor Durano...{nextpage_button}
+
+{{229}}
+{ponteiro: 1050676,974952}{bloco: 26}{name: 2}{color: 32768}
+... o que está escrito aqui é...{nextpage_button}
+
+{{230}}
+{ponteiro: 1050816,975260}{bloco: 31}{name: 2}{color: 32768}
+... "Silencie Lívia Teixeira"...{nextpage_button}
+
+{{231}}
+{ponteiro: 1050956,980296}{bloco: 58}{name: 2}{color: 32768}
+... junto ao método a ser{b}
+usado e a residência dela.{nextpage_button}
+
+{{232}}
+{ponteiro: 1051096,983800}{bloco: 67}{name: 2}{color: 32768}
+Apesar de ilegível,{wait: 6} a crueldade{b}
+deste texto não será relevada!{nextpage_button}
+
+{{233}}
+{ponteiro: 1051320,981916}{bloco: 63}{name: 2}{color: 32768}
+Foi essa a arma que{b}
+matou o Sr. Chaves{wait: 8}.{wait: 8}.{wait: 8}.{nextpage_button}
+
+{{234}}
+{ponteiro: 1051460,988468}{bloco: 79}{name: 2}{color: 32768}
+É linda a estilização de{b}
+ambos cabo e lâmina.{nextpage_button}
+
+{{235}}
+{ponteiro: 1051600,990068}{bloco: 80}{name: 31}{color: 32768}
+{flash: 0, 1}{sfx: 19}Veja só!{wait: 16}{b}
+Aqui nesta área dourada,{wait: 6} há{b}
+um adorno de formato florido.{nextpage_button}
+
+{{236}}
+{ponteiro: 1051740,985508}{bloco: 72}{name: 31}{color: 32768}
+Se isso não tivesse sido usado{b}
+para matar alguém,{wait: 6} eu bem{b}
+que gostaria de pegar para mim.{nextpage_button}
+
+{{237}}
+{ponteiro: 1051880,1000232}{bloco: 90}{name: 2}{color: 32772}
+(... {speed: 2}Ela parece ter gostado bastante{b}
+dos enfeites.{wait: 16} Eu até daria,{wait: 6} se esta{b}
+faca fosse minha.){nextpage_button}
+
+{{238}}
+{ponteiro: 1052072,978848}{bloco: 54}{name: 2}{color: 32768}
+É a arma que foi utilizada{b}
+para matar o Sr. Chaves...{nextpage_button}
+
+{{239}}
+{ponteiro: 1052212,988548}{bloco: 79}{name: 2}{color: 32768}
+Tanto o cabo quanto a lâmina{b}
+possuem estilizações belíssimas,{wait: 6}{b}
+feitas com muito esmero.{nextpage_button}
+
+{{240}}
+{ponteiro: 1052352,987028}{bloco: 76}{name: 2}{color: 32768}
+Provavelmente porque a faca{b}
+não foi criada tendo o intuito{b}
+de tirar a vida de outrem...{nextpage_button}
+
+{{241}}
+{ponteiro: 1052508,984276}{bloco: 68}{name: 3}{color: 32768}
+{flash: 0, 1}{shake: 1, 1}{sfx: 23}Aiiin!{wait: 16}{b}
+Tá cheio de sangue seco{b}
+nesse negócio aí,{wait: 6} chapa!{nextpage_button}
+
+{{242}}
+{ponteiro: 1052648,979576}{bloco: 56}{name: 2}{color: 32768}
+Bem{speed: 6}...{wait: 10}{b}
+{speed: 2}este foi o instrumento que{b}
+matou o Sr. Chaves{speed: 6}...{speed: 2}{nextpage_button}
+
+{{243}}
+{ponteiro: 1052788,1006760}{bloco: 100}{name: 3}{color: 32768}
+Dá pra ver que quem fez botou{b}
+{flash: 0, 1}{sfx: 19}muito esforço nos desenhos,{wait: 6} mas{b}
+é que esse sangue me dá medo...{nextpage_button}
+
+{{244}}
+{ponteiro: 1052928,1001796}{bloco: 92}{name: 2}{color: 32772}
+(Uma arma é apenas uma arma.{wait: 10}{b}
+Elas não devem ser descritas em{b}
+termos de beleza ou medo dado.){nextpage_button}
+
+{{245}}
+{ponteiro: 1053140,984492}{bloco: 68}{name: 2}{color: 32768}
+Para palitos de cabelo,{wait: 6} essas{b}
+coisas têm uma estilização até{b}
+que bem excêntricas...{nextpage_button}
+
+{{246}}
+{ponteiro: 1053280,974544}{bloco: 17}{name: 23}{color: 32768}
+Quê?{wait: 16}{b}
+Sério?{nextpage_button}
+
+{{247}}
+{ponteiro: 1053420,981020}{bloco: 60}{name: 23}{color: 32768}
+Bom,{wait: 6} se são TÃO estranhos{b}
+assim,{wait: 6} o que faço com eles?{nextpage_button}
+
+{{248}}
+{ponteiro: 1053560,974476}{bloco: 8}{name: 2}{color: 32768}
+Hmm...{nextpage_button}
+
+{{249}}
+{ponteiro: 1053700,991580}{bloco: 82}{name: 2}{color: 32772}
+(Não posso deixar de comentar{b}
+que esse é o par mais bizarro{b}
+de palitos de cabelo que já vi.){nextpage_button}
+
+{{250}}
+{ponteiro: 1053840,983052}{bloco: 66}{name: 2}{color: 32768}
+... De qualquer forma,{wait: 6} há algo{b}
+que quero lhe perguntar,{wait: 6} Taís.{nextpage_button}
+
+{{251}}
+{ponteiro: 1053980,987588}{bloco: 77}{name: 2}{color: 32768}
+Como você faz para deixar esse{b}
+seu palito de cabelo preso assim?{nextpage_button}
+
+{{252}}
+{ponteiro: 1054120,973012}{bloco: 3}{name: 23}{color: 32768}
+!{nextpage_button}
+
+{{253}}
+{ponteiro: 1054260,975196}{bloco: 30}{name: 23}{color: 32768}
+Isso é um............ segredo feminino!{nextpage_button}
+
+{{254}}
+{ponteiro: 1054400,975228}{bloco: 30}{name: 2}{color: 32772}
+(Parece que há algo de{b}
+podre no reino da Taís.){nextpage_button}
+
+{{255}}
+{ponteiro: 1054556,983596}{bloco: 67}{name: 23}{color: 32768}
+Ei!{wait: 16}{b}
+Olha só,{wait: 6} Sr. Spada!{wait: 10}{b}
+Tem terra aqui!{nextpage_button}
+
+{{256}}
+{ponteiro: 1054696,977952}{bloco: 52}{name: 23}{color: 32768}
+Essa sujeira deixa o palito{b}
+de cabelo bem mais feio!{nextpage_button}
+
+{{257}}
+{ponteiro: 1054836,974488}{bloco: 14}{name: 2}{color: 32768}
+Acho que sim...{nextpage_button}
+
+{{258}}
+{ponteiro: 1054976,986268}{bloco: 74}{name: 2}{color: 32772}
+(Mas qual é o sentido de haver{b}
+terra presa num palito de cabelo?){nextpage_button}
+
+{{259}}
+{ponteiro: 1055276,998576}{bloco: 88}{name: 3}{color: 32768}
+{shake: 1, 1}{flash: 0, 0}{sfx: 29}Uaaaau!{wait: 16}{b}
+Nossa,{wait: 6} que incrível,{wait: 6} senhor!{wait: 16}{b}
+Pareceu até mágica!{nextpage_button}
+
+{{260}}
+{ponteiro: 1055476,998760}{bloco: 88}{name: 2}{color: 32768}
+Nosso primeiro contato com esse{b}
+truque foi há sete anos,{wait: 6} e graças{b}
+a ele,{wait: 7} encurralamos a Srta. Teixeira.{nextpage_button}
+
+{{261}}
+{ponteiro: 1055616,991160}{bloco: 81}{name: 2}{color: 32768}
+Mas ninguém ia pensar que essa{b}
+chave fosse {shake: 1, 1}vir à tona depois de{b}
+ter passado todo esse tempo...{nextpage_button}
+
+{{262}}
+{ponteiro: 1055816,975664}{bloco: 37}{name: 2}{color: 32768}
+Esta chave...{wait: 10}{b}
+é a Chave do Yatagarasu...{nextpage_button}
+
+{{263}}
+{ponteiro: 1055956,987988}{bloco: 77}{name: 2}{color: 32768}
+... e seu objetivo primordial era de{b}
+poder abrir o cofre do Sr. Remew{b}
+na embaixada codopiana.{nextpage_button}
+
+{{264}}
+{ponteiro: 1056096,984564}{bloco: 68}{name: 2}{color: 32768}
+Comprovamos esse fato ao{b}
+abrir o dito cofre com ela.{nextpage_button}
+
+{{265}}
+{ponteiro: 1056276,980836}{bloco: 59}{name: 2}{color: 32768}
+
+Há um padrão de vinhas no{b}
+ornamento desta lâmina.{nextpage_button}
+
+{{266}}
+{ponteiro: 1056416,984140}{bloco: 67}{name: 2}{color: 32768}
+Apesar disso,{wait: 6} o Inspetor Gaspar{b}
+jura ver um {color: 1}padrão estrelado{color: 0} aí.{nextpage_button}
+
+{{267}}
+{ponteiro: 1056556,991244}{bloco: 81}{name: 2}{color: 32768}
+É bem complexa a estilização{b}
+que cobre toda a lâmina.{wait: 10}{b}
+Um espetáculo para os olhos...{nextpage_button}
+
+{{268}}
+{ponteiro: 1056696,995372}{bloco: 85}{name: 2}{color: 32768}
+... e quase impossível de acreditar{b}
+que foi isto o que extinguiu a{b}
+vida do Sr. Chaves há sete anos.{nextpage_button}
+
+{{269}}
+{ponteiro: 1056880,1000968}{bloco: 90}{name: 2}{color: 32768}
+Não é tão absurdo imaginar que{b}
+a ponta desta chave era para{b}
+se parecer com uma borboleta.{nextpage_button}
+
+{{270}}
+{ponteiro: 1057020,1004292}{bloco: 93}{name: 2}{color: 32768}
+O criador desta chave devia ser{b}
+patriota,{wait: 6} ao ponto de fazê-la{b}
+semelhante ao símbolo nacional.{nextpage_button}
+
+{{271}}
+{ponteiro: 1057240,1001336}{bloco: 91}{name: 3}{color: 32768}
+Como eu sempre digo,{wait: 10}{shake: 2, 2}{flash: 0, 1}{sfx: 29}{b}
+você tem que olhar bem{b}
+direitinho cada prova!{nextpage_button}
+
+{{272}}
+{ponteiro: 1057380,1008328}{bloco: 110}{name: 3}{color: 32768}
+Você pode usar os {color: 1}Discos de{b}
+Rolagem{color: 0} pra girar um objeto.{wait: 16}{b}
+{shake: 2, 2}{flash: 0, 1}{sfx: 29}Ninguém gosta de ângulo ruim!{nextpage_button}
+
+{{273}}
+{ponteiro: 1057520,1008440}{bloco: 111}{name: 3}{color: 32768}
+Usa a {color: 1}Barra de Rolagem{color: 0} ou as{b}
+{color: 1}Setas X e Y{color: 0} pra aproximar ou{b}
+afastar e ver os {flash: 0, 1}{sfx: 29}{shake: 2, 2}detalhezinhos!{nextpage_button}
+
+{{274}}
+{ponteiro: 1057780,978624}{bloco: 53}{name: 2}{color: 32772}
+(Parece que um disparo{b}
+foi efetuado desta arma.){nextpage_button}
+
+{{275}}
+{ponteiro: 1057920,1004676}{bloco: 95}{name: 3}{color: 32768}
+Caramba,{wait: 10} então o assassino matou{b}
+a vítima com um {flash: 0, 1}{sfx: 19}tiro só depois de{b}
+arrancar a arma dela?{nextpage_button}
+
+{{276}}
+{ponteiro: 1058060,983528}{bloco: 67}{name: 3}{color: 32768}
+Parece que o cara sabia como{b}
+segurar uma arma,{wait: 8} né,{wait: 8} Sr. Spada?{nextpage_button}
+
+{{277}}
+{ponteiro: 1058200,982984}{bloco: 65}{name: 2}{color: 32768}
+Não temos provas por ora,{wait: 10}{b}
+mas essa é uma possibilidade{b}
+nítida...{nextpage_button}
+
+{{278}}
+{ponteiro: 1058392,990908}{bloco: 81}{name: 2}{color: 32768}
+E pensar que é tão fácil tirar{b}
+uma vida com só um apertar{b}
+de gatilho{speed: 6}...{nextpage_button}
+
+{{279}}
+{ponteiro: 1058532,979240}{bloco: 55}{name: 3}{color: 32768}
+Sabe,{wait: 10} eu não consigo me{b}
+imaginar gostando de armas.{nextpage_button}
+
+{{280}}
+{ponteiro: 1058672,1002468}{bloco: 92}{name: 3}{color: 32768}
+{sfx: 21}{flash: 0, 1}Ah!{wait: 16} {speed: 2}Mas eu {shake: 1, 1}amo aquelas que{b}
+usam no atletismo pra dar a{b}
+largada na corrida!{nextpage_button}
+
+{{281}}
+{ponteiro: 1058812,1005260}{bloco: 96}{name: 3}{color: 32768}
+Se você sair antes de atirarem,{wait: 10}{flash: 0, 1}{sfx: 14}{speed: 1}{b}
+todo mundo sempre acaba te{b}
+{shake: 1, 1}seguindo!{nextpage_button}
+
+{{282}}
+{ponteiro: 1058952,981788}{bloco: 62}{name: 2}{color: 32768}
+... Para caçá-lo por ter dado{b}
+{flash: 0, 1}{sfx: 19}{speed: 2}uma largada falsa, Inspetor.{nextpage_button}
+
+{{283}}
+{ponteiro: 1059092,1003812}{bloco: 93}{name: 3}{color: 32768}
+{sfx: 21}{flash: 0, 1}
+Agora que você falou,{wait: 10} mesmo{b}
+quando termino em primeiro,{wait: 10} eu{b}
+sempre acabo ficando em último...{nextpage_button}
+
+{{284}}
+{ponteiro: 1059296,980416}{bloco: 58}{name: 2}{color: 32768}
+Este é o pingente da vítima.{wait: 10}{b}
+Tem a forma de um cavalo.{nextpage_button}
+
+{{285}}
+{ponteiro: 1059436,1001428}{bloco: 91}{name: 23}{color: 32768}
+Ele tem uma cara {shake: 1, 1}séria e honrada.{wait: 16}{b}
+{speed: 3}Talvez isso até deixe mais caro...{nextpage_button}
+
+{{286}}
+{ponteiro: 1059576,977028}{bloco: 46}{name: 23}{color: 32768}
+{flash: 0, 1}{sfx: 21}!{wait: 16}{b}
+
+
+
+
+
+Essa não,{wait: 6} {flash: 0, 1}{sfx: 29}{shake: 2, 2}Sr. Spada!{nextpage_button}
+
+{{287}}
+{ponteiro: 1059716,983188}{bloco: 66}{name: 2}{color: 32768}
+Q-{sfx: 19}{flash: 0, 1}quê?{wait: 16}{b}
+Você achou uma {shake: 1, 1}prova importante?{nextpage_button}
+
+{{288}}
+{ponteiro: 1059856,1004772}{bloco: 95}{name: 23}{color: 32768}
+Isso...{wait: 10}{b}
+é feito de {flash: 0, 1}{sfx: 21}{speed: 1}prata platinada!{wait: 16}{b}
+Esse treco aqui {flash: 0, 1}{sfx: 21}vale muito!{nextpage_button}
+
+{{289}}
+{ponteiro: 1059996,1001520}{bloco: 91}{name: 23}{color: 32768}
+Eu já vi um montão de lojas{b}
+vendendo joias parecidas com essa,{wait: 6}{b}
+daí eu {flash: 0, 1}reconheço quando vejo!{nextpage_button}
+
+{{290}}
+{ponteiro: 1060136,995284}{bloco: 85}{name: 2}{color: 32768}
+............ Taís,{wait: 6} se você tiver{b}
+encostado um dedo sequer{b}
+em qualquer joia dessas...{nextpage_button}
+
+{{291}}
+{ponteiro: 1060276,981404}{bloco: 60}{name: 23}{color: 32768}
+Q-{shake: 1, 1}quê?{wait: 16} Eu?{wait: 16}{b}
+E-eu nunca ia fazer{b}
+uma coisa dessas!{nextpage_button}
+
+{{292}}
+{ponteiro: 1060416,1004868}{bloco: 95}{name: 2}{color: 32772}
+(...... Será possível que ela{b}
+{sfx: 19}{flash: 0, 1}nunca tenha desejado roubar{b}
+nada de joalheria alguma?){nextpage_button}
+
+{{293}}
+{ponteiro: 1060572,976740}{bloco: 44}{name: 2}{color: 32768}
+Aqui,{wait: 6} está entalhado o{b}
+nome "Felipo Bordas".{nextpage_button}
+
+{{294}}
+{ponteiro: 1060712,984996}{bloco: 70}{name: 23}{color: 32768}
+Eu respeito {shake: 1, 1}demais o pessoal que{b}
+bota o nome deles em pingentes.{nextpage_button}
+
+{{295}}
+{ponteiro: 1060852,975744}{bloco: 38}{name: 2}{color: 32768}
+Mas como assim?{wait: 16}{b}
+Por que tamanho {sfx: 19}{flash: 0, 1}"respeito"?{nextpage_button}
+
+{{296}}
+{ponteiro: 1060992,976200}{bloco: 41}{name: 23}{color: 32768}
+Você nem imagina,{wait: 6} Sr. Spada.{nextpage_button}
+
+{{297}}
+{ponteiro: 1061132,997132}{bloco: 87}{name: 23}{color: 32768}
+Nunca passou nessa sua cabeça{b}
+que as pessoas gostam de ter{b}
+quem elas {flash: 0, 1}amam sempre por perto?{nextpage_button}
+
+{{298}}
+{ponteiro: 1061272,997220}{bloco: 87}{name: 2}{color: 32768}
+Deus me livre de pôr meu nome{b}
+em uma aliança de casamento,{wait: 6} ou{b}
+em qualquer {sfx: 19}{flash: 0, 1}acessório que seja...{nextpage_button}
+
+{{299}}
+{ponteiro: 1061412,998668}{bloco: 88}{name: 23}{color: 32768}
+Ai,{wait: 6} ai...{wait: 10} Tá legal.{wait: 16} Mas sabe de uma{b}
+coisa?{wait: 16} Eu também não quero meu{b}
+nome em bugiganga nenhuma,{wait: 10} não...{nextpage_button}
+
+{{300}}
+{ponteiro: 1061552,1005460}{bloco: 96}{name: 23}{color: 32768}
+Eu sou mais botar meu nome{b}
+em {flash: 0, 1}{sfx: 21}todos os tesouros que eu{b}
+conseguir nesse mundão afora!{nextpage_button}
+
+{{301}}
+{ponteiro: 1061692,995988}{bloco: 86}{name: 2}{color: 32772}
+(Um símbolo de afeição é uma{b}
+coisa,{wait: 6} mas vandalizar o patrimônio{b}
+alheio está em uma outra escala.){nextpage_button}
+
+{{302}}
+{ponteiro: 1061896,1006864}{bloco: 100}{name: 2}{color: 32768}
+Um pingente com o formato{b}
+de um par de asas.{wait: 16} Hmm...{wait: 16}{b}
+Como é bela a estética dele.{nextpage_button}
+
+{{303}}
+{ponteiro: 1062036,984852}{bloco: 69}{name: 23}{color: 32768}
+Nossa!{wait: 16}{b}
+É legal ver que {flash: 0, 1}{sfx: 21}até você{b}
+enxerga como ele é lindo!{nextpage_button}
+
+{{304}}
+{ponteiro: 1062176,1001612}{bloco: 91}{name: 23}{color: 32768}
+Tudo que é feito de {flash: 0, 1}prata{b}
+platinada passa um{b}
+{shake: 1, 1}sentimento muito legal,{wait: 6} né?{nextpage_button}
+
+{{305}}
+{ponteiro: 1062316,976788}{bloco: 45}{name: 2}{color: 32768}
+... Mas eu estava simplesmente{b}
+comentando o formato,{wait: 6} Taís.{nextpage_button}
+
+{{306}}
+{ponteiro: 1062456,992000}{bloco: 82}{name: 23}{color: 32768}
+{sfx: 19}{flash: 0, 1}Ah,{wait: 6} você tava{b}
+falando disso...?{wait: 16}{b}
+{shake: 1, 1}Er... mas sabe...{nextpage_button}
+
+{{307}}
+{ponteiro: 1062596,996076}{bloco: 86}{name: 23}{color: 32768}
+... se o assunto for silhuetas{b}
+com asas,{wait: 6} acho que o broche{b}
+do meu cachecol é mais legal!{nextpage_button}
+
+{{308}}
+{ponteiro: 1062736,979408}{bloco: 55}{name: 2}{color: 32768}
+Mas acontece que o seu{b}
+broche não é constituído{b}
+de {flash: 0, 1}prata platinada,{wait: 6} ou é?{nextpage_button}
+
+{{309}}
+{ponteiro: 1062876,997308}{bloco: 87}{name: 23}{color: 32768}
+... Ele foi feito à mão,{wait: 6} tá?{wait: 16}{b}
+{shake: 1, 1}Não tenho culpa se não dá pra{b}
+eu vender minha arte por milhões!{nextpage_button}
+
+{{310}}
+{ponteiro: 1063016,976156}{bloco: 40}{name: 2}{color: 32772}
+({sfx: 19}{flash: 0, 1}Ela mesma criou isso...?!){nextpage_button}
+
+{{311}}
+{ponteiro: 1063156,975784}{bloco: 38}{name: 2}{color: 32772}
+(... Que artesanato formidável...){nextpage_button}
+
+{{312}}
+{ponteiro: 1063312,977692}{bloco: 50}{name: 2}{color: 32768}
+{speed: 2}Este pingente está entalhado{b}
+com a escrita de {wait: 8}{speed: 3}"Pérola B.".{nextpage_button}
+
+{{313}}
+{ponteiro: 1063452,986116}{bloco: 73}{name: 23}{color: 32768}
+Entendi que escreveram o primeiro{b}
+nome dela todo,{wait: 8} mas por que{b}
+foram deixar justo o {sfx: 19}{flash: 0, 1}"B." sozinho?{nextpage_button}
+
+{{314}}
+{ponteiro: 1063592,976244}{bloco: 41}{name: 2}{color: 32768}
+Talvez seja uma consequência{b}
+do planejamento despreparado{b}
+de alguma equipe.{nextpage_button}
+
+{{315}}
+{ponteiro: 1063732,1005560}{bloco: 96}{name: 23}{color: 32768}
+Pode ser...{wait: 12}{b}
+bem,{wait: 6} ao menos se fossem abreviar{b}
+seu nome,{wait: 6} ele ficaria {flash: 0, 1}{sfx: 21}"E. Spada"!{nextpage_button}
+
+{{316}}
+{ponteiro: 1063872,997396}{bloco: 87}{name: 23}{color: 32768}
+Aí,{wait: 6} mesmo quando te{b}
+chamassem,{wait: 6} ia ter seu{b}
+sobrenome,{wait: 6} {shake: 1, 1}"Spada"!{nextpage_button}
+
+{{317}}
+{ponteiro: 1064012,998852}{bloco: 88}{name: 2}{color: 32768}
+Creio que se tivesse de abreviar,{wait: 6}{b}
+eu faria com meu nome completo,{wait: 6}{b}
+deixando-o como "E. S."...{nextpage_button}
+
+{{318}}
+{ponteiro: 1064152,997484}{bloco: 87}{name: 23}{color: 32768}
+Se é assim, {wait: 16}então também vou{b}
+abreviar meu nome como "T. C."!{wait: 12}{b}
+Quer {flash: 0, 1}{sfx: 29}{shake: 2, 2}"TC"?{wait: 16} Ha ha!{nextpage_button}
+
+{{319}}
+{ponteiro: 1064292,1004964}{bloco: 95}{name: 2}{color: 32772}
+(... Quem iria imaginar que{b}
+um mero pingente levantaria{b}
+um tópico tão peculiar...?){nextpage_button}
+
+{{320}}
+{ponteiro: 1064544,974644}{bloco: 20}{name: 2}{color: 32768}
+A tela está quebrada.{nextpage_button}
+
+{{321}}
+{ponteiro: 1064684,980356}{bloco: 58}{name: 2}{color: 32768}
+Na ausência dela,{wait: 6} nem mesmo{b}
+uma chamada pode ser{b}
+realizada com isto.{nextpage_button}
+
+{{322}}
+{ponteiro: 1064840,977588}{bloco: 49}{name: 2}{color: 32768}
+Este deve ser o botão{b}
+que abre o telefone...{nextpage_button}
+
+{{323}}
+{ponteiro: 1065024,974464}{bloco: 8}{name: 2}{color: 32768}
+Hmm...{nextpage_button}
+
+{{324}}
+{ponteiro: 1065180,974840}{bloco: 24}{name: 2}{color: 32768}
+Mas o que seria{b}
+este negocinho...?{nextpage_button}
+
+{{325}}
+{ponteiro: 1065336,975472}{bloco: 35}{name: 2}{color: 32768}
+{flash: 0, 1}{sfx: 21}Ah!{wait: 16}{b}
+É a lente de uma câmera!{nextpage_button}
+
+{{326}}
+{ponteiro: 1065476,974812}{bloco: 24}{name: 2}{color: 32768}
+Parando para pensar...{nextpage_button}
+
+{{327}}
+{ponteiro: 1065616,974524}{bloco: 16}{name: 2}{color: 32768}
+... não sei ao certo...{nextpage_button}
+
+{{328}}
+{ponteiro: 1065756,999404}{bloco: 89}{name: 2}{color: 32768}
+Qual seria a abordagem do Agente{b}
+Rhevez quanto à preservação da{b}
+cena do crime de um {flash: 0, 1}{sfx: 19}contrabando?{nextpage_button}
+
+{{329}}
+{ponteiro: 1065912,996956}{bloco: 87}{name: 2}{color: 32768}
+{shake: 2, 2}{flash: 0, 1}{sfx: 23}...!{wait: 16}{b}
+Quando eles começaram a pôr{b}
+teclados assim em telefones?{nextpage_button}
+
+{{330}}
+{ponteiro: 1066052,1005360}{bloco: 96}{name: 3}{color: 32768}
+Ei!{wait: 16} Esse aí é um daqueles{b}
+{sfx: 21}{flash: 0, 1}"celulares-computadores" que{b}
+inventaram faz pouco tempo!{nextpage_button}
+
+{{331}}
+{ponteiro: 1066192,975508}{bloco: 35}{name: 2}{color: 32768}
+... {sfx: 19}{flash: 0, 1}"Celulares-computadores"?{nextpage_button}
+
+{{332}}
+{ponteiro: 1066332,1004004}{bloco: 93}{name: 3}{color: 32768}
+Isso!{wait: 10} Tem um computador dentro,{wait: 10}{b}
+mas NÃO DEIXA de ser um {shake: 2, 2}{sfx: 29}celular!{wait: 16}{b}
+É bacana demais,{wait: 6} né,{wait: 6} Sr. Spada?{nextpage_button}
+
+{{333}}
+{ponteiro: 1066472,982372}{bloco: 64}{name: 2}{color: 32768}
+... Basta a parte do "telefone" em{b}
+um telefone celular.{wait: 16} E apenas isso.{nextpage_button}
+
+{{334}}
+{ponteiro: 1066612,999496}{bloco: 89}{name: 3}{color: 32768}
+Hmm...{wait: 16} Tô achando que o seu não{b}
+consegue nem mandar mensagens...{wait: 16}{b}
+deve ser bem inconveniente.{nextpage_button}
+
+{{335}}
+{ponteiro: 1066752,990320}{bloco: 80}{name: 2}{color: 32768}
+... Você tem algo contra o que é{b}
+ou não prioridade {flash: 0, 1}{sfx: 19}minha,{wait: 6} Inspetor?{nextpage_button}
+
+{{336}}
+{ponteiro: 1066920,982916}{bloco: 65}{name: 3}{color: 32768}
+Ah!{wait: 16} N-{shake: 1, 1}não,{wait: 16} senhor!{wait: 16}{b}
+Que nem aquela música:{wait: 16} "eu uso o{b}
+{shake: 1, 1}necessário,{wait: 16} somente o necessário!"{nextpage_button}
+
+{{337}}
+{ponteiro: 1067176,998944}{bloco: 88}{name: 2}{color: 32768}
+Nosso primeiro contato com esse{b}
+truque foi há sete anos,{wait: 6} e graças{b}
+a ele,{wait: 7} encurralamos a Srta. Teixeira.{nextpage_button}
+
+{{338}}
+{ponteiro: 1067316,991328}{bloco: 81}{name: 2}{color: 32768}
+Mas ninguém ia pensar que essa{b}
+chave fosse {shake: 1, 1}vir à tona depois de{b}
+ter passado todo esse tempo...{nextpage_button}
+
+{{339}}
+{ponteiro: 1067516,999036}{bloco: 88}{name: 2}{color: 32768}
+Nosso primeiro contato com esse{b}
+truque foi há sete anos,{wait: 6} e graças{b}
+a ele,{wait: 7} encurralamos a Srta. Teixeira.{nextpage_button}
+
+{{340}}
+{ponteiro: 1067656,991412}{bloco: 81}{name: 2}{color: 32768}
+Mas ninguém ia pensar que essa{b}
+chave fosse {shake: 1, 1}vir à tona depois de{b}
+ter passado todo esse tempo...{nextpage_button}
+
+{{341}}
+{ponteiro: 1067856,982440}{bloco: 64}{name: 2}{color: 32768}
+Façamos uma retrospectiva{b}
+sobre isto.{wait: 16} Esta é a{b}
+Chave do Yatagarasu...{nextpage_button}
+
+{{342}}
+{ponteiro: 1067996,988068}{bloco: 77}{name: 2}{color: 32768}
+... e seu objetivo primordial era de{b}
+poder abrir o cofre do Sr. Remew{b}
+na embaixada codopiana.{nextpage_button}
+
+{{343}}
+{ponteiro: 1068136,984636}{bloco: 68}{name: 2}{color: 32768}
+Comprovamos esse fato ao{b}
+abrir o dito cofre com ela.{nextpage_button}
+
+{{344}}
+{ponteiro: 1068276,978568}{bloco: 52}{name: 2}{color: 32768}
+Agora,{wait: 6} vamos dar uma olhada{b}
+na parte de trás desta chave.{nextpage_button}
+
+{{345}}
+{ponteiro: 1068416,979816}{bloco: 56}{name: 2}{color: 32768}
+Ao olhar a parte faca deste{b}
+ângulo,{wait: 6} o que você enxerga?{nextpage_button}
+
+{{346}}
+{ponteiro: 1068556,977432}{bloco: 48}{name: 4}{color: 32768}
+Mas do que você...{wait: 16}{b}
+{speed: 2}{flash: 0, 0}{shake: 1, 1}{sfx: 23}Aaah!{nextpage_button}
+
+{{347}}
+{ponteiro: 1068696,983936}{bloco: 67}{name: 2}{color: 32768}
+Você enfim tomou compreensão do{b}
+que estou falando,{wait: 6} aparentemente.{nextpage_button}
+
+{{348}}
+{ponteiro: 1068860,990488}{bloco: 80}{name: 2}{color: 32768}
+Quando vista deste ângulo,{wait: 6} a{b}
+lâmina da faca tem o mesmo{b}
+formato que a fechadura!{nextpage_button}
+
+{{349}}
+{ponteiro: 1069036,982044}{bloco: 63}{name: 2}{color: 32768}
+A Chave do Yatagarasu foi criada{b}
+para que pudesse abrir o cofre...{nextpage_button}
+
+{{350}}
+{ponteiro: 1069176,978792}{bloco: 53}{name: 2}{color: 32768}
+... no gabinete do secretariado{b}
+na Embaixada Babalesa.{nextpage_button}
+
+{{351}}
+{ponteiro: 1069316,984208}{bloco: 67}{name: 2}{color: 32768}
+E apesar de a lâmina parecer com{b}
+a de uma faca à primeira vista...{nextpage_button}
+
+{{352}}
+{ponteiro: 1069456,1000048}{bloco: 89}{name: 2}{color: 32768}
+... quando vista do ângulo correto,{wait: 6}{b}
+tem exatamente o mesmo formato{b}
+que a segunda fechadura do cofre.{nextpage_button}
+
+{{353}}
+{ponteiro: 1069596,995460}{bloco: 85}{name: 2}{color: 32768}
+
+Esta chave foi roubada pelo{b}
+Yatagarasu há sete anos,{wait: 6} em sua{b}
+invasão à embaixada codopiana...{nextpage_button}
+
+{{354}}
+{ponteiro: 1069736,990572}{bloco: 81}{name: 2}{color: 32768}
+... e isso indica que ela{b}
+foi criada enquanto Codopia{b}
+ainda era um estado legítimo.{nextpage_button}
+
+{{355}}
+{ponteiro: 1069900,1000140}{bloco: 90}{name: 2}{color: 32768}
+Não é tão absurdo imaginar que{b}
+a ponta desta chave era para{b}
+se parecer com uma borboleta.{nextpage_button}
+
+{{356}}
+{ponteiro: 1070040,1003332}{bloco: 93}{name: 2}{color: 32768}
+O criador desta chave devia ser{b}
+patriota,{wait: 6} ao ponto de fazê-la{b}
+semelhante ao símbolo nacional.{nextpage_button}
+
+{{357}}
+{ponteiro: 1070312,992924}{bloco: 83}{name: 2}{color: 32768}
+Hmm...{wait: 16} Parece que o Sr. Chaves{b}
+tinha o hábito de usar somente as{b}
+canetas-tinteiro de melhor qualidade.{nextpage_button}
+
+{{358}}
+{ponteiro: 1070452,1001704}{bloco: 91}{name: 31}{color: 32768}
+{flash: 0, 1}{sfx: 21}Você jura?{wait: 16} Porque o meu papai{b}
+usa umas canetas-tinteiro muito,{wait: 8}{b}
+mas muito melhores que esta.{nextpage_button}
+
+{{359}}
+{ponteiro: 1070592,993008}{bloco: 83}{name: 31}{color: 32768}
+Quando ele usa aquelas canetas{b}
+para assinar seu nome,{wait: 7} a rubrica{b}
+parece até uma obra de arte.{nextpage_button}
+
+{{360}}
+{ponteiro: 1070732,1006660}{bloco: 99}{name: 2}{color: 32772}
+(... Estou surpreso de saber que o{b}
+Sr. von Karma precisa assinar algo.{wait: 16}{b}
+Achei que ele teria o seu carimbo!){nextpage_button}
+
+{{361}}
+{ponteiro: 1070924,993092}{bloco: 83}{name: 2}{color: 32768}
+Hmm...{wait: 16} Parece que o Sr. Chaves{b}
+tinha o hábito de usar somente as{b}
+canetas-tinteiro de melhor qualidade.{nextpage_button}
+
+{{362}}
+{ponteiro: 1071080,993176}{bloco: 83}{name: 2}{color: 32768}
+Hmm...{wait: 16} Parece que o Sr. Chaves{b}
+tinha o hábito de usar somente as{b}
+canetas-tinteiro de melhor qualidade.{nextpage_button}
+
+{{363}}
+{ponteiro: 1071220,989908}{bloco: 79}{name: 3}{color: 32768}
+Eu sou o contrário disso aí!{wait: 16}{b}
+Já não tô entendendo {flash: 0, 1}{sfx: 19}nada...{nextpage_button}
+
+{{364}}
+{ponteiro: 1071360,986192}{bloco: 73}{name: 2}{color: 32768}
+Hmph...{wait: 16}{b}
+Sabe,{wait: 6} acredito que o lápis atrás de{b}
+sua orelha combina bem com você.{nextpage_button}
+
+{{365}}
+{ponteiro: 1071500,989988}{bloco: 79}{name: 3}{color: 32768}
+{flash: 0, 1}{sfx: 21}Sério?!{wait: 16} Achou isso mesmo,{wait: 6} chapa?!{wait: 16}{b}
+Mano,{wait: 6} eu sabia que ia ficar legal!{nextpage_button}
+
+{{366}}
+{ponteiro: 1071640,979352}{bloco: 55}{name: 2}{color: 32768}
+......... Isso que eu disse não foi{b}
+exatamente um elogio,{wait: 6} Inspetor.{nextpage_button}
+
+{{367}}
+{ponteiro: 1071840,976464}{bloco: 42}{name: 2}{color: 32768}
+Hmm...{wait: 16}{b}
+Esta ponta parece{b}
+ter boa qualidade.{nextpage_button}
+
+{{368}}
+{ponteiro: 1071980,985068}{bloco: 70}{name: 31}{color: 32768}
+{flash: 0, 1}{sfx: 21}Hmph.{wait: 16}{b}
+Bem,{wait: 6} é muito mais fácil escrever{b}
+usando a minha esferográfica.{nextpage_button}
+
+{{369}}
+{ponteiro: 1072120,997660}{bloco: 87}{name: 2}{color: 32768}
+... É óbvio que você ainda não{b}
+tem a idade para apreciar toda a{b}
+delicadeza de uma caneta-tinteiro.{nextpage_button}
+
+{{370}}
+{ponteiro: 1072260,977536}{bloco: 49}{name: 31}{color: 32768}
+{sfx: 21}!{wait: 16}{b}
+
+
+
+
+Não me trate como criança!{flash: 0, 1}{shake: 2, 2}{sfx: 29}{nextpage_button}
+
+{{371}}
+{ponteiro: 1072400,986952}{bloco: 75}{name: 2}{color: 32772}
+({shake: 2, 2}{flash: 0, 1}{sfx: 23}Nngh...!{wait: 16}{b}
+{speed: 3}Se você amadurecesse,{wait: 6}{b}
+daí eu não precisaria!){nextpage_button}
+
+{{372}}
+{ponteiro: 1072592,976376}{bloco: 42}{name: 2}{color: 32768}
+Hmm...{wait: 16}{b}
+Esta ponta parece{b}
+ter boa qualidade.{nextpage_button}
+
+{{373}}
+{ponteiro: 1072732,982172}{bloco: 63}{name: 2}{color: 32768}
+...{flash: 0, 1}{sfx: 21} Mas aposto que não é{b}
+nada comparada à ponta{b}
+de minha caneta de pena.{nextpage_button}
+
+{{374}}
+{ponteiro: 1072888,976508}{bloco: 42}{name: 2}{color: 32768}
+Hmm...{wait: 16}{b}
+Esta ponta parece{b}
+ter boa qualidade.{nextpage_button}
+
+{{375}}
+{ponteiro: 1073028,988148}{bloco: 77}{name: 3}{color: 32768}
+Ei,{wait: 6} deixa eu testar aí,{wait: 6} chapa!{wait: 16}{b}
+{flash: 0, 1}{sfx: 21}Uau...{wait: 16} isso é muito,{wait: 6} muito...{nextpage_button}
+
+{{376}}
+{ponteiro: 1073168,977484}{bloco: 48}{name: 3}{color: 32768}
+{flash: 0, 1}{shake: 1, 1}{sfx: 23}Argh!{wait: 16}{b}
+Eu sujei minha mão{b}
+toda de tinta!{nextpage_button}
+
+{{377}}
+{ponteiro: 1073308,1001060}{bloco: 91}{name: 2}{color: 32768}
+... Inspetor Gaspar.{wait: 16}{b}
+{speed: 1}{flash: 0, 1}{shake: 2, 2}{sfx: 29}NUNCA mais brinque com{b}
+nenhuma prova assim!{nextpage_button}
+
+{{378}}
+{ponteiro: 1073520,995636}{bloco: 86}{name: 2}{color: 32768}
+Então foi isto o que assassinou{b}
+o Sr. Remew...{wait: 16} um pouco de seu{b}
+sangue sobrou na lâmina.{nextpage_button}
+
+{{379}}
+{ponteiro: 1073660,1003524}{bloco: 93}{name: 3}{color: 32768}
+Nossa,{wait: 6} eu já sou inspetor faz{b}
+sete anos inteiros?{wait: 16} Já vi um{b}
+montão de armas nessa vida...{nextpage_button}
+
+{{380}}
+{ponteiro: 1073800,987748}{bloco: 77}{name: 3}{color: 32768}
+... mas facas usadas pra matar{b}
+alguém são sempre as mais{b}
+complicadas pra eu aguentar.{nextpage_button}
+
+{{381}}
+{ponteiro: 1073940,1001988}{bloco: 92}{name: 2}{color: 32768}
+Sim...{wait: 12} diferentemente das armas de{b}
+fogo,{wait: 8} é nas brancas onde há mais{b}
+chances de ter o sangue da vítima.{nextpage_button}
+
+{{382}}
+{ponteiro: 1074080,985212}{bloco: 71}{name: 3}{color: 32768}
+Pois é...{wait: 12}{b}
+que nem essa aqui,{wait: 6} que tá{b}
+ensopada dele,{wait: 6} né,{wait: 6} senhor?{nextpage_button}
+
+{{383}}
+{ponteiro: 1074220,987828}{bloco: 77}{name: 2}{color: 32772}
+(Apesar disso,{wait: 6} parece que o cabo{b}
+conseguiu fugir dos respingos,{wait: 6} de{b}
+alguma forma desconhecida.){nextpage_button}
+
+{{384}}
+{ponteiro: 1074412,996252}{bloco: 87}{name: 2}{color: 32768}
+Os detalhamentos deste{b}
+cabo são profissionais.{wait: 16}{b}
+Isto deve ser uma borboleta.{nextpage_button}
+
+{{385}}
+{ponteiro: 1074552,975824}{bloco: 39}{name: 3}{color: 32768}
+Os enfeites nessa faca{b}
+são mesmo uma lindeza.{nextpage_button}
+
+{{386}}
+{ponteiro: 1074692,986420}{bloco: 75}{name: 3}{color: 32768}
+Que alegria ver que nenhum sangue{b}
+respingou nessa borboleta perfeita.{nextpage_button}
+
+{{387}}
+{ponteiro: 1074832,986496}{bloco: 75}{name: 2}{color: 32768}
+Nem uma gota sequer a atingiu.{wait: 16}{b}
+Ela é mesmo um tanto bela.{nextpage_button}
+
+{{388}}
+{ponteiro: 1074972,982236}{bloco: 64}{name: 2}{color: 32768}
+Tão bela que até mesmo{b}
+você a consegue elogiar,{wait: 6}{b}
+Inspetor.{nextpage_button}
+
+{{389}}
+{ponteiro: 1075112,985812}{bloco: 73}{name: 3}{color: 32768}
+Ah,{wait: 6} por que é que você{b}
+vive {flash: 0, 0}{shake: 1, 1}{sfx: 29}caçoando dos meus{b}
+gostos,{wait: 6} senhor?!{nextpage_button}
+
+{{390}}
+{ponteiro: 1075252,978960}{bloco: 54}{name: 3}{color: 32768}
+Eu sei muito bem do que me atrai,{wait: 6}{b}
+e essa faca é bastante bem-feita!{nextpage_button}
+
+{{391}}
+{ponteiro: 1075392,976068}{bloco: 40}{name: 2}{color: 32772}
+(Por que será que eu fico{b}
+caçoando dos gostos dele...?){nextpage_button}
+
+{{392}}
+{ponteiro: 1075532,998116}{bloco: 88}{name: 2}{color: 32772}
+(Sabe como é,{wait: 6} meu caro inspetor,{wait: 6}{b}
+acontece que os seus gostos{b}
+costumam ser bem questionáveis...){nextpage_button}
+
+{{393}}
+{ponteiro: 1075672,975008}{bloco: 27}{name: 2}{color: 32768}
+{sfx: 21}{flash: 0, 0}!{wait: 16}{b}
+
+
+
+
+
+
+Esta faca...{nextpage_button}
+
+{{394}}
+{ponteiro: 1075812,978064}{bloco: 52}{name: 2}{color: 32768}
+Tudo indica que o {desconhecido_18: 2, 0, 1}cabo{b}
+desta faca é removível.{nextpage_button}
+
+{{395}}
+{ponteiro: 1075952,998208}{bloco: 88}{name: 3}{color: 32768}
+Acho que é pra que qualquer um{b}
+mude quando quiser.{wait: 6} Sabe,{wait: 6} só pra{b}
+brincar,{wait: 6} senhor!{nextpage_button}
+
+{{396}}
+{ponteiro: 1076092,986572}{bloco: 75}{name: 2}{color: 32772}
+(Acho que ninguém removeria o{b}
+cabo "só pra brincar",{wait: 6} Inspetor...){nextpage_button}
+
+{{397}}
+{ponteiro: 1076268,978680}{bloco: 53}{name: 2}{color: 32768}
+Os detalhamentos neste{b}
+cabo são majestosos.{nextpage_button}
+
+{{398}}
+{ponteiro: 1076408,981532}{bloco: 61}{name: 2}{color: 32768}
+Tudo indica que o cabo{b}
+desta faca é removível.{nextpage_button}
+
+{{399}}
+{ponteiro: 1076548,994932}{bloco: 85}{name: 3}{color: 32768}
+Acho que é pra que qualquer um{b}
+mude quando quiser.{wait: 6} Sabe,{wait: 6} só pra{b}
+brincar,{wait: 6} senhor!{nextpage_button}
+
+{{400}}
+{ponteiro: 1076688,986648}{bloco: 75}{name: 2}{color: 32772}
+(Acho que ninguém removeria o{b}
+cabo "só pra brincar",{wait: 6} Inspetor...){nextpage_button}
+
+{{401}}
+{ponteiro: 1076948,986724}{bloco: 75}{name: 23}{color: 32768}
+Hmm...{wait: 16}{b}
+Até que esse cara parece o{b}
+Samurai de Aço,{wait: 8} não parece?{nextpage_button}
+
+{{402}}
+{ponteiro: 1077088,995812}{bloco: 86}{name: 23}{color: 32768}
+Será que foi porque eles se{b}
+parecem que ele foi escolhido{b}
+como o embaixador da boa-fé?{nextpage_button}
+
+{{403}}
+{ponteiro: 1077228,977640}{bloco: 50}{name: 2}{color: 32768}
+Creio que seja possível.{wait: 16}{b}
+............ {sfx: 19}Quê?{nextpage_button}
+
+{{404}}
+{ponteiro: 1077368,989268}{bloco: 79}{name: 2}{color: 32768}
+Dê uma olhada nessa região em{b}
+volta da base de seu pescoço.{wait: 16}{b}
+Parece haver alguma fresta.{nextpage_button}
+
+{{405}}
+{ponteiro: 1077508,993876}{bloco: 84}{name: 23}{color: 32768}
+{sfx: 21}{flash: 0, 0}{shake: 1, 1}Ei!{wait: 16} É verdade!{wait: 16}{speed: 3}{b}
+Será que isso era pra{b}
+ser algum segredo?{nextpage_button}
+
+{{406}}
+{ponteiro: 1077648,987908}{bloco: 77}{name: 2}{color: 32768}
+Talvez seja possível abrir a{b}
+estátua por meio dessa fresta!{nextpage_button}
+
+{{407}}
+{ponteiro: 1077788,974740}{bloco: 22}{name: 34}{color: 32768}
+{shake: 1, 1}{flash: 0, 0}{sfx: 23}Como é que é...?!{nextpage_button}
+
+{{408}}
+{ponteiro: 1077928,976288}{bloco: 41}{name: 4}{color: 32768}
+{shake: 1, 1}{flash: 0, 0}{sfx: 29}Abra logo de uma vez,{wait: 8} Eduardo!{nextpage_button}
+
+{{409}}
+{ponteiro: 1078068,974868}{bloco: 24}{name: 2}{color: 32768}
+... Muito bem,{wait: 8} estou abrindo.{nextpage_button}
+
+{{410}}
+{ponteiro: 1078240,975164}{bloco: 29}{name: 23}{color: 32768}
+Uau!{wait: 12}{b}
+Abriu mesmo!{nextpage_button}
+
+{{411}}
+{ponteiro: 1078380,975944}{bloco: 39}{name: 23}{color: 32768}
+Ei,{wait: 8} que negócio é{b}
+esse que caiu aí?{nextpage_button}
+
+{{412}}
+{ponteiro: 1078520,984420}{bloco: 68}{name: 2}{color: 32768}
+Hm...{wait: 16}{b}
+Acredito que precisamos fazer{b}
+uma análise detalhada disto.{nextpage_button}
+
+{{413}}
+{ponteiro: 1078676,1004100}{bloco: 93}{name: 2}{color: 32768}
+Com sua espada sacada dessa{b}
+forma,{wait: 8} o Rei Primidux exala{b}
+uma aura de honra e bravura.{nextpage_button}
+
+{{414}}
+{ponteiro: 1078816,999772}{bloco: 89}{name: 23}{color: 32768}
+Ele ficou bem legal fazendo essa{b}
+pose,{wait: 8} com sua espada fincada no{b}
+chão à frente dele.{nextpage_button}
+
+{{415}}
+{ponteiro: 1078956,991832}{bloco: 82}{name: 23}{color: 32768}
+Talvez eu devesse inventar a{b}
+minha própria pose,{wait: 8} usando uma{b}
+shuriken ou coisa parecida!{nextpage_button}
+
+{{416}}
+{ponteiro: 1079096,995900}{bloco: 86}{name: 2}{color: 32772}
+(Sinceramente,{wait: 8} estou começando a{b}
+suspeitar que o verdadeiro objetivo{b}
+da vida dela seja virar uma ninja.){nextpage_button}
+
+{{417}}
+{ponteiro: 1079236,997044}{bloco: 87}{name: 34}{color: 32768}
+Ei,{wait: 8} Sr. Promotor...{wait: 16}{b}
+não tem nada de estranho{b}
+nessa espada aí,{wait: 8} ou tem?{nextpage_button}
+
+{{418}}
+{ponteiro: 1079376,994228}{bloco: 84}{name: 2}{color: 32768}
+Na verdade,{wait: 8} não exatamente.{wait: 16}{b}
+Acredito que devamos averiguar{b}
+uma outra região da estátua.{nextpage_button}
+
+{{419}}
+{ponteiro: 1079532,986040}{bloco: 73}{name: 2}{color: 32768}
+Um escudo,{wait: 8} hã...?{wait: 16}{b}
+Não parece haver nada{b}
+de tão incomum nele.{nextpage_button}
+
+{{420}}
+{ponteiro: 1079672,984004}{bloco: 67}{name: 23}{color: 32768}
+Eu acho que o cara tá é{b}
+querendo esconder alguma{b}
+coisa da gente!{nextpage_button}
+
+{{421}}
+{ponteiro: 1079812,985284}{bloco: 71}{name: 2}{color: 32768}
+Não creio que um significado{b}
+tão profundo assim deva,{wait: 8}{b}
+obrigatoriamente,{wait: 8} existir nisso.{nextpage_button}
+
+{{422}}
+{ponteiro: 1079952,999864}{bloco: 89}{name: 23}{color: 32768}
+Ah,{wait: 8} mas se é assim,{wait: 8} por que a{b}
+gente tá perdendo nosso tempo?{wait: 16}{b}
+Vamo procurar em outro canto!{nextpage_button}
+
+{{423}}
+{ponteiro: 1080108,975904}{bloco: 39}{name: 2}{color: 32768}
+Essas são as digitais{b}
+do Sr. Remew.{nextpage_button}
+
+{{424}}
+{ponteiro: 1080248,990404}{bloco: 80}{name: 2}{color: 32768}
+O fato de elas estarem aqui{b}
+sugere que esta estátua já{b}
+foi posse de Babal no passado.{nextpage_button}
+
+{{425}}
+{ponteiro: 1080388,977796}{bloco: 51}{name: 23}{color: 32768}
+Então quer dizer que passaram ela{b}
+de Babal pra Alebaste na entoca?{nextpage_button}
+
+{{426}}
+{ponteiro: 1080528,977848}{bloco: 51}{name: 2}{color: 32772}
+(Mas qual seria a necessidade de{b}
+passá-la de um país ao outro?){nextpage_button}
+
+{{427}}
+{ponteiro: 1080684,975400}{bloco: 34}{name: 2}{color: 32768}
+Mas o que raios...{wait: 16}{b}
+é isso...?!{nextpage_button}
+
+{{428}}
+{ponteiro: 1080920,974564}{bloco: 17}{name: 2}{color: 32768}
+...{flash: 0, 1}{sfx: 19} Nngh.{nextpage_button}
+
+{{429}}
+{ponteiro: 1081060,993700}{bloco: 84}{name: 34}{color: 32768}
+Ora,{wait: 8} ora,{wait: 8} o que temos aqui?{wait: 16}{b}
+Essa mancha de lodo...{wait: 16} não tá{b}
+com cara de marca de mão?{nextpage_button}
+
+{{430}}
+{ponteiro: 1081200,1001244}{bloco: 91}{name: 34}{color: 32768}
+{shake: 1, 1}He he he {shake: 1, 1}he he he...{wait: 16}{b}
+{flash: 0, 1}{shake: 2, 2}{sfx: 29}Haha{wait: 16}{speed: 1}hahaha{flash: 0, 1}{shake: 2, 2}{sfx: 29}hahaha{flash: 0, 1}{shake: 2, 2}{sfx: 29}ha!{nextpage_button}
+
+{{431}}
+{ponteiro: 1081340,982576}{bloco: 65}{name: 34}{color: 32768}
+O que uma provinha tão{b}
+irrefutável quanto você tá{b}
+fazendo escondidinha aí?!{nextpage_button}
+
+{{432}}
+{ponteiro: 1081480,978120}{bloco: 52}{name: 34}{color: 32768}
+Acho que tá na hora de{b}
+analisarmos umas digitais!{nextpage_button}
+
+{{433}}
+{ponteiro: 1081620,974584}{bloco: 18}{name: 2}{color: 32768}
+{flash: 0, 0}{shake: 1, 1}{sfx: 23}Gnrgh!{nextpage_button}
+
+{{434}}
+{ponteiro: 1081760,979636}{bloco: 56}{name: 2}{color: 32772}
+(Na pior das hipóteses,{wait: 8} as{b}
+digitais são do Mauro...){nextpage_button}
+
+{{435}}
+{ponteiro: 1081900,987108}{bloco: 76}{name: 2}{color: 32772}
+(Mas parece que já é tarde{b}
+para eu fazer qualquer coisa{b}
+sobre isso agora...!){nextpage_button}
+
+{{436}}
+{ponteiro: 1082056,995020}{bloco: 85}{name: 2}{color: 32768}
+Hmm...{wait: 16}{b}
+Mediante uma análise detalhada,{wait: 8} ele{b}
+parece mesmo o Samurai de Aço.{nextpage_button}
+
+{{437}}
+{ponteiro: 1082196,984780}{bloco: 69}{name: 44}{color: 32768}
+Aí, será que foi por isso que{b}
+escolheram ele pra ser o{b}
+embaixador da boa-fé?{nextpage_button}
+
+{{438}}
+{ponteiro: 1082336,977744}{bloco: 51}{name: 2}{color: 32768}
+Acho que eu...{wait: 16} não{b}
+tenho como rejeitar{b}
+essa sua hipótese.{nextpage_button}
+
+{{439}}
+{ponteiro: 1082476,991748}{bloco: 82}{name: 44}{color: 32768}
+Ou melhor:{wait: 10} a galera desta{b}
+Embaixada é muito,{wait: 6} muito fã{b}
+mesmo do Samurai de Aço.{nextpage_button}
+
+{{440}}
+{ponteiro: 1082616,975364}{bloco: 33}{name: 4}{color: 32768}
+Completamente absurdo.{nextpage_button}
+
+{{441}}
+{ponteiro: 1082756,1002180}{bloco: 92}{name: 2}{color: 32768}
+... Não acho ser tão improvável.{wait: 16}{b}
+Não podemos sair por aí e ficar{b}
+julgando a opinião alheia.{nextpage_button}
+
+{{442}}
+{ponteiro: 1082896,996428}{bloco: 87}{name: 4}{color: 32768}
+Ainda assim,{wait: 6} veja só como você{b}
+acaba de ignorar a minha...{wait: 16} não que{b}
+o porquê da escolha me interesse.{nextpage_button}
+
+{{443}}
+{ponteiro: 1083052,988228}{bloco: 78}{name: 2}{color: 32768}
+Com sua espada sacada dessa{b}
+forma,{wait: 8} o Rei Primidux exala{b}
+uma aura de honra e bravura.{nextpage_button}
+
+{{444}}
+{ponteiro: 1083192,985660}{bloco: 72}{name: 34}{color: 32768}
+Já dizia Lang Zi:{wait: 8}{b}
+"Aqueles que carregam uma espada{b}
+levam uma fortíssima determinação."{nextpage_button}
+
+{{445}}
+{ponteiro: 1083332,998300}{bloco: 88}{name: 34}{color: 32768}
+Dizem por aí que a arma de alguém{b}
+é a representação da força e da{b}
+coragem que esse alguém carrega.{nextpage_button}
+
+{{446}}
+{ponteiro: 1083472,987188}{bloco: 76}{name: 2}{color: 32768}
+Hmm...{wait: 16}{b}
+Será que isto foi criado só para{b}
+mostrar a majestosidade do país?{nextpage_button}
+
+{{447}}
+{ponteiro: 1083612,981148}{bloco: 60}{name: 44}{color: 32768}
+Rapaz,{wait: 6} então o que que o chicote{b}
+da Chica representa sobre ela?{nextpage_button}
+
+{{448}}
+{ponteiro: 1083752,988308}{bloco: 78}{name: 4}{color: 32768}
+Ele representa minha prontidão{b}
+contínua a dar um castigo cabível{b}
+àqueles que infringirem a lei.{nextpage_button}
+
+{{449}}
+{ponteiro: 1083892,1004580}{bloco: 95}{name: 44}{color: 32768}
+P-{wait: 8}{shake: 1, 1}{sfx: 29}por que tá me olhando com{b}
+essa cara?!{wait: 16} Eu já não te falei{b}
+que não matei ninguém,{wait: 6} não?!{nextpage_button}
+
+{{450}}
+{ponteiro: 1084032,995724}{bloco: 86}{name: 2}{color: 32768}
+Creio que ela acredite nisso,{wait: 6}{b}
+mas deseje aplicar um castigo{b}
+cabível antes de mais nada.{nextpage_button}
+
+{{451}}
+{ponteiro: 1084188,1005760}{bloco: 97}{name: 2}{color: 32768}
+Tem um escudo nas costas dele.{wait: 16}{b}
+Será que isso quer dizer que não{b}
+existem pontos cegos nele?{nextpage_button}
+
+{{452}}
+{ponteiro: 1084328,996516}{bloco: 87}{name: 34}{color: 32768}
+Já dizia Lang Zi:{wait: 16}{b}
+"Aqueles que levam um escudo nas{b}
+costas defendem-se dos inimigos."{nextpage_button}
+
+{{453}}
+{ponteiro: 1084468,987268}{bloco: 76}{name: 34}{color: 32768}
+Significa que ele já se preparou{b}
+pra qualquer ataque que tentem{b}
+fazer na retaguarda dele.{nextpage_button}
+
+{{454}}
+{ponteiro: 1084608,996604}{bloco: 87}{name: 2}{color: 32768}
+Agente Lang,{wait: 6} não há motivo algum{b}
+para vincular coisas supercomplexas{b}
+a algo tão simples assim.{nextpage_button}
+
+{{455}}
+{ponteiro: 1084748,1003620}{bloco: 93}{name: 34}{color: 32768}
+{shake: 1, 1}Ha ha!{wait: 16}{b}
+{speed: 2}Achei que você não entendeu o{b}
+dizer do Lang Zi,{wait: 6} aí eu expliquei.{nextpage_button}
+
+{{456}}
+{ponteiro: 1084888,1002276}{bloco: 92}{name: 2}{color: 32772}
+(Quando eu disse "supercomplexo",{wait: 6}{b}
+era justamente me referindo a{b}
+esse dizer,{wait: 8} para sua curiosidade.){nextpage_button}
+
+{{457}}
+{ponteiro: 1085172,979016}{bloco: 54}{name: 2}{color: 32768}
+Parece que esta mala foi criada e{b}
+idealizada pela própria Srta. Mozias.{nextpage_button}
+
+{{458}}
+{ponteiro: 1085312,979184}{bloco: 55}{name: 2}{color: 32768}
+Seu estilo tem um quê{b}
+de...{wait: 12} abstrato.{nextpage_button}
+
+{{459}}
+{ponteiro: 1085452,979936}{bloco: 57}{name: 2}{color: 32768}
+Sim...{wait: 16}{b}
+essa deve ser a {shake: 1, 1}melhor{b}
+forma de descrevê-lo...{nextpage_button}
+
+{{460}}
+{ponteiro: 1085644,994140}{bloco: 84}{name: 2}{color: 32768}
+{flash: 0, 1}{sfx: 19}Hmm,{wait: 6} parece estar destrancada.{wait: 16}{b}
+Vejamos o que há aqui dentro...{nextpage_button}
+
+{{461}}
+{ponteiro: 1085828,974716}{bloco: 21}{name: 2}{color: 32768}
+É um pano...{nextpage_button}
+
+{{462}}
+{ponteiro: 1085976,975984}{bloco: 39}{name: 2}{color: 32768}
+... que está {sfx: 21}{flash: 0, 1}encharcado de sangue!{nextpage_button}
+
+{{463}}
+{ponteiro: 1086236,982780}{bloco: 65}{name: 2}{color: 32768}
+Mas por que teria {flash: 0, 1}{sfx: 19}sangue{b}
+numa mala assim...?{nextpage_button}
+
+{{464}}
+{ponteiro: 1086392,976884}{bloco: 45}{name: 3}{color: 32768}
+Esse sangue é da vítima...{wait: 16}{b}
+não é mesmo,{wait: 6} senhor?{nextpage_button}
+
+{{465}}
+{ponteiro: 1086532,992756}{bloco: 83}{name: 2}{color: 32768}
+Eu imagino que sim,{wait: 6} mas a certeza{b}
+só chegará com análise da perícia.{nextpage_button}
+
+{{466}}
+{ponteiro: 1086672,981660}{bloco: 61}{name: 3}{color: 32768}
+Nossa,{wait: 6} que bom que ninguém{b}
+quis comprar essa mala!{nextpage_button}
+
+{{467}}
+{ponteiro: 1086812,974604}{bloco: 19}{name: 2}{color: 32768}
+...{sfx: 19}{flash: 0, 1} Como assim?{nextpage_button}
+
+{{468}}
+{ponteiro: 1086952,1000784}{bloco: 90}{name: 3}{color: 32768}
+Imagina a cara de espanto da{b}
+pessoa quando abrisse e um{b}
+cara {shake: 2, 2}{sfx: 29}morto saísse de dentro!{nextpage_button}
+
+{{469}}
+{ponteiro: 1087092,987508}{bloco: 77}{name: 2}{color: 32768}
+... De fato.{wait: 16}{b}
+{color: 2}(Embora não haja motivo algum{b}
+para ficar tão espantado assim.){nextpage_button}
+
+{{470}}
+{ponteiro: 1087256,979072}{bloco: 54}{name: 2}{color: 32768}
+Parece que esta mala foi criada e{b}
+idealizada pela própria Srta. Mozias.{nextpage_button}
+
+{{471}}
+{ponteiro: 1087396,979464}{bloco: 55}{name: 2}{color: 32768}
+Seu estilo tem um quê{b}
+de...{wait: 12} abstrato.{nextpage_button}
+
+{{472}}
+{ponteiro: 1087536,979876}{bloco: 57}{name: 2}{color: 32768}
+Sim...{wait: 16}{b}
+essa deve ser a {shake: 1, 1}melhor{b}
+forma de descrevê-lo...{nextpage_button}
+
+{{473}}
+{ponteiro: 1087728,978736}{bloco: 53}{name: 2}{color: 32768}
+Muito provavelmente,{wait: 6} este pano{b}
+esteve aqui,{wait: 6} junto ao cadáver...{nextpage_button}
+
+{{474}}
+{ponteiro: 1087868,977124}{bloco: 46}{name: 2}{color: 32768}
+{sfx: 29}{flash: 0, 1}Qual será a utilidade dessa mala?{nextpage_button}
+
+{{475}}
+{ponteiro: 1088024,1004196}{bloco: 93}{name: 3}{color: 32768}
+{flash: 0, 1}{sfx: 21}Se liga aqui,{wait: 6} senhor!{wait: 16}{b}
+Aposto que a mala foi{b}
+o {shake: 2, 2}{sfx: 29}esconderijo da vítima!{nextpage_button}
+
+{{476}}
+{ponteiro: 1088164,974896}{bloco: 25}{name: 2}{color: 32768}
+... C-{sfx: 19}{flash: 0, 1}como é que é?{nextpage_button}
+
+{{477}}
+{ponteiro: 1088304,1004484}{bloco: 94}{name: 3}{color: 32768}
+Ah,{wait: 6} você sabe!{wait: 16} Entrar de penetra{b}
+no avião,{wait: 6} senhor!{wait: 16} Ele devia estar{b}
+aqui dentro {sfx: 29}{shake: 2, 2}desde o começo!{nextpage_button}
+
+{{478}}
+{ponteiro: 1088444,987428}{bloco: 76}{name: 3}{color: 32768}
+Mas alguém acabou{b}
+descobrindo,{wait: 6} e aí {sfx: 29}{shake: 2, 2}PÁ!{wait: 10}{b}
+{sfx: 19}Mataram ele!{nextpage_button}
+
+{{479}}
+{ponteiro: 1088584,983392}{bloco: 66}{name: 3}{color: 32768}
+Na verdade,{wait: 6} essa foi a história de{b}
+um filme que eu vi um tempo atrás!{nextpage_button}
+
+{{480}}
+{ponteiro: 1088724,989348}{bloco: 79}{name: 2}{color: 32768}
+Inspetor Gaspar...{wait: 16}{b}
+desligue-se da ficção e{b}
+volte para a realidade!{nextpage_button}
+
+{{481}}
+{ponteiro: 1088888,986344}{bloco: 74}{name: 2}{color: 32772}
+(Mas o {sfx: 19}{flash: 0, 1}que é isto?{wait: 16}{b}
+A roda está toda{b}
+coberta de algo...){nextpage_button}
+
+{{482}}
+{ponteiro: 1089028,998392}{bloco: 88}{name: 2}{color: 32772}
+(Esta cor e este cheiro...{wait: 16}{b}
+Aparentemente,{wait: 6} a substância{b}
+em questão é suco de uva.){nextpage_button}
+
+{{483}}
+{ponteiro: 1089168,984072}{bloco: 67}{name: 2}{color: 32772}
+(Mas {flash: 0, 1}{sfx: 19}por que haveria suco de{b}
+uva na roda de uma mala?){nextpage_button}
+
+{{484}}
+{ponteiro: 1089324,994316}{bloco: 84}{name: 2}{color: 32768}
+Uma etiqueta de preço com{b}
+R$ 1.200...{wait: 16} eu diria que os cálculos{b}
+foram feitos por algum lunático.{nextpage_button}

@@ -1,0 +1,22 @@
+﻿{{0}}
+{ponteiro: 788,116}{bloco: 69}{name: 0}{color: 6}
+{margem: 71}14 de Março, 2:05{b}
+{margem: 75}Ministério Público{b}
+{margem: 56}Corredor do 12º Andar{nextpage_button}
+
+{{1}}
+{ponteiro: 1480,188}{bloco: 78}{name: 2}{color: 4}
+(Mal consigo acreditar que eu{b}
+estive longe do meu gabinete{b}
+por um mês inteiro.){nextpage_button}
+
+{{2}}
+{ponteiro: 1708,268}{bloco: 91}{name: 2}{color: 4}
+(Espero que o Inspetor Gaspar{b}
+tenha cuidado bem dele.{wait: 16}{b}
+E o mantido limpo.){nextpage_button}
+
+{{3}}
+{ponteiro: 2204,60}{bloco: 53}{name: 2}{color: 4}
+({flash: 0, 1}{sfx: 19}Mas o quê{speed: 6}...?{wait: 16}{b}
+{speed: 3}A porta está aberta{speed: 6}...){nextpage_button}

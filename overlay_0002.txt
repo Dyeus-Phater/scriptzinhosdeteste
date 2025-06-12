@@ -1,0 +1,82 @@
+﻿{{0}}
+{ponteiro: 1348,128}{bloco: 26}{name: 2}{color: 0}
+Inspetor Gaspar{speed: 6}...?{nextpage_button}
+
+{{1}}
+{ponteiro: 1520,748}{bloco: 99}{name: 2}{color: 4}
+({flash: 0, 1}{sfx: 19}Hm?{wait: 16} Que cheiro é esse...?{wait: 20}{b}
+Parece-me familiar{wait: 8}.{wait: 8}.{wait: 8}.{wait: 16}{flash: 0, 1}{sfx: 19}{color: 1}{music: 14} Sangue{color: 2}?){nextpage_button}
+
+{{2}}
+{ponteiro: 1960,184}{bloco: 32}{name: 2}{color: 4}
+(M-{shake: 2, 2}{flash: 0, 1}{wait: 16}mas o quê?!{shake: 2, 2}){nextpage_button}
+
+{{3}}
+{ponteiro: 2432,336}{bloco: 42}{name: 2}{color: 0}
+{shake: 2, 2}{flash: 0, 1}Mas o que significa isso{shake: 2, 2}?!{nextpage_button}
+
+{{4}}
+{ponteiro: 2712,40}{bloco: 9}{name: 1}{color: 0}
+Não mexa um músculo.{nextpage_button}
+
+{{5}}
+{ponteiro: 3568,104}{bloco: 20}{name: 2}{color: 0}
+Identifique-se.{nextpage_button}
+
+{{6}}
+{ponteiro: 3748,220}{bloco: 35}{name: 1}{color: 0}
+..................{wait: 16}{b}
+{speed: 3}Cale a sua boca.{nextpage_button}
+
+{{7}}
+{ponteiro: 3928,580}{bloco: 77}{name: 2}{color: 0}
+Hmph.{wait: 16} Você é mesmo audacioso,{wait: 6}{b}
+vindo ao gabinete de um promotor{b}
+com a finalidade de um homicídio.{nextpage_button}
+
+{{8}}
+{ponteiro: 4376,84}{bloco: 19}{name: 2}{color: 0}
+Isso foi uma ameaça?{nextpage_button}
+
+{{9}}
+{ponteiro: 4548,32}{bloco: 5}{name: 1}{color: 0}
+...{nextpage_button}
+
+{{10}}
+{ponteiro: 4940,292}{bloco: 41}{name: 2}{color: 0}
+...{speed: 3} Permita-me elucidar algo.{nextpage_button}
+
+{{11}}
+{ponteiro: 5112,52}{bloco: 14}{name: 1}{color: 0}
+{flash: 0, 0}{sfx: 19}O que é?{nextpage_button}
+
+{{12}}
+{ponteiro: 5284,440}{bloco: 66}{name: 2}{color: 0}
+Ninguém comete um homicídio{b}
+em meu gabinete e se safa.{wait: 16}{b}
+Ninguém.{nextpage_button}
+
+{{13}}
+{ponteiro: 5456,68}{bloco: 14}{name: 1}{color: 0}
+............{nextpage_button}
+
+{{14}}
+{ponteiro: 5964,256}{bloco: 35}{name: 2}{color: 0}
+Meu nome é {color: 1}Eduardo Spada{color: 0}.{nextpage_button}
+
+{{15}}
+{ponteiro: 6136,380}{bloco: 56}{name: 2}{color: 0}
+E trabalho como um {color: 1}promotor{color: 0} no{b}
+fórum local.{nextpage_button}
+
+{{16}}
+{ponteiro: 6308,508}{bloco: 71}{name: 2}{color: 0}
+Mal sabia eu que minha volta{b}
+para casa após ter um árduo{b}
+mês no exterior{speed: 6}...{nextpage_button}
+
+{{17}}
+{ponteiro: 6480,660}{bloco: 86}{name: 2}{color: 0}
+... fosse trazer-me uma infinidade{b}
+de casos,{wait: 6} junto a alguns dias{b}
+conturbados e deveras agitados.{nextpage_button}

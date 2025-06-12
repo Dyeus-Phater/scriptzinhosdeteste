@@ -1,0 +1,2047 @@
+﻿{{0}}
+{ponteiro: 30296,16728}{bloco: 84}{name: 2}{color: 32768}
+Por "mensagem de morte",{wait: 6}{b}
+você se refere às letras em{b}
+sangue que dizem {wait: 8}"Gaspar"{desconhecido_20: 91}...?{nextpage_button}
+
+{{1}}
+{ponteiro: 30764,9328}{bloco: 70}{name: 29}{color: 32768}
+Eu percebi que quem escreveu o{b}
+nome dele devia estar querendo{b}
+armar pra ele.{nextpage_button}
+
+{{2}}
+{ponteiro: 30992,20072}{bloco: 90}{name: 29}{color: 32768}
+E só de escolher o nome dele já é{b}
+prova suficiente de que os dois se{b}
+conheciam muito bem.{nextpage_button}
+
+{{3}}
+{ponteiro: 31612,3252}{bloco: 50}{name: 2}{color: 32768}
+E por que o Inspetor{b}
+Gaspar faria tal coisa?{nextpage_button}
+
+{{4}}
+{ponteiro: 32080,22624}{bloco: 94}{name: 29}{color: 32768}
+Porque o corpo estava no meio do{b}
+caminho.{wait: 16} Ele tinha que bagunçar a{b}
+sua estante de algum jeito, né?{nextpage_button}
+
+{{5}}
+{ponteiro: 32308,116}{bloco: 17}{name: 29}{color: 32768}
+Enfim{speed: 5}{desconhecido_20: 93}...{nextpage_button}
+
+{{6}}
+{ponteiro: 33140,14184}{bloco: 81}{name: 2}{color: 32768}
+Eu concordo que a motivação{b}
+do culpado pareça ser roubo,{wait: 6}{b}
+porém{desconhecido_20: 91}...{nextpage_button}
+
+{{7}}
+{ponteiro: 33472,21088}{bloco: 92}{name: 29}{color: 32768}{shake: 1, 1}{flash: 0, 1}{sfx: 21}
+Fico feliz em ouvir que o{b}
+grandioso Eduardo Spada{b}
+concorda com o carinha aqui.{nextpage_button}
+
+{{8}}
+{ponteiro: 33804,13680}{bloco: 80}{name: 2}{color: 32768}
+Contudo,{wait: 8} em relação à investigação{b}
+das estantes e do cofre{desconhecido_20: 91}...{nextpage_button}
+
+{{9}}
+{ponteiro: 34136,8536}{bloco: 68}{name: 29}{color: 32768}{flash: 0, 1}{sfx: 21}
+Opa!{wait: 16} Boa ideia,{wait: 6} pedindo a{b}
+minha opinião no assunto!{nextpage_button}
+
+{{10}}
+{ponteiro: 34468,22720}{bloco: 94}{name: 2}{color: 32768}
+...{wait: 16}{desconhecido_1F: 91}{desconhecido_10: 1, 14, 0}{speed: 3} Seria pedir demais para que{b}
+me deixasse completar uma frase?{nextpage_button}
+
+{{11}}
+{ponteiro: 35348,4836}{bloco: 58}{name: 2}{color: 32768}
+Você está dizendo que{b}
+essas letras eram para{b}
+você?{nextpage_button}
+
+{{12}}
+{ponteiro: 35816,24608}{bloco: 100}{name: 29}{color: 32768}
+{flash: 0, 1}{sfx: 21}Sim.{wait: 16} O Tite era um inspetor{b}
+excepcional.{wait: 16} Eu não esperaria{b}
+menos do meu antigo parceiro.{nextpage_button}
+
+{{13}}
+{ponteiro: 36284,4656}{bloco: 58}{name: 2}{color: 32772}
+(Parece que o Sr. Portivo{b}
+ainda não entende...){nextpage_button}
+
+{{14}}
+{ponteiro: 36512,11592}{bloco: 76}{name: 2}{color: 32772}
+(Ele ainda precisa compreender o{b}
+{flash: 0, 0}verdadeiro significado por trás das{b}
+letras em sangue.){nextpage_button}
+
+{{15}}
+{ponteiro: 36844,25336}{bloco: 102}{name: 29}{color: 32768}
+O que você tá gaguejando aí?{wait: 16}{b}
+{flash: 0, 1}{sfx: 21}{desconhecido_10: 93, 95, 2}Não dá pra admitir que a minha{b}
+lógica é perfeita?{nextpage_button}
+
+{{16}}
+{ponteiro: 37576,6684}{bloco: 64}{name: 2}{color: 32768}
+Não acha que é um pouco cedo{b}
+para se chegar a conclusões?{nextpage_button}
+
+{{17}}
+{ponteiro: 38044,18600}{bloco: 88}{name: 29}{color: 32768}
+Você tá dizendo que tem outra{b}
+forma de{wait: 8} abrir a porta sem a{b}
+chave mestra?{nextpage_button}
+
+{{18}}
+{ponteiro: 38272,10056}{bloco: 72}{name: 29}{color: 32768}{flash: 0, 1}{sfx: 21}
+Ah,{wait: 6} entendi.{wait: 24}{b}
+Talvez você tenha feito uma{b}
+chave reserva pra outra pessoa?{nextpage_button}
+
+{{19}}
+{ponteiro: 38604,16640}{bloco: 84}{name: 2}{color: 32768}{flash: 0, 1}{sfx: 19}
+Para o seu conhecimento,{wait: 6}{b}
+eu nunca fiz uma chave reserva,{wait: 6}{b}
+então o que está insinuando?{nextpage_button}
+
+{{20}}
+{ponteiro: 38936,21856}{bloco: 93}{name: 29}{color: 32768}
+Nada.{wait: 16}{shake: 1, 1} Acho que eu deveria ter{b}
+pensado melhor antes de sugerir{b}
+que alguém como você faria isso.{nextpage_button}
+
+{{21}}
+{ponteiro: 39908,16032}{bloco: 83}{name: 2}{color: 32768}
+Talvez você não esteja ciente,{wait: 6}{b}
+Sr. Portivo,{wait: 6} mas há uma falha{b}
+grave em sua lógica.{nextpage_button}
+
+{{22}}
+{ponteiro: 40376,23400}{bloco: 96}{name: 29}{color: 32768}{sfx: 21}{flash: 0, 1}
+Ha,{wait: 6} trazendo um pouco{b}
+do tribunal pra cá,{wait: 6} entendi.{wait: 16}{b}
+{shake: 1, 1}Sem problema,{wait: 6}{shake: 1, 1} tô dentro!{nextpage_button}
+
+{{23}}
+{ponteiro: 40716,1600}{bloco: 39}{name: 2}{color: 32768}
+Eu não consigo {wait: 8}não{b}
+achar isso estranho{desconhecido_20: 91}...{nextpage_button}
+
+{{24}}
+{ponteiro: 41056,176}{bloco: 19}{name: 29}{color: 32768}
+{flash: 0, 1}{sfx: 19}Como é?{nextpage_button}
+
+{{25}}
+{ponteiro: 41396,21664}{bloco: 93}{name: 2}{color: 32768}
+Estranho que um colega {wait: 4}{music: 11}{wait: 4}de carreira{b}
+seja derrubado pelo poder de seu{b}
+próprio gabinete.{nextpage_button}
+
+{{26}}
+{ponteiro: 41736,27304}{bloco: 124}{name: 29}{color: 32768}
+{shake: 2, 2}D-{wait: 12}{speed: 3}{flash: 0, 1}{sfx: 23}{shake: 2, 2}do que você tá falando?!{wait: 16}{desconhecido_20: 93}{b}
+... {desconhecido_1F: 93}Ah,{wait: 6} você tá zoando,{wait: 6} entendi{desconhecido_20: 93}...!{wait: 16}{shake: 1, 1}{wait: 8}{desconhecido_1F: 93}{b}
+Ha ha ha.{nextpage_button}
+
+{{27}}
+{ponteiro: 42076,21760}{bloco: 93}{name: 2}{color: 32768}
+Se você tem tempo para rir,{wait: 6}{b}
+também tem tempo para dar{b}
+uma outra olhada melhor nisto.{nextpage_button}
+
+{{28}}
+{ponteiro: 42692,15192}{bloco: 82}{name: 2}{color: 32768}
+Tem alguém nesta cidade que{b}
+não tenha sequer ouvido falar{b}
+do Inspetor Gaspar?{nextpage_button}
+
+{{29}}
+{ponteiro: 43160,8180}{bloco: 67}{name: 29}{color: 32768}
+Faz sentido.{wait: 16} Ele é praticamente uma{b}
+celebridade entre nós,{wait: 6} promotores.{nextpage_button}
+
+{{30}}
+{ponteiro: 43544,15360}{bloco: 82}{name: 3}{color: 32768}{flash: 0, 1}{sfx: 21}
+Sério?!{wait: 16}{shake: 1, 1}{b}
+Nem eu sabia que eu era{b}
+{speed: 6}tão falado assim,{wait: 6}{speed: 2}{flash: 0, 0}{shake: 2, 2}{sfx: 29} senhor!{nextpage_button}
+
+{{31}}
+{ponteiro: 43884,2940}{bloco: 48}{name: 29}{color: 32768}
+A gente só tá no{b}
+compasso de espera,{wait: 6}{b}
+sabe.{nextpage_button}
+
+{{32}}
+{ponteiro: 44112,13272}{bloco: 79}{name: 29}{color: 32768}
+Pra quando você se der{b}
+tão mal que {speed: 3}vão literalmente{b}
+te enxotar da corporação.{nextpage_button}
+
+{{33}}
+{ponteiro: 44496,17432}{bloco: 86}{name: 3}{color: 32768}
+{shake: 2, 2}{sfx: 37}{flash: 0, 1}P-{wait: 8}pera aí,{wait: 6} É O QUÊ?!{wait: 24} {desconhecido_10: 92, 82, 0}{shake: 1, 1}{b}
+ISSO É VERDADE,{wait: 16}{flash: 0, 0}{shake: 2, 2}{sfx: 29} SR. SPADA?!{nextpage_button}
+
+{{34}}
+{ponteiro: 44724,16116}{bloco: 83}{name: 2}{color: 32768}{desconhecido_20: 91}
+............{desconhecido_1F: 91}{b}
+{speed: 3}{desconhecido_10: 91, 6, 0}{desconhecido_1F: 91}C-{wait: 8}{shake: 1, 1}claro que não.{wait: 16}{b}
+I-{wait: 8}{shake: 1, 1}isso é baboseira!{nextpage_button}
+
+{{35}}
+{ponteiro: 44952,18784}{bloco: 88}{name: 3}{color: 32768}
+{shake: 1, 1}Ufa{desconhecido_20: 92}...{desconhecido_1F: 92} não me assusta assim!{wait: 16}{b}
+Eu quase tive um troço aqui{desconhecido_20: 92}...{nextpage_button}
+
+{{36}}
+{ponteiro: 45840,13352}{bloco: 79}{name: 2}{color: 32768}
+Você realmente acha que era{b}
+necessário desarrumar minhas{b}
+estantes duas vezes para isso?{nextpage_button}
+
+{{37}}
+{ponteiro: 46308,15024}{bloco: 82}{name: 29}{color: 32768}
+É verdade{speed: 5}{desconhecido_20: 93}... {desconhecido_1F: 93}tá,{flash: 0, 1}{sfx: 21}{desconhecido_10: 93, 95, 2}{speed: 2} então talvez sua{b}
+verdadeira intenção fosse mesmo{b}
+o roubo.{nextpage_button}
+
+{{38}}
+{ponteiro: 46648,15864}{bloco: 83}{name: 3}{color: 32768}
+Ei!{wait: 16} Você tá me acusando{b}
+{sfx: 23}{flash: 0, 1}{shake: 2, 2}de roubar alguma coisa{b}
+do Sr. Spada?!{nextpage_button}
+
+{{39}}
+{ponteiro: 47116,336}{bloco: 21}{name: 29}{color: 32768}
+É uma possibilidade.{nextpage_button}
+
+{{40}}
+{ponteiro: 47344,23008}{bloco: 95}{name: 29}{color: 32768}
+Talvez seu salário tenha sido{b}
+tão cortado que a vida esteja{b}
+um pouco difícil agora{desconhecido_20: 93}...?{nextpage_button}
+
+{{41}}
+{ponteiro: 47684,11752}{bloco: 77}{name: 3}{color: 32768}
+Só pra que você saiba,{wait: 6}{b}
+{sfx: 23}{flash: 0, 1}{shake: 2, 2}eu como três pratões de{b}
+comida todo dia,{wait: 6} chapa!{nextpage_button}
+
+{{42}}
+{ponteiro: 47912,13112}{bloco: 79}{name: 3}{color: 32768}{desconhecido_20: 91}
+...{desconhecido_1F: 91} Tá,{wait: 6}{speed: 3} acontece que os{b}
+três são de {shake: 1, 1}miojo,{wait: 6} mas...{nextpage_button}
+
+{{43}}
+{ponteiro: 48252,20808}{bloco: 91}{name: 29}{color: 32768}
+Coitadinho.{wait: 16} Que promotor malvadão{b}
+arranjaram pra você.{wait: 16} E que motivo{b}
+bom,{wait: 6} não acha?{nextpage_button}
+
+{{44}}
+{ponteiro: 49084,19336}{bloco: 89}{name: 2}{color: 32768}
+Eu achei que já havíamos {flash: 0, 1}{sfx: 19}{desconhecido_1F: 91}{b}
+determinado clarissimamente{b}
+a inocência do Inspetor Gaspar.{nextpage_button}
+
+{{45}}
+{ponteiro: 49416,8464}{bloco: 68}{name: 29}{color: 32768}
+Foi só uma teoria,{wait: 6}{b}
+uma hipótese dentro de{b}
+um mar de possibilidades.{nextpage_button}
+
+{{46}}
+{ponteiro: 49708,8608}{bloco: 69}{name: 29}{color: 32768}
+Assim,{wait: 8} eu já tinha as minhas{b}
+dúvidas sobre a Srta. Corval{b}
+desde o começo.{nextpage_button}
+
+{{47}}
+{ponteiro: 50040,6284}{bloco: 63}{name: 2}{color: 32768}
+Se é assim,{wait: 8} por que{b}
+não a mencionou antes?{nextpage_button}
+
+{{48}}
+{ponteiro: 50372,19428}{bloco: 89}{name: 29}{color: 32768}
+Epa,{wait: 6} epa.{wait: 16} Não faz essa cara.{wait: 12}{b}
+Olha lá!{wait: 16} Lá vai a realidade,{wait: 6}{b}
+correndo pro outro lado!{nextpage_button}
+
+{{49}}
+{ponteiro: 50600,7976}{bloco: 67}{name: 29}{color: 32768}{flash: 0, 1}{sfx: 21}
+Vamos acelerar o passo e ver{b}
+se conseguimos alcançar ela!{nextpage_button}
+
+{{50}}
+{ponteiro: 50932,2552}{bloco: 46}{name: 2}{color: 32768}
+Eu acho que você não está{b}
+percebendo aonde quero chegar{desconhecido_20: 91}...{nextpage_button}
+
+{{51}}
+{ponteiro: 51264,10512}{bloco: 73}{name: 29}{color: 32768}
+Ah, mas a gente tá de{b}
+acordo que o inspetor{b}
+não é o assassino,{wait: 6} né?{nextpage_button}
+
+{{52}}
+{ponteiro: 51556,4012}{bloco: 55}{name: 29}{color: 32768}
+Se é assim,{wait: 6} então espero que{b}
+você entenda quando eu falo{desconhecido_20: 93}...{nextpage_button}
+
+{{53}}
+{ponteiro: 51848,19520}{bloco: 89}{name: 29}{color: 32768}{desconhecido_20: 93}
+...{desconhecido_1F: 93} que como ela é a {flash: 0, 1}{sfx: 19}única{b}
+que conseguia abrir a porta{b}
+do seu gabinete{desconhecido_20: 93}...{nextpage_button}
+
+{{54}}
+{ponteiro: 52728,6220}{bloco: 63}{name: 2}{color: 32768}
+Sabe,{wait: 6} há algo que eu estava{b}
+querendo lhe perguntar{speed: 3}{desconhecido_20: 91}...{nextpage_button}
+
+{{55}}
+{ponteiro: 53196,700}{bloco: 27}{name: 29}{color: 32768}
+{sfx: 19}{flash: 0, 1}Oi?{wait: 16} O que é?{nextpage_button}
+
+{{56}}
+{ponteiro: 53528,2792}{bloco: 47}{name: 2}{color: 32768}
+Por que você chama a vítima de{b}
+{wait: 16}{sfx: 19}{flash: 0, 1}"Tite"...{nextpage_button}
+
+{{57}}
+{ponteiro: 53756,5260}{bloco: 60}{name: 2}{color: 32768}
+{desconhecido_20: 91}...{desconhecido_1F: 91} quando,{wait: 6} claramente,{wait: 6}{b}
+o nome dele é {wait: 16}"Fidel Leal"{desconhecido_20: 91}...?{nextpage_button}
+
+{{58}}
+{ponteiro: 54224,7568}{bloco: 66}{name: 29}{color: 32768}
+Não é óbvio?{wait: 16}{b}
+"Tite" é o nome perfeito{b}
+pro meu parceiro.{nextpage_button}
+
+{{59}}
+{ponteiro: 54452,21472}{bloco: 93}{name: 29}{color: 32768}
+{flash: 0, 1}{sfx: 21}"Tales e Tite".{wait: 16}{b}
+Esses dois nomes não combinam{b}
+que nem queijo e goiabada?{nextpage_button}
+
+{{60}}
+{ponteiro: 54784,7092}{bloco: 65}{name: 3}{color: 32768}{flash: 0, 0}{sfx: 23}{shake: 0, 2}
+Mas "Tite" não é nem{b}
+perto do nome real dele...{nextpage_button}
+
+{{61}}
+{ponteiro: 55116,4776}{bloco: 58}{name: 29}{color: 32768}
+Bem,{wait: 6} "Tales e Fidel"{wait: 16}{b}
+soa meio...{wait: 10} cafona.{nextpage_button}
+
+{{62}}
+{ponteiro: 55344,19980}{bloco: 90}{name: 29}{color: 32768}
+Além de que,{wait: 6} ele era {flash: 0, 1}{sfx: 21}{desconhecido_10: 93, 95, 2}o terceiro{b}
+de um grupo de caras que eu{b}
+queria chamar de {wait: 8}"Tite".{nextpage_button}
+
+{{63}}
+{ponteiro: 55676,4956}{bloco: 59}{name: 2}{color: 32772}
+(Hmph.{wait: 16}{b}
+Ele fala da vítima como{b}
+se fosse um mascote.){nextpage_button}
+
+{{64}}
+{ponteiro: 56340,11120}{bloco: 75}{name: 29}{color: 32768}
+Agora,{wait: 6} acho que já podemos{b}
+nos dar por encerrados aqui.{wait: 16}{b}
+A investigação não espera ninguém.{nextpage_button}
+
+{{65}}
+{ponteiro: 56584,4124}{bloco: 55}{name: 29}{color: 32768}
+Vocês fariam a gentileza de saírem{b}
+daqui?{nextpage_button}
+
+{{66}}
+{ponteiro: 56828,11832}{bloco: 77}{name: 3}{color: 32768}{shake: 2, 2}{sfx: 29}{flash: 0, 1}
+Você não pode nos chutar daqui!{wait: 16}{speed: 2}{b}
+Este é o {shake: 1, 1}gabinete do Sr. Spada!{nextpage_button}
+
+{{67}}
+{ponteiro: 57056,4180}{bloco: 55}{name: 29}{color: 32768}
+É, mas eu que fui designado pra{b}
+este caso.{nextpage_button}
+
+{{68}}
+{ponteiro: 57284,21568}{bloco: 93}{name: 29}{color: 32768}
+{flash: 0, 1}{sfx: 21}Vocês são todos suspeitos dos{b}
+mais variados níveis,{wait: 6} por isso não{b}
+estão escalados pra investigar.{nextpage_button}
+
+{{69}}
+{ponteiro: 57512,32}{bloco: 11}{name: 2}{color: 32768}
+.........{nextpage_button}
+
+{{70}}
+{ponteiro: 57684,26724}{bloco: 110}{name: 3}{color: 32768}{flash: 0, 1}{sfx: 29}{shake: 2, 2}{desconhecido_0E: 2, 11, 64, 1}
+Escuta,{wait: 6} chapa!{wait: 16}{b}
+Quantas vezes preciso te falar?!{wait: 16}{shake: 1, 1}{b}
+A Giseli NÃO PODE ser culpada!{nextpage_button}
+
+{{71}}
+{ponteiro: 57912,2216}{bloco: 45}{name: 2}{color: 32768}
+{shake: 1, 1}Inspetor Gaspar!{wait: 16}{b}
+{speed: 3}Acalme-se.{nextpage_button}
+
+{{72}}
+{ponteiro: 58140,196}{bloco: 19}{name: 3}{color: 32768}
+M-{shake: 1, 1}mas,{wait: 6} senhor...{nextpage_button}
+
+{{73}}
+{ponteiro: 58368,7160}{bloco: 65}{name: 2}{color: 32768}
+Não temos escolha a não ser{b}
+acatar o seu pedido...{wait: 16} por ora.{nextpage_button}
+
+{{74}}
+{ponteiro: 58596,10360}{bloco: 73}{name: 29}{color: 32768}
+Ha ha!{wait: 16} Valeu,{wait: 6} Sr. Spada.{wait: 16}{b}
+Pelo menos UM de vocês entende.{nextpage_button}
+
+{{75}}
+{ponteiro: 58824,21952}{bloco: 93}{name: 29}{color: 32768}{flash: 0, 1}{sfx: 21}
+Agora,{wait: 6} se vocês puderem se{b}
+retirar da minha cena do crime,{wait: 6}{b}
+eu ficaria agradecido.{nextpage_button}
+
+{{76}}
+{ponteiro: 59052,5836}{bloco: 62}{name: 2}{color: 32768}
+Hmph.{wait: 16} Guarde minhas palavras,{wait: 6}{b}
+Sr. Portivo.{wait: 16} Encontraremo-nos{b}
+novamente.{nextpage_button}
+
+{{77}}
+{ponteiro: 59224,22048}{bloco: 93}{name: 29}{color: 32768}
+Se isso é um pedido formal vindo{b}
+do {desconhecido_0E: 24, 25, 192, 1}promotor lendário em pessoa,{wait: 6}{b}
+então eu acho que sim. {nextpage_button}
+
+{{78}}
+{ponteiro: 59452,1904}{bloco: 41}{name: 29}{color: 32768}
+Agora,{wait: 6} não me decepciona,{wait: 6}{b}
+{shake: 1, 1}tá ouvindo?!{nextpage_button}
+
+{{79}}
+{ponteiro: 60452,8392}{bloco: 68}{name: 2}{color: 32768}
+Por que você acha que o{b}
+assassino não percebeu as{b}
+letras em sangue?{nextpage_button}
+
+{{80}}
+{ponteiro: 60920,16464}{bloco: 84}{name: 29}{color: 32768}
+O corpo estava cobrindo{b}
+elas muito bem,{wait: 6} não acha?{wait: 16}{b}
+Por isso passou batido.{nextpage_button}
+
+{{81}}
+{ponteiro: 61148,23900}{bloco: 98}{name: 29}{color: 32768}
+Mas pelo que eu andei vendo,{wait: 6}{b}
+{speed: 2}{flash: 0, 0}não é muito difícil o seu inspetor{b}
+deixar algo passar batido.{nextpage_button}
+
+{{82}}
+{ponteiro: 61488,16992}{bloco: 85}{name: 3}{color: 32768}
+Quem você {flash: 0, 1}{sfx: 23}{shake: 2, 2}acha que é?!{wait: 16}{b}
+{sfx: 23}{flash: 0, 1}{shake: 0, 2}Você sabe nada sobre mim,{wait: 6}{b}
+chapa!{nextpage_button}
+
+{{83}}
+{ponteiro: 61956,15948}{bloco: 83}{name: 29}{color: 32768}
+Uma pessoa pode perceber muitas{b}
+coisas sobre alguém apenas com{b}
+as primeiras impressões.{nextpage_button}
+
+{{84}}
+{ponteiro: 62296,3844}{bloco: 52}{name: 2}{color: 32772}
+(Eu estaria mentindo se{b}
+discordasse dele nesse{b}
+ponto...){nextpage_button}
+
+{{85}}
+{ponteiro: 62708,25964}{bloco: 104}{name: 3}{color: 32768}
+P-{wait: 8}por que você não diz algo,{wait: 6}{b}
+senhor?!{wait: 16}{desconhecido_20: 92} ...{desconhecido_1F: 92}{sfx: 23}{flash: 0, 1}{shake: 2, 2} Ah!{wait: 16} N-{wait: 8}não, não,{wait: 6}{b}
+você também não,{wait: 6} Sr. Spada!{nextpage_button}
+
+{{86}}
+{ponteiro: 62936,23300}{bloco: 96}{name: 2}{color: 32772}
+(Apesar da falta de atenção{b}
+aos detalhes,{wait: 8} eu não acho{b}
+que o Inspetor seja o culpado.){nextpage_button}
+
+{{87}}
+{ponteiro: 63164,26180}{bloco: 105}{name: 2}{color: 32772}
+(Ninguém poderia não ter{b}
+notado as letras em sangue,{desconhecido_10: 91, 17, 0}{wait: 12} {flash: 0, 1}{sfx: 21}{b}
+e eu posso provar... {wait: 16}com provas.){nextpage_button}
+
+{{88}}
+{ponteiro: 63512,3460}{bloco: 51}{name: 29}{color: 32768}
+Eu não podia ter pedido{b}
+{flash: 0, 1}{sfx: 21}{desconhecido_10: 93, 95, 2}por uma quadra melhor...{nextpage_button}
+
+{{89}}
+{ponteiro: 63740,1684}{bloco: 40}{name: 29}{color: 32768}
+{desconhecido_20: 93}...{desconhecido_1F: 93} pra marcar esses três pontos!{nextpage_button}
+
+{{90}}
+{ponteiro: 64552,5196}{bloco: 60}{name: 2}{color: 32768}
+Sr. Portivo.{wait: 16}{b}
+Há um grande erro em sua lógica{desconhecido_20: 91}...{nextpage_button}
+
+{{91}}
+{ponteiro: 65020,22816}{bloco: 94}{name: 29}{color: 32768}
+Sério?{wait: 16} Eu acho que ela é muito{b}
+boa,{wait: 6} na verdade.{wait: 16} O que você{b}
+acha que tem de errado?{nextpage_button}
+
+{{92}}
+{ponteiro: 65388,2696}{bloco: 47}{name: 2}{color: 32768}
+Argh!{wait: 16}{shake: 1, 1} Bem,{wait: 8} esqueça.{wait: 16}{b}
+Continuemos.{nextpage_button}
+
+{{93}}
+{ponteiro: 65864,7024}{bloco: 65}{name: 3}{color: 32768}{sfx: 23}{flash: 0, 1}{shake: 2, 2}
+Não é sua cara fazer isso,{wait: 6} senhor!{wait: 12}{b}
+{shake: 1, 1}Se concentra!{nextpage_button}
+
+{{94}}
+{ponteiro: 66092,22144}{bloco: 93}{name: 2}{color: 32772}
+(Eu fui descuidado.{wait: 16} Não posso ficar{b}
+fazendo isso,{wait: 6} ou a verdade irá se{b}
+distanciar de mim lentamente.){nextpage_button}
+
+{{95}}
+{ponteiro: 66320,2360}{bloco: 46}{name: 2}{color: 32772}
+(Mantenha a calma,{wait: 6} Eduardo!{wait: 16}{b}
+{shake: 1, 1}É o único jeito!){nextpage_button}
+
+{{96}}
+{ponteiro: 66564,4416}{bloco: 56}{name: 2}{color: 32768}
+Seria conveniente se você{wait: 16}{desconhecido_10: 91, 22, 0}{b}
+desse uma boa olhada nisto.{nextpage_button}
+
+{{97}}
+{ponteiro: 66904,13932}{bloco: 80}{name: 29}{color: 32768}
+Eu tô olhando,{wait: 24}{desconhecido_10: 93, 53, 2}{flash: 0, 1}{sfx: 23}{shake: 2, 2} mas não consigo{b}
+ver como isso tem relação comigo.{nextpage_button}
+
+{{98}}
+{ponteiro: 67272,1288}{bloco: 34}{name: 2}{color: 32768}{shake: 1, 1}
+É-{wait: 8}é mesmo{desconhecido_20: 91}{speed: 6}{wait: 8}...?{nextpage_button}
+
+{{99}}
+{ponteiro: 67668,10892}{bloco: 75}{name: 29}{color: 32768}
+Você não está no auge{b}
+do seu jogo hoje,{wait: 6} né,{wait: 6}{b}
+Sr. Promotor Genial?{nextpage_button}
+
+{{100}}
+{ponteiro: 68000,2036}{bloco: 43}{name: 2}{color: 32772}
+(Não posso permitir que{b}
+ele controle o jogo aqui.){nextpage_button}
+
+{{101}}
+{ponteiro: 68228,17520}{bloco: 87}{name: 2}{color: 32772}
+(Preciso manter a calma.{wait: 16}{b}
+Só assim eu poderei encontrar{b}
+a falha fatal no raciocínio dele!){nextpage_button}
+
+{{102}}
+{ponteiro: 68472,1948}{bloco: 42}{name: 2}{color: 32768}
+Eu protesto contra essa{shake: 1, 1}{b}
+sua linha de raciocínio!{nextpage_button}
+
+{{103}}
+{ponteiro: 68804,3564}{bloco: 52}{name: 29}{color: 32768}{sfx: 19}{flash: 0, 1}
+E contra que parte você protesta?{nextpage_button}
+
+{{104}}
+{ponteiro: 69136,2504}{bloco: 46}{name: 2}{color: 32768}
+...{wait: 8}{speed: 3}{desconhecido_1F: 91} É{desconhecido_20: 91}...{b}
+{wait: 24}{desconhecido_1F: 91}Sim,{wait: 6} bem{desconhecido_20: 91}...{nextpage_button}
+
+{{105}}
+{ponteiro: 69532,17784}{bloco: 87}{name: 3}{color: 32768}{shake: 2, 2}{flash: 0, 1}{sfx: 29}
+Fica calmo,{wait: 6} Sr. Spada!{wait: 16}{b}
+{shake: 1, 1}Você não fica bem{b}
+quando tá confuso.{nextpage_button}
+
+{{106}}
+{ponteiro: 69872,3956}{bloco: 55}{name: 29}{color: 32768}{flash: 0, 0}{sfx: 21}
+O Inspetor tem razão,{wait: 16}{speed: 2}{shake: 1, 1} pra variar!{nextpage_button}
+
+{{107}}
+{ponteiro: 70240,1860}{bloco: 41}{name: 2}{color: 32772}
+(C-{wait: 12}{speed: 3}{shake: 1, 1}como chegou a este ponto?!){nextpage_button}
+
+{{108}}
+{ponteiro: 70532,19704}{bloco: 90}{name: 2}{color: 32772}
+(Acalme-se,{wait: 6} Eduardo.{wait: 16}{b}
+Escute cuidadosamente e pense{b}
+um pouco mais racionalmente.){nextpage_button}
+
+{{109}}
+{ponteiro: 71352,4536}{bloco: 57}{name: 2}{color: 32768}
+Sr. Portivo.{wait: 16}{b}
+Há uma grande{b}
+falha em sua lógica...{nextpage_button}
+
+{{110}}
+{ponteiro: 71820,22336}{bloco: 94}{name: 29}{color: 32768}
+Sério?{wait: 16} Eu acho que ela é muito{b}
+boa,{wait: 6} na verdade.{wait: 16} O que você{b}
+acha que tem de errado?{nextpage_button}
+
+{{111}}
+{ponteiro: 72188,1640}{bloco: 40}{name: 2}{color: 32768}
+Argh!{wait: 16} Bem,{wait: 6} esqueça.{wait: 16}{b}
+Continuemos.{nextpage_button}
+
+{{112}}
+{ponteiro: 72656,3356}{bloco: 50}{name: 3}{color: 32768}
+Não é sua cara fazer isso,{wait: 6} senhor!{wait: 16}{b}
+Se concentra!{nextpage_button}
+
+{{113}}
+{ponteiro: 72884,21280}{bloco: 93}{name: 2}{color: 32772}
+(Eu fui descuidado.{wait: 16} Não posso ficar{b}
+fazendo isso,{wait: 6} ou a verdade irá se{b}
+distanciar de mim lentamente.){nextpage_button}
+
+{{114}}
+{ponteiro: 73112,2264}{bloco: 45}{name: 2}{color: 32772}
+(Mantenha a calma,{wait: 6} Eduardo!{wait: 16}{b}
+É o único jeito!){nextpage_button}
+
+{{115}}
+{ponteiro: 73356,4296}{bloco: 56}{name: 2}{color: 32768}
+Seria conveniente se você {desconhecido_10: 91, 22, 0}{b}
+desse uma boa olhada nisto.{nextpage_button}
+
+{{116}}
+{ponteiro: 73696,11512}{bloco: 76}{name: 29}{color: 32768}
+Eu tô olhando,{wait: 24}{desconhecido_10: 93, 71, 2}{sfx: 23}{shake: 2, 2} mas não consigo{b}
+ver como isso tem relação comigo.{nextpage_button}
+
+{{117}}
+{ponteiro: 74064,728}{bloco: 28}{name: 2}{color: 32768}
+{shake: 1, 1}É-{wait: 8}é mesmo{desconhecido_20: 91}...?{nextpage_button}
+
+{{118}}
+{ponteiro: 74460,11196}{bloco: 75}{name: 29}{color: 32768}
+Você não está no auge{b}
+do seu jogo hoje,{wait: 6} né,{wait: 6}{b}
+Sr. Promotor Genial?{nextpage_button}
+
+{{119}}
+{ponteiro: 74792,1992}{bloco: 43}{name: 2}{color: 32772}
+(Não posso permitir que{b}
+ele controle o jogo aqui.){nextpage_button}
+
+{{120}}
+{ponteiro: 75020,16552}{bloco: 84}{name: 2}{color: 32772}
+(Preciso manter a calma.{wait: 16}{b}
+Só assim eu poderei encontrar{b}
+a falha fatal no raciocínio dele!){nextpage_button}
+
+{{121}}
+{ponteiro: 75264,1440}{bloco: 38}{name: 2}{color: 32768}
+Eu protesto contra essa{b}
+sua linha de raciocínio!{nextpage_button}
+
+{{122}}
+{ponteiro: 75652,3732}{bloco: 52}{name: 29}{color: 32768}{sfx: 19}{flash: 0, 1}
+E contra que parte você protesta?{nextpage_button}
+
+{{123}}
+{ponteiro: 75984,3096}{bloco: 49}{name: 2}{color: 32768}
+...{wait: 8}{speed: 4}{desconhecido_1F: 91} É{desconhecido_20: 91}...{wait: 16}{b}
+{desconhecido_1F: 91}Sim,{wait: 8} bem{desconhecido_20: 91}...{nextpage_button}
+
+{{124}}
+{ponteiro: 76388,17872}{bloco: 87}{name: 3}{color: 32768}
+{shake: 2, 2}{flash: 0, 1}{sfx: 29}Fica calmo,{wait: 6} Sr. Spada!{wait: 16}{b}
+{shake: 1, 1}Você não fica bem{b}
+quando tá confuso.{nextpage_button}
+
+{{125}}
+{ponteiro: 76728,3788}{bloco: 52}{name: 29}{color: 32768}
+{flash: 0, 0}{sfx: 21}O inspetor tem razão,{wait: 6}{shake: 1, 1}{speed: 3} pra variar!{nextpage_button}
+
+{{126}}
+{ponteiro: 77096,2312}{bloco: 45}{name: 2}{color: 32772}
+({shake: 1, 1}C-{wait: 12}{speed: 4}{shake: 1, 1}como chegou a este ponto?!){nextpage_button}
+
+{{127}}
+{ponteiro: 77388,20164}{bloco: 90}{name: 2}{color: 32772}
+(Acalme-se,{wait: 6} Eduardo.{wait: 16}{b}
+Escute cuidadosamente e pense{b}
+um pouco mais racionalmente.){nextpage_button}
+
+{{128}}
+{ponteiro: 78168,1016}{bloco: 31}{name: 0}{color: 32770}
+{margem: 37}-- Lógica do Sr. Portivo --{nextpage_button}
+
+{{129}}
+{ponteiro: 78408,9544}{bloco: 71}{name: 29}{color: 32768}
+Inspetor Gaspar.{wait: 16}{b}
+Você roubou a arma do{b}
+Tite e matou ele a tiro.{nextpage_button}
+
+{{130}}
+{ponteiro: 78636,18232}{bloco: 88}{name: 29}{color: 32768}
+Depois,{wait: 6} você bagunçou os arquivos{b}
+pra fazer parecer que,{wait: 6} na verdade,{wait: 6}{b}
+você havia cometido roubo.{nextpage_button}
+
+{{131}}
+{ponteiro: 78864,19152}{bloco: 89}{name: 29}{color: 32768}{flash: 0, 1}{shake: 2, 2}{sfx: 23}
+Foi aí que você moveu o corpo do{b}
+Tite,{wait: 6} que estava sentado em frente{b}
+à estante!{nextpage_button}
+
+{{132}}
+{ponteiro: 79092,12952}{bloco: 79}{name: 29}{color: 32768}
+Mas graças a isso, você não{b}
+percebeu as letras em sangue que{b}
+o corpo dele estava escondendo.{nextpage_button}
+
+{{133}}
+{ponteiro: 79320,13192}{bloco: 79}{name: 29}{color: 32768}{flash: 0, 1}{sfx: 21}
+E será pelas últimas palavras dele{b}
+que você será levado à justiça.{nextpage_button}
+
+{{134}}
+{ponteiro: 79776,14100}{bloco: 81}{name: 2}{color: 32768}
+Você pretende afirmar que a{b}
+mensagem de morte da vítima{b}
+aponta para seu assassino{desconhecido_20: 91}...?{nextpage_button}
+
+{{135}}
+{ponteiro: 80116,12472}{bloco: 78}{name: 29}{color: 32768}
+Eu posso ouvir o Tite,{wait: 6}{b}
+e ele pede pela{sfx: 23}{flash: 0, 1}{shake: 2, 2} prisão{b}
+de seu assassino!{nextpage_button}
+
+{{136}}
+{ponteiro: 80456,10284}{bloco: 73}{name: 2}{color: 32768}
+Hmph.{wait: 16}{speed: 2} Tem certeza de que{b}
+não está ouvindo errado as{b}
+palavras dele,{wait: 6} Sr. Portivo?{nextpage_button}
+
+{{137}}
+{ponteiro: 80684,6348}{bloco: 63}{name: 2}{color: 32772}
+(É impossível que o Inspetor{b}
+Gaspar seja o culpado aqui{speed: 3}...){nextpage_button}
+
+{{138}}
+{ponteiro: 80912,6156}{bloco: 63}{name: 2}{color: 32772}
+(Eu hei de {flash: 0, 1}{sfx: 21}{wait: 8}encontrar a {color: 1}falha{color: 2}{b}
+na lógica desse sujeito...){nextpage_button}
+
+{{139}}
+{ponteiro: 81140,4068}{bloco: 55}{name: 2}{color: 32772}{flash: 0, 1}{shake: 2, 2}{sfx: 14}
+(... e a expor com provas válidas!){nextpage_button}
+
+{{140}}
+{ponteiro: 81504,1080}{bloco: 31}{name: 0}{color: 32770}
+{margem: 37}-- Lógica do Sr. Portivo --{nextpage_button}
+
+{{141}}
+{ponteiro: 81848,9760}{bloco: 71}{name: 29}{color: 32774}
+Inspetor Gaspar.{wait: 16}{b}
+Você roubou a arma do{b}
+Tite e matou ele a tiro.{nextpage_button}
+
+{{142}}
+{ponteiro: 82240,18324}{bloco: 88}{name: 29}{color: 32774}
+Depois, você bagunçou os arquivos{b}
+pra fazer parecer que, na verdade,{b}
+você havia cometido roubo.{nextpage_button}
+
+{{143}}
+{ponteiro: 82648,12552}{bloco: 78}{name: 29}{color: 32774}
+Foi aí que você moveu o corpo do{b}
+Tite, que estava sentado em frente{b}
+à estante!{nextpage_button}
+
+{{144}}
+{ponteiro: 83056,12792}{bloco: 79}{name: 29}{color: 32774}
+Mas graças a isso, você não{b}
+percebeu as letras em sangue que{b}
+o corpo dele estava escondendo.{nextpage_button}
+
+{{145}}
+{ponteiro: 83520,9904}{bloco: 72}{name: 29}{color: 32774}
+E será pelas últimas palavras dele{b}
+que você será levado à justiça.{nextpage_button}
+
+{{146}}
+{ponteiro: 84120,9040}{bloco: 69}{name: 2}{color: 32772}
+(Na verdade,{wait: 6} há uma {flash: 0, 1}{sfx: 21}{wait: 8}{color: 1}falha{color: 2}{b}
+gigantesca em sua lógica...){nextpage_button}
+
+{{147}}
+{ponteiro: 84348,5076}{bloco: 59}{name: 2}{color: 32772}
+(Um furo tão grande que até o{b}
+bom Inspetor pode encontrar.){nextpage_button}
+
+{{148}}
+{ponteiro: 84576,8752}{bloco: 69}{name: 2}{color: 32772}
+(Agora preciso mostrá-la ao{b}
+Sr. Portivo com alguma prova.){nextpage_button}
+
+{{149}}
+{ponteiro: 85448,1048}{bloco: 31}{name: 0}{color: 32770}
+{margem: 38}-- Motivo para Suspeita --{nextpage_button}
+
+{{150}}
+{ponteiro: 85688,17168}{bloco: 86}{name: 29}{color: 32768}
+É bem óbvio que a Srta. Corval{b}
+{flash: 0, 1}{sfx: 21}entrou sorrateiramente na sua{b}
+sala usando a chave mestra.{nextpage_button}
+
+{{151}}
+{ponteiro: 85916,9256}{bloco: 70}{name: 29}{color: 32768}
+Digo,{wait: 6} se o Inspetor Gaspar{b}
+não é quem abriu a porta{desconhecido_20: 93}...{nextpage_button}
+
+{{152}}
+{ponteiro: 86144,6548}{bloco: 64}{name: 29}{color: 32768}{desconhecido_20: 93}
+...{desconhecido_1F: 93} então resta apenas a{b}
+Srta. Corval como nossa{b}
+principal suspeita.{nextpage_button}
+
+{{153}}
+{ponteiro: 86372,9400}{bloco: 71}{name: 29}{color: 32768}
+Acima de tudo,{wait: 8}{sfx: 19}{flash: 0, 1} ela conhece o{b}
+nosso bom inspetor,{wait: 8} não conhece?{nextpage_button}
+
+{{154}}
+{ponteiro: 86600,16288}{bloco: 84}{name: 29}{color: 32768}
+Tornando tudo ainda mais provável{b}
+de que foi ela quem falsificou a{b}
+mensagem de morte.{nextpage_button}
+
+{{155}}
+{ponteiro: 87056,2888}{bloco: 48}{name: 2}{color: 32768}
+Então você está dizendo que{b}
+ela usou a chave mestra{desconhecido_20: 91}...{nextpage_button}
+
+{{156}}
+{ponteiro: 87144,2408}{bloco: 46}{name: 0}{color: 0}
+Informações da Chave Mestra{b}
+escritas em minha Agenda.{nextpage_button}
+
+{{157}}
+{ponteiro: 87412,5452}{bloco: 61}{name: 29}{color: 32768}{flash: 0, 1}{sfx: 21}
+Baita prova incriminadora,{wait: 6}{b}
+não acha?{nextpage_button}
+
+{{158}}
+{ponteiro: 87744,7364}{bloco: 66}{name: 2}{color: 32768}
+Você disse a mesma coisa{b}
+sobre a prova mais cedo{desconhecido_20: 91}...{nextpage_button}
+
+{{159}}
+{ponteiro: 88076,18140}{bloco: 88}{name: 29}{color: 32768}
+Isso foi passado,{wait: 6} agora é presente.{wait: 16}{b}
+O fluxo de uma boa partida{b}
+sempre muda durante uma disputa.{nextpage_button}
+
+{{160}}
+{ponteiro: 88304,20440}{bloco: 91}{name: 29}{color: 32768}
+É tudo sobre reflexos e tempo{b}
+de reação,{wait: 6} ainda mais pra{b}
+{flash: 0, 1}{sfx: 21}alguém esportivo como eu!{nextpage_button}
+
+{{161}}
+{ponteiro: 88636,24000}{bloco: 99}{name: 2}{color: 32772}
+(Penso se haveria {flash: 0, 1}{sfx: 19}alguém além{b}
+da Srta. Corval que pudesse{b}
+ter usado a chave mestra...){nextpage_button}
+
+{{162}}
+{ponteiro: 88864,25856}{bloco: 104}{name: 2}{color: 32772}
+(Parece que a única forma de fazer{b}
+o Sr. Portivo me dar mais detalhes{b}
+é pelo ato de {flash: 0, 1}{sfx: 21}{color: 1}Pressionar{color: 2}.){nextpage_button}
+
+{{163}}
+{ponteiro: 89228,984}{bloco: 31}{name: 0}{color: 32770}
+{margem: 38}-- Motivo para Suspeita --{nextpage_button}
+
+{{164}}
+{ponteiro: 89572,12872}{bloco: 79}{name: 29}{color: 32774}
+É bem óbvio que a Srta. Corval{b}
+entrou sorrateiramente na sua{b}
+sala usando a chave mestra.{nextpage_button}
+
+{{165}}
+{ponteiro: 90020,15444}{bloco: 83}{name: 29}{color: 32774}
+Sua intenção?{b}
+Olhando as estantes bagunçadas{b}
+e o cofre limpo, eu diria roubo.{nextpage_button}
+
+{{166}}
+{ponteiro: 90484,7772}{bloco: 67}{name: 29}{color: 32774}
+Digo, se o Inspetor Gaspar{b}
+não é quem abriu a porta...{nextpage_button}
+
+{{167}}
+{ponteiro: 90892,4896}{bloco: 58}{name: 29}{color: 32774}
+... então resta apenas a{b}
+Srta. Corval como nossa{b}
+principal suspeita.{nextpage_button}
+
+{{168}}
+{ponteiro: 91300,5516}{bloco: 61}{name: 29}{color: 32774}
+Acima de tudo, ela conhece o{b}
+nosso bom inspetor, não conhece?{nextpage_button}
+
+{{169}}
+{ponteiro: 91708,16376}{bloco: 84}{name: 29}{color: 32774}
+Tornando tudo ainda mais provável{b}
+de que foi ela quem falsificou a{b}
+mensagem de morte.{nextpage_button}
+
+{{170}}
+{ponteiro: 92352,26288}{bloco: 106}{name: 3}{color: 32768}{flash: 0, 1}{sfx: 29}{shake: 2, 2}
+Sr. Spada!{wait: 12} Tá esperando o quê?!{wait: 16}{b}
+Anda logo e{shake: 2, 2}{flash: 0, 1}{sfx: 29} apresenta alguma{b}
+prova!{nextpage_button}
+
+{{171}}
+{ponteiro: 92580,384}{bloco: 23}{name: 2}{color: 32768}
+Eu adoraria fazer isso{desconhecido_20: 91}...{nextpage_button}
+
+{{172}}
+{ponteiro: 92808,9688}{bloco: 71}{name: 2}{color: 32768}
+Mas primeiro,{wait: 6} devemos ouvir um{b}
+pouco mais,{wait: 6} e digerir o que ele{b}
+está dizendo.{nextpage_button}
+
+{{173}}
+{ponteiro: 93036,3676}{bloco: 52}{name: 2}{color: 32772}
+(E {sfx: 21}{flash: 0, 1}{color: 1}Pressionar{color: 2} para conseguir mais{b}
+informações.){nextpage_button}
+
+{{174}}
+{ponteiro: 93992,19060}{bloco: 89}{name: 2}{color: 32768}
+Tem certeza de que a Srta. Corval{b}
+é a única da segurança que poderia{b}
+ter usado a chave mestra?{nextpage_button}
+
+{{175}}
+{ponteiro: 94332,15696}{bloco: 83}{name: 29}{color: 32768}
+Só fica um funcionário trabalhando{b}
+a esta hora da noite.{wait: 16}{b}
+E nesta noite,{wait: 6} é ela.{nextpage_button}
+
+{{176}}
+{ponteiro: 94560,824}{bloco: 30}{name: 29}{color: 32768}
+Não é mesmo,{wait: 6} Srta. Corval?{nextpage_button}
+
+{{177}}
+{ponteiro: 94944,3620}{bloco: 52}{name: 28}{color: 32768}
+Isso é,{wait: 6} bem{desconhecido_20: 92}... {wait: 8}{desconhecido_1F: 92}{shake: 1, 1}verdade{desconhecido_20: 92}...{desconhecido_1F: 92}{b}
+mas{desconhecido_20: 92}...{nextpage_button}
+
+{{178}}
+{ponteiro: 95172,20624}{bloco: 91}{name: 28}{color: 32768}
+Mas {wait: 12}{shake: 2, 2}{desconhecido_10: 92, 37, 2}{flash: 0, 1}{sfx: 29}não dava pra eu ter usado{b}
+a chave mestra na hora do crime,{wait: 6}{b}
+senhor!{nextpage_button}
+
+{{179}}
+{ponteiro: 95400,6752}{bloco: 64}{name: 2}{color: 32772}
+({flash: 0, 1}{sfx: 19}"Não dava"...?{wait: 16}{b}
+O que isso quer dizer?){nextpage_button}
+
+{{180}}
+{ponteiro: 95628,12392}{bloco: 78}{name: 28}{color: 32768}
+Eu só percebi que a{flash: 0, 1}{sfx: 29}{shake: 2, 2} chave{b}
+mestra tinha sumido perto{b}
+de uma da manhã,{wait: 6} senhor!{nextpage_button}
+
+{{181}}
+{ponteiro: 95856,1480}{bloco: 39}{name: 2}{color: 32768}
+O que você quer dizer com{b}
+{flash: 0, 1}{sfx: 19}"sumido"?{nextpage_button}
+
+{{182}}
+{ponteiro: 96228,25648}{bloco: 103}{name: 28}{color: 32768}
+Que "não estava em nenhum lugar{b}
+na cabine da segurança",{wait: 6} senhor!{wait: 16}{b}
+O assassino deve ter{wait: 8}{flash: 0, 1}{sfx: 29}{shake: 2, 2} roubado ela!{nextpage_button}
+
+{{183}}
+{ponteiro: 96680,25232}{bloco: 102}{name: 29}{color: 32768}{flash: 0, 1}{sfx: 29}{shake: 2, 2}
+Ha,{wait: 6} uma história previsível.{speed: 3}{wait: 16}{b}
+Pra começo de conversa,{wait: 6} cadê a{b}
+sua prova de que ela foi roubada?{nextpage_button}
+
+{{184}}
+{ponteiro: 96972,12072}{bloco: 77}{name: 29}{color: 32768}
+Aposto que só esqueceu {wait: 8}{sfx: 19}{flash: 0, 1}onde{b}
+a colocou e depois magicamente{b}
+"achou" de novo.{nextpage_button}
+
+{{185}}
+{ponteiro: 97304,2080}{bloco: 43}{name: 3}{color: 32768}
+{shake: 2, 2}{flash: 0, 1}{sfx: 23}Tá achando o quê,{wait: 8}{shake: 1, 1} chapa?!{nextpage_button}
+
+{{186}}
+{ponteiro: 97532,24816}{bloco: 101}{name: 3}{color: 32768}
+Pra começar,{wait: 8} a Giseli não tem{b}
+{flash: 0, 1}{sfx: 29}{shake: 2, 2}nenhum motivo pra entrar no{b}
+gabinete do Sr. Spada!{nextpage_button}
+
+{{187}}
+{ponteiro: 97872,11352}{bloco: 76}{name: 29}{color: 32768}
+Tá falando do motivo dela?{wait: 16}{b}
+Já não tínhamos determinado{b}
+que o motivo era o {sfx: 19}{flash: 0, 1}roubo?{nextpage_button}
+
+{{188}}
+{ponteiro: 98164,23600}{bloco: 97}{name: 29}{color: 32768}
+Digo,{wait: 8} o culpado claramente{b}
+passou pelas estantes e pelo{b}
+menos tentou abrir o{flash: 0, 1}{sfx: 21} cofre.{nextpage_button}
+
+{{189}}
+{ponteiro: 98504,2124}{bloco: 43}{name: 2}{color: 32768}
+É isso que o Sr. Portivo diz,{wait: 12}{b}
+Inspetor.{nextpage_button}
+
+{{190}}
+{ponteiro: 98732,19888}{bloco: 90}{name: 2}{color: 32772}
+(Não há como ignorar que{b}
+{flash: 0, 1}{sfx: 21}todas as provas apontam{b}
+para uma motivação de roubo.){nextpage_button}
+
+{{191}}
+{ponteiro: 98960,18416}{bloco: 88}{name: 2}{color: 32772}
+(Mas já estou cansado de levar{b}
+golpes.{wait: 16} É hora de contra-atacar{b}
+com alguns fatos meus.){nextpage_button}
+
+{{192}}
+{ponteiro: 99204,19244}{bloco: 89}{name: 2}{color: 32768}
+Tem certeza de que a Srta. Corval{b}
+é a única da segurança que poderia{b}
+ter usado a chave mestra?{nextpage_button}
+
+{{193}}
+{ponteiro: 99544,15780}{bloco: 83}{name: 29}{color: 32768}
+Só fica um funcionário trabalhando{b}
+a esta hora da noite.{wait: 16}{b}
+E nesta noite,{wait: 6} é ela.{nextpage_button}
+
+{{194}}
+{ponteiro: 99772,920}{bloco: 30}{name: 29}{color: 32768}
+Não é mesmo,{wait: 6} Srta. Corval?{nextpage_button}
+
+{{195}}
+{ponteiro: 100156,3900}{bloco: 55}{name: 28}{color: 32768}
+Isso é,{wait: 6} bem{desconhecido_20: 92}... {wait: 16}{desconhecido_1F: 92}{shake: 1, 1}verdade{desconhecido_20: 92}...{wait: 16}{desconhecido_1F: 92}{b}
+mas{desconhecido_20: 92}...{nextpage_button}
+
+{{196}}
+{ponteiro: 100384,22432}{bloco: 94}{name: 28}{color: 32768}
+Mas {wait: 8}não dava pra eu ter usado{b}
+{wait: 16}{shake: 2, 2}{desconhecido_10: 92, 37, 2}{flash: 0, 1}{sfx: 29}a chave mestra na hora do crime,{wait: 6}{b}
+senhor!{nextpage_button}
+
+{{197}}
+{ponteiro: 100612,6616}{bloco: 64}{name: 2}{color: 32772}{flash: 0, 1}{sfx: 19}
+("Não dava"...?{wait: 16}{b}
+O que isso quer dizer?){nextpage_button}
+
+{{198}}
+{ponteiro: 100960,18508}{bloco: 88}{name: 29}{color: 32768}
+Sim,{wait: 6} sim{desconhecido_20: 93}... {wait: 8}{desconhecido_1F: 93}continuando.{wait: 16}{b}
+Odeio ser desviado do assunto{b}
+por coisas sem relação.{nextpage_button}
+
+{{199}}
+{ponteiro: 101300,22528}{bloco: 94}{name: 3}{color: 32768}
+{flash: 0, 1}{sfx: 29}{shake: 2, 2}Como assim{wait: 6} "sem relação"?!{wait: 16}{b}
+{flash: 0, 1}{sfx: 29}{shake: 2, 2}Eu quero ouvir o que ela{b}
+tem pra falar,{wait: 6} chapa!{nextpage_button}
+
+{{200}}
+{ponteiro: 101632,13596}{bloco: 80}{name: 29}{color: 32768}
+Mas não dá pra confiar que{b}
+ela não vai contar mentiras.{wait: 16}{b}
+E eu odeio perder tempo.{nextpage_button}
+
+{{201}}
+{ponteiro: 102220,2744}{bloco: 47}{name: 2}{color: 32772}{flash: 0, 1}{sfx: 19}
+(Hmm,{wait: 6} talvez seja melhor ouvir{b}
+o que a Srta. Corval tem para{b}
+dizer...?){nextpage_nobutton}
+
+{{202}}
+{ponteiro: 102700,16200}{bloco: 84}{name: 2}{color: 32768}
+Não tão rápido.{wait: 12}{b}
+Eu também{sfx: 21}{flash: 0, 1} gostaria de saber o{b}
+que a Srta. Corval tem a dizer.{nextpage_button}
+
+{{203}}
+{ponteiro: 103040,14604}{bloco: 82}{name: 29}{color: 32768}
+Eu não falei {wait: 8}que isso é perda de{b}
+tempo?{wait: 16} A gente não precisa ouvir{b}
+as mentiras dela.{nextpage_button}
+
+{{204}}
+{ponteiro: 103372,6888}{bloco: 65}{name: 2}{color: 32768}
+Sou eu quem julgará isso.{wait: 12}{b}
+{desconhecido_10: 91, 14, 0}Srta. Corval,{wait: 12} por favor.{nextpage_button}
+
+{{205}}
+{ponteiro: 103816,12152}{bloco: 78}{name: 28}{color: 32768}
+Eu só percebi que a{flash: 0, 1}{sfx: 29}{shake: 2, 2} chave{b}
+mestra tinha sumido perto{b}
+de uma da manhã,{wait: 6} senhor!{nextpage_button}
+
+{{206}}
+{ponteiro: 104156,1560}{bloco: 39}{name: 2}{color: 32768}
+O que você quer dizer com{b}
+{flash: 0, 1}{sfx: 19}"sumido"?{nextpage_button}
+
+{{207}}
+{ponteiro: 104512,25544}{bloco: 103}{name: 28}{color: 32768}
+Que "não estava em nenhum lugar{b}
+na cabine da segurança",{wait: 6} senhor!{wait: 16}{b}
+O assassino deve ter {wait: 8}{flash: 0, 1}{sfx: 29}{shake: 2, 2}roubado ela!{nextpage_button}
+
+{{208}}
+{ponteiro: 104980,20256}{bloco: 91}{name: 2}{color: 32768}
+Sr. Portivo, {desconhecido_10: 91, 14, 0}{wait: 12}eu acredito que isso{b}
+seja um depoimento importante.{wait: 16}{b}
+Não concorda?{nextpage_button}
+
+{{209}}
+{ponteiro: 105320,14688}{bloco: 82}{name: 29}{color: 32768}
+Ai ai...{wait: 16} Não acredito que alguém{b}
+como você caia nessa ladainha.{nextpage_button}
+
+{{210}}
+{ponteiro: 105652,1144}{bloco: 32}{name: 28}{color: 32768}
+Eu não tô mentindo,{wait: 6}{flash: 0, 1}{sfx: 29}{shake: 2, 2} senhor!{nextpage_button}
+
+{{211}}
+{ponteiro: 106204,17608}{bloco: 87}{name: 29}{color: 32768}
+Se é assim,{wait: 6} eu gostaria de saber...{b}
+por que você está com a{flash: 0, 1}{sfx: 19} chave{b}
+mestra agora?{nextpage_button}
+
+{{212}}
+{ponteiro: 106672,22240}{bloco: 94}{name: 28}{color: 32768}
+{shake: 2, 2}{sfx: 23}{flash: 0, 1}
+Eu{desconhecido_20: 91}... {wait: 12}{desconhecido_1F: 91}eu não sei muito bem.{b}
+{wait: 16}{shake: 1, 1}Ela só apareceu do nada,{wait: 6} senhor.{nextpage_button}
+
+{{213}}
+{ponteiro: 107004,20348}{bloco: 91}{name: 29}{color: 32768}
+Ha,{wait: 8} uma história previsível.{wait: 16}{b}
+Pra começo de conversa,{wait: 6} cadê a{b}
+sua prova de que ela foi roubada?{nextpage_button}
+
+{{214}}
+{ponteiro: 107296,11672}{bloco: 77}{name: 29}{color: 32768}
+Aposto que só esqueceu {wait: 8}{sfx: 19}{flash: 0, 1}onde{b}
+colocou e depois magicamente{b}
+"achou" de novo.{nextpage_button}
+
+{{215}}
+{ponteiro: 107628,9184}{bloco: 70}{name: 28}{color: 32768}
+Eu não perco as coisas!{wait: 16}{b}
+Eu posso {flash: 0, 1}{sfx: 29}{shake: 2, 2}praticamente garantir isso!{nextpage_button}
+
+{{216}}
+{ponteiro: 107856,16816}{bloco: 85}{name: 28}{color: 32768}
+Comigo,{wait: 6} se algo some assim,{wait: 6}{b}
+normalmente é porque alguém{b}
+{shake: 2, 2}{flash: 0, 1}{sfx: 29}roubou!{nextpage_button}
+
+{{217}}
+{ponteiro: 108188,23500}{bloco: 97}{name: 3}{color: 32768}{flash: 0, 1}{sfx: 29}{shake: 2, 2}
+É,{wait: 6} chapa!{wait: 24}{b}
+Vai por mim,{wait: 6}{flash: 0, 1}{sfx: 21}{desconhecido_10: 92, 76, 0} você não quer{b}
+testar como ela é tão azarada!{nextpage_button}
+
+{{218}}
+{ponteiro: 108520,18968}{bloco: 89}{name: 2}{color: 32768}{desconhecido_20: 91}
+...{wait: 16} {desconhecido_1F: 91}Infelizmente,{wait: 8} não posso tomar{b}
+esse depoimento como conclusivo.{nextpage_button}
+
+{{219}}
+{ponteiro: 108868,1520}{bloco: 39}{name: 29}{color: 32768}{flash: 0, 1}{sfx: 21}
+Que bom que você concorda,{wait: 6}{b}
+Sr. Spada.{nextpage_button}
+
+{{220}}
+{ponteiro: 109208,5388}{bloco: 61}{name: 3}{color: 32768}
+Nrrrrgh{desconhecido_20: 91}...{wait: 16}{b}
+{desconhecido_1F: 91}{desconhecido_10: 91, 82, 0}{flash: 0, 1}{sfx: 29}{shake: 2, 2}Mas!{wait: 16}{shake: 2, 2}{flash: 0, 1}{sfx: 29} Mas!{nextpage_button}
+
+{{221}}
+{ponteiro: 109436,24504}{bloco: 100}{name: 3}{color: 32768}
+Você ainda não determinou o{b}
+{flash: 0, 1}{sfx: 29}{shake: 2, 2}motivo pra Giseli ter entrado{b}
+no gabinete do Sr. Spada!{nextpage_button}
+
+{{222}}
+{ponteiro: 109776,6028}{bloco: 63}{name: 29}{color: 32768}
+Tá falando do motivo dela?{wait: 16}{b}
+Já não tínhamos determinado{b}
+que o motivo era o roubo?{nextpage_button}
+
+{{223}}
+{ponteiro: 110068,17696}{bloco: 87}{name: 29}{color: 32768}
+Digo,{wait: 8} o culpado claramente{b}
+passou pelas estantes e pelo{b}
+menos tentou abrir o{flash: 0, 1}{sfx: 21} cofre.{nextpage_button}
+
+{{224}}
+{ponteiro: 110408,1772}{bloco: 40}{name: 2}{color: 32768}
+É como o Sr. Portivo diz,{wait: 12}{b}
+Inspetor.{nextpage_button}
+
+{{225}}
+{ponteiro: 110636,19612}{bloco: 90}{name: 2}{color: 32772}
+(Não há como ignorar que{b}
+{flash: 0, 1}{sfx: 21}todas as provas apontam{b}
+para uma motivação de roubo.){nextpage_button}
+
+{{226}}
+{ponteiro: 110864,18048}{bloco: 88}{name: 2}{color: 32772}
+(Mas já estou cansado de levar{b}
+golpes.{wait: 16} É hora de contra-atacar{b}
+com alguns fatos meus.){nextpage_button}
+
+{{227}}
+{ponteiro: 111148,14772}{bloco: 82}{name: 2}{color: 32772}
+(Hmm,{wait: 6} talvez eu deva prestar{b}
+atenção no que o Sr. Portivo{b}
+está dizendo por agora.){nextpage_button}
+
+{{228}}
+{ponteiro: 111560,1180}{bloco: 33}{name: 3}{color: 32768}
+O-{wait: 16}{shake: 2, 2}{flash: 0, 1}{sfx: 23}o que é isso?!{nextpage_button}
+
+{{229}}
+{ponteiro: 111732,7908}{bloco: 67}{name: 3}{color: 32768}
+Por que diz {wait: 12}{flash: 0, 0}{sfx: 30}{shake: 2, 2}"{color: 1}Gaspar{color: 0}" ali em{b}
+sangue?!{nextpage_button}
+
+{{230}}
+{ponteiro: 111904,4356}{bloco: 56}{name: 29}{color: 32768}
+Eu diria que é uma prova{b}
+incrivelmente incriminadora...{nextpage_button}
+
+{{231}}
+{ponteiro: 112076,3408}{bloco: 50}{name: 2}{color: 32768}
+Sim,{wait: 6}{speed: 2} de fato,{wait: 6} indica uma atividade{b}
+criminosa.{nextpage_button}
+
+{{232}}
+{ponteiro: 112248,7296}{bloco: 66}{name: 3}{color: 32768}
+{shake: 2, 2}{flash: 0, 1}{sfx: 29}Não!{wait: 16} Pera!{wait: 16}{b}
+{speed: 2}Deve ter algum {shake: 2, 2}engano!{nextpage_button}
+
+{{233}}
+{ponteiro: 112420,9472}{bloco: 71}{name: 3}{color: 32768}{flash: 0, 1}{shake: 2, 2}{sfx: 29}
+Sr. Spada,{wait: 6} senhor!{wait: 16}{b}
+Me ajuda!{wait: 16}{shake: 2, 2} Fala alguma coisa!{nextpage_button}
+
+{{234}}
+{ponteiro: 112592,8320}{bloco: 68}{name: 2}{color: 32768}
+.........{wait: 8}{speed: 3}{b}
+Parece que um de meus{b}
+arquivos foi {sfx: 19}{flash: 0, 1}roubado.{nextpage_button}
+
+{{235}}
+{ponteiro: 112764,7840}{bloco: 67}{name: 3}{color: 32768}
+{shake: 2, 2}{flash: 0, 1}{sfx: 23}Só isso,{wait: 6} senhor?!{wait: 16}{b}
+E sobre a minha situação?!{nextpage_button}
+
+{{236}}
+{ponteiro: 112936,3044}{bloco: 48}{name: 2}{color: 32772}
+(É disso mesmo {wait: 8}que o{b}
+assassino estava atrás?){nextpage_button}
+
+{{237}}
+{ponteiro: 113024,2840}{bloco: 47}{name: 0}{color: 0}
+Informações do Arquivo Roubado{b}
+escritas em minha Agenda.{nextpage_button}
+
+{{238}}
+{ponteiro: 113532,14520}{bloco: 81}{name: 29}{color: 32768}{desconhecido_0E: 24, 26, 160, 1}
+Parece que o Tite {wait: 8}conseguiu{b}
+nos deixar o nome do{b}
+assassino no fim das contas.{nextpage_button}
+
+{{239}}
+{ponteiro: 113724,12312}{bloco: 78}{name: 29}{color: 32768}{shake: 1, 1}
+E aconteceu de essa importante{b}
+{desconhecido_0E: 24, 34, 160, 1}{sfx: 21}{flash: 0, 1}{shake: 2, 2}{wait: 16}mensagem chegar até nós.{nextpage_button}
+
+{{240}}
+{ponteiro: 113968,6092}{bloco: 63}{name: 3}{color: 32768}
+{desconhecido_0E: 2, 11, 160, 1}{flash: 0, 1}{sfx: 29}{shake: 2, 2}Tô te falando!{wait: 16}{b}
+{speed: 2}{shake: 1, 1}Não fui eu!!!{desconhecido_1B}{nextpage_button}
+
+{{241}}
+{ponteiro: 114204,17256}{bloco: 86}{name: 29}{color: 32768}
+Você deve estar muito chateado{b}
+em ouvir que seu querido parceiro{b}
+é o culpado.{nextpage_button}
+
+{{242}}
+{ponteiro: 114432,10436}{bloco: 73}{name: 2}{color: 32768}
+Se irá acusar o Inspetor{b}
+Gaspar de ser o culpado{speed: 8}...{nextpage_button}
+
+{{243}}
+{ponteiro: 114700,4236}{bloco: 56}{name: 2}{color: 32768}
+... eu espero muito que você tenha{b}
+alguma prova para sustentar isso.{nextpage_button}
+
+{{244}}
+{ponteiro: 114872,11044}{bloco: 75}{name: 29}{color: 32768}
+{desconhecido_0E: 24, 1, 32, 1}As palavras do Tite...{wait: 16}{b}
+{desconhecido_0E: 24, 1, 160, 1}são mais que o suficiente,{wait: 6}{b}
+não acha?{nextpage_button}
+
+{{245}}
+{ponteiro: 115100,24100}{bloco: 99}{name: 2}{color: 32768}
+Se é assim que você quer jogar,{wait: 16}{b}
+{speed: 3}{flash: 0, 0}então pelo menos me deixe{b}
+entender seu raciocínio.{nextpage_button}
+
+{{246}}
+{ponteiro: 115328,888}{bloco: 30}{name: 29}{color: 32768}
+{shake: 1, 1}{sfx: 21}{flash: 0, 1}Pode deixar!{music: 2}{wait: 1}{nextpage_button}
+
+{{247}}
+{ponteiro: 116004,17344}{bloco: 86}{name: 2}{color: 32772}
+(Eu não gosto disso.{wait: 16}{b}
+Há algo de estranho na{b}
+atitude desse homem.){nextpage_button}
+
+{{248}}
+{ponteiro: 116240,22912}{bloco: 95}{name: 2}{color: 32772}
+(E deve ter algum tipo de {wait: 8}{flash: 0, 1}{sfx: 21}{color: 1}falha{color: 2}{b}
+em sua lógica só esperando{b}
+para ser encontrada.){nextpage_button}
+
+{{249}}
+{ponteiro: 116664,5900}{bloco: 62}{name: 3}{color: 32768}
+{shake: 2, 2}{flash: 0, 1}{sfx: 29}Sr. Spada!{wait: 16}{b}
+{speed: 2}O-{wait: 8}o que você vai fazer?{nextpage_button}
+
+{{250}}
+{ponteiro: 116892,8824}{bloco: 69}{name: 2}{color: 32768}
+O que eu sempre faço no tribunal:{b}
+{wait: 16}{color: 1}inquiri-lo{color: 0}.{nextpage_button}
+
+{{251}}
+{ponteiro: 117120,11272}{bloco: 76}{name: 2}{color: 32768}
+De uma forma ou de outra,{wait: 6}{b}
+irei expor a falha em sua{b}
+lógica dessa maneira.{nextpage_button}
+
+{{252}}
+{ponteiro: 117356,14016}{bloco: 81}{name: 3}{color: 32768}
+Aah!{wait: 16} Como você faz isso?!{wait: 12}{b}
+D-{wait: 8}dá pra me {flash: 0, 1}{sfx: 29}{shake: 2, 2}explicar,{wait: 6} senhor?!{nextpage_button}
+
+{{253}}
+{ponteiro: 117836,2168}{bloco: 44}{name: 2}{color: 32768}
+Sr. Portivo{desconhecido_20: 1}...{wait: 12}{b}
+{desconhecido_1F: 1}Quando você estiver preparado.{nextpage_button}
+
+{{254}}
+{ponteiro: 118064,9616}{bloco: 71}{name: 3}{color: 32768}
+{desconhecido_20: 10}...{desconhecido_1F: 10} Aaah,{wait: 6} se você tá sem tempo,{wait: 6}{b}
+{shake: 1, 1}podia só ter falado,{wait: 6} senhor.{nextpage_button}
+
+{{255}}
+{ponteiro: 118340,4596}{bloco: 57}{name: 2}{color: 32768}
+Certo.{wait: 16}{b}
+Primeiro,{wait: 6} ouçamos o depoimento. {nextpage_button}
+
+{{256}}
+{ponteiro: 118568,14856}{bloco: 82}{name: 2}{color: 32768}
+Se eu encontrar uma falha{b}
+nesse depoimento,{wait: 6} algo que{b}
+contradiga as provas{desconhecido_20: 1}...{nextpage_button}
+
+{{257}}
+{ponteiro: 118796,26612}{bloco: 109}{name: 2}{color: 32768}
+{desconhecido_20: 1}...{desconhecido_1F: 1} eu devo abrir a minha {color: 1}Agenda{color: 0}{wait: 8}{b}
+{wait: 8}{flash: 0, 1}{shake: 2, 2}{sfx: 14}e {color: 1}Apresentar{color: 0} a prova contraditória!{nextpage_button}
+
+{{258}}
+{ponteiro: 119024,25128}{bloco: 102}{name: 2}{color: 32772}
+(Para {color: 1}Apresentar{color: 2} algo,{wait: 8} basta{b}
+eu tocar o {wait: 8}{color: 1}Botão Apresentar{color: 2},{wait: 8}{b}
+mas isso não é novidade.){nextpage_button}
+
+{{259}}
+{ponteiro: 119252,21376}{bloco: 93}{name: 3}{color: 32768}{flash: 0, 1}{sfx: 29}{shake: 2, 2}
+Mas não é sempre que vai ter{b}
+uma falha no depoimento,{wait: 6} né?!{nextpage_button}
+
+{{260}}
+{ponteiro: 119480,26948}{bloco: 113}{name: 2}{color: 32768}
+Correto,{wait: 6} e nesses momentos,{wait: 6}{b}
+eu devo {wait: 8}{color: 1}Pressionar{color: 0} a testemunha{b}
+tocando no {wait: 8}{flash: 0, 1}{sfx: 21}{color: 1}Botão Pressionar{color: 0}.{nextpage_button}
+
+{{261}}
+{ponteiro: 119708,19796}{bloco: 90}{name: 2}{color: 32768}
+Algumas vezes,{wait: 6} ao pressionar,{wait: 6}{b}
+eu extraio novas informações,{wait: 8}{b}
+e novos ou diferentes depoimentos.{nextpage_button}
+
+{{262}}
+{ponteiro: 119936,27064}{bloco: 116}{name: 3}{color: 32768}{shake: 2, 2}{flash: 0, 1}{sfx: 29}
+Acho que saquei,{wait: 6} senhor!{wait: 12} {shake: 2, 2}{flash: 0, 1}{sfx: 29}{b}
+Vou tentar usar isso nas{b}
+minhas investigações também!{nextpage_button}
+
+{{263}}
+{ponteiro: 120164,13512}{bloco: 80}{name: 2}{color: 32768}
+{flash: 0, 1}{sfx: 21}Muito bem.{wait: 16}{b}
+Irei até lhe mostrar como se faz.{wait: 16}{b}
+Observe cuidadosamente.{nextpage_button}
+
+{{264}}
+{ponteiro: 121204,264}{bloco: 21}{name: 29}{color: 32768}
+Ei,{wait: 6}{shake: 1, 1} você aí!{nextpage_button}
+
+{{265}}
+{ponteiro: 121432,1816}{bloco: 40}{name: 12}{color: 32768}
+{shake: 2, 2}Sim,{wait: 6} senhor!{wait: 16}{b}
+{shake: 2, 2}O que foi,{wait: 6} senhor?!{nextpage_button}
+
+{{266}}
+{ponteiro: 121844,11912}{bloco: 77}{name: 29}{color: 32768}
+Você poderia buscar e trazer{b}
+aquela adorável garota {speed: 2}aqui{b}
+pra mim...?{nextpage_button}
+
+{{267}}
+{ponteiro: 122312,1252}{bloco: 33}{name: 2}{color: 32772}{flash: 0, 1}{sfx: 19}
+(Uma {wait: 8}garota{speed: 6}...{speed: 3}{wait: 12}?){nextpage_button}
+
+{{268}}
+{ponteiro: 122540,23104}{bloco: 95}{name: 29}{color: 32768}
+A garota faz parte da {wait: 8}segurança{b}
+deste prédio.{wait: 16} Pensa nela como{b}
+uma "testemunha material".{nextpage_button}
+
+{{269}}
+{ponteiro: 122768,25440}{bloco: 102}{name: 3}{color: 32768}
+S-{flash: 0, 1}{shake: 2, 2}{sfx: 23}{wait: 16}segurança?!{wait: 20}{b}
+Você disse{wait: 6} "segurança"?!{wait: 16}{b}
+{flash: 0, 2}{shake: 0, 3}{sfx: 23}Não,{wait: 8} para,{wait: 8} chapa!{wait: 16} Não faz isso!{nextpage_button}
+
+{{270}}
+{ponteiro: 123052,3200}{bloco: 49}{name: 2}{color: 32772}
+{flash: 0, 1}{sfx: 19}(O que deu nele assim do nada?){nextpage_button}
+
+{{271}}
+{ponteiro: 124152,1400}{bloco: 38}{name: 29}{color: 32768}
+Acho que ela dispensa{b}
+apresentações.{nextpage_button}
+
+{{272}}
+{ponteiro: 124380,5324}{bloco: 60}{name: 29}{color: 32768}
+Chamei aqui a Srta. Giseli Corval,{wait: 6}{b}
+que faz parte da segurança.{nextpage_button}
+
+{{273}}
+{ponteiro: 124844,1324}{bloco: 35}{name: 28}{color: 32768}
+I-{wait: 8}Inspetor Gaspar,{wait: 6} senhor{speed: 6}{desconhecido_20: 10}...{nextpage_button}
+
+{{274}}
+{ponteiro: 125248,216}{bloco: 20}{name: 3}{color: 32768}
+{shake: 2, 2}{flash: 0, 1}{sfx: 23}Giseli!{nextpage_button}
+
+{{275}}
+{ponteiro: 125836,3512}{bloco: 51}{name: 29}{color: 32768}
+A Srta. Corval é a guarda{b}
+de vigia nesta noite.{nextpage_button}
+
+{{276}}
+{ponteiro: 126064,856}{bloco: 30}{name: 2}{color: 32768}
+Compreendo.{wait: 20}{b}
+E aonde quer chegar?{nextpage_button}
+
+{{277}}
+{ponteiro: 126292,5136}{bloco: 59}{name: 29}{color: 32768}
+O que quero dizer é que {wait: 20}{b}
+ela podia muito bem ter{flash: 0, 0}{b}
+usado aquilo.{nextpage_button}
+
+{{278}}
+{ponteiro: 126520,26504}{bloco: 107}{name: 29}{color: 32768}
+E por "aquilo",{wait: 6} eu me refiro à{b}
+{flash: 0, 1}{sfx: 21}{color: 1}chave mestra{color: 0},{wait: 6}{speed: 2} que pode abrir{b}
+qualquer gabinete neste prédio.{nextpage_button}
+
+{{279}}
+{ponteiro: 126888,9832}{bloco: 71}{name: 3}{color: 32768}
+{sfx: 30}{flash: 0, 1}{shake: 2, 2}O-{wait: 40}{speed: 5}{flash: 0, 1}{shake: 2, 2}{sfx: 30}o-{flash: 0, 1}o quêêê{flash: 0, 1}êêêêê{shake: 2, 2}{flash: 0, 1}êêêêêê?!{nextpage_button}
+
+{{280}}
+{ponteiro: 127300,5580}{bloco: 61}{name: 29}{color: 32768}
+Se você não é o culpado,{wait: 6}{b}
+Inspetor Gaspar{speed: 4}{desconhecido_20: 10}...{nextpage_button}
+
+{{281}}
+{ponteiro: 127528,13432}{bloco: 79}{name: 29}{color: 32768}
+{desconhecido_20: 10}...{desconhecido_1F: 10} então a única pessoa {speed: 3}{b}
+com acesso a esta sala{b}
+é a Srta. Corval.{nextpage_button}
+
+{{282}}
+{ponteiro: 127952,12712}{bloco: 78}{name: 28}{color: 32768}{flash: 0, 1}{shake: 2, 2}{sfx: 23}
+Como ousa?!{wait: 16}{b}
+Eu jamais {wait: 8}{shake: 1, 1}entraria assim{b}
+na sala de alguém!{nextpage_button}
+
+{{283}}
+{ponteiro: 128180,14436}{bloco: 81}{name: 3}{color: 32768}
+É isso mesmo!{wait: 8}{sfx: 23}{flash: 0, 1}{shake: 2, 2}{b}
+Eu me recuso a acreditar{b}
+que a Giseli é culpada,{wait: 6} chapa!{nextpage_button}
+
+{{284}}
+{ponteiro: 128408,9112}{bloco: 69}{name: 3}{color: 32768}
+Err{desconhecido_20: 1}...{wait: 16}{b}
+{flash: 0, 1}{sfx: 21}{desconhecido_1F: 1}{shake: 1, 1}Fui eu!{wait: 20}{b}
+{shake: 2, 2}Isso aí,{wait: 6} fui eu mesmo!{nextpage_button}
+
+{{285}}
+{ponteiro: 128832,2600}{bloco: 46}{name: 29}{color: 32768}
+Posso tomar isso como{b}
+uma confissão,{wait: 6} Inspetor?{nextpage_button}
+
+{{286}}
+{ponteiro: 129060,24400}{bloco: 100}{name: 3}{color: 32768}
+Assim,{wait: 6} bem,{wait: 6}{shake: 1, 1} não fui eu{desconhecido_20: 1}...{wait: 16}{desconhecido_1F: 1}{desconhecido_10: 1, 82, 0}{b}
+mas {wait: 16}{shake: 2, 2}{sfx: 23}definitivamente não{b}
+foi a Giseli,{wait: 6} chapa!{nextpage_button}
+
+{{287}}
+{ponteiro: 129288,21184}{bloco: 93}{name: 3}{color: 32768}
+Então,{wait: 6} é,{wait: 6}{shake: 1, 1} fui eu!{wait: 16}{b}
+{flash: 0, 1}{shake: 3, 3}{sfx: 30}Se fosse eu,{wait: 6} você não{b}
+teria nada contra,{wait: 6} né?!{nextpage_button}
+
+{{288}}
+{ponteiro: 129764,26072}{bloco: 105}{name: 2}{color: 32768}
+Por favor,{wait: 6} não perca{b}
+as estribeiras,{wait: 6}{speed: 2} Inspetor.{wait: 8} {desconhecido_10: 1, 6, 0}{wait: 8}{b}
+Não precisamos desse teatro.{nextpage_button}
+
+{{289}}
+{ponteiro: 130244,10132}{bloco: 73}{name: 29}{color: 32768}
+Escuta seu chefe aí,{wait: 6} Inspetor.{wait: 16}{b}
+Ele entende do que eu tô falando.{nextpage_button}
+
+{{290}}
+{ponteiro: 130536,20992}{bloco: 92}{name: 29}{color: 32768}
+A garota é a única que{b}
+poderia ter cometido o crime,{wait: 6}{b}
+por uma {shake: 1, 1}simples razão!{nextpage_button}
+
+{{291}}
+{ponteiro: 130908,17080}{bloco: 85}{name: 2}{color: 32768}
+Ainda não consegue ver?{wait: 16}{b}
+Se não,{wait: 6} quero que dê uma{b}
+olhada no arquivo perdido...{nextpage_button}
+
+{{292}}
+{ponteiro: 131080,9980}{bloco: 72}{name: 29}{color: 32768}
+O-{wait: 18}{sfx: 23}{flash: 0, 1}{shake: 2, 2}o quêêêêêêê?!{wait: 16}{b}
+{flash: 0, 1}{shake: 2, 2}{speed: 2}Isso é {wait: 16}{shake: 1, 1}impossível!{nextpage_button}
+
+{{293}}
+{ponteiro: 131584,2648}{bloco: 46}{name: 2}{color: 32768}
+O que é {wait: 16}{flash: 0, 0}{sfx: 21}"impossível",{wait: 6} Sr. Portivo?{nextpage_button}
+
+{{294}}
+{ponteiro: 132052,1216}{bloco: 33}{name: 29}{color: 32768}
+{shake: 0, 1}An,{wait: 8} é...{wait: 8} nada{desconhecido_20: 93}...{nextpage_button}
+
+{{295}}
+{ponteiro: 132392,4716}{bloco: 58}{name: 2}{color: 32768}
+Os arquivos daquela estante{b}
+eram todos sobre um {wait: 16}certo{b}
+caso.{nextpage_button}
+
+{{296}}
+{ponteiro: 132620,10740}{bloco: 74}{name: 2}{color: 32768}
+Quando o assassino foi pegar{b}
+o arquivo após matar o seu{b}
+parceiro{desconhecido_20: 91}...{nextpage_button}
+
+{{297}}
+{ponteiro: 132848,20900}{bloco: 91}{name: 2}{color: 32768}
+{desconhecido_20: 91}...{desconhecido_1F: 91}{wait: 16} eu duvido muito que{b}
+ele não poderia ter visto{b}
+as letras escritas nos livros.{nextpage_button}
+
+{{298}}
+{ponteiro: 133400,24200}{bloco: 99}{name: 29}{color: 32768}{flash: 0, 1}{shake: 2, 2}{flash: 0, 1}{sfx: 23}
+Pode ser que ele tenha pegado{b}
+o arquivo {wait: 16}antes de cometer o{b}
+assassinato!{nextpage_button}
+
+{{299}}
+{ponteiro: 133868,15108}{bloco: 82}{name: 2}{color: 32768}
+Eu acho bem óbvio que o arquivo{b}
+foi roubado {wait: 16}após escreverem nele.{nextpage_button}
+
+{{300}}
+{ponteiro: 134096,13848}{bloco: 80}{name: 2}{color: 32768}
+A prova são as letras que estão{b}
+faltando do nome do Inspetor no{b}
+lugar onde o arquivo deveria estar.{nextpage_button}
+
+{{301}}
+{ponteiro: 134508,13764}{bloco: 80}{name: 3}{color: 32768}{sfx: 29}{flash: 0, 1}{shake: 2, 2}
+Isso!{wait: 20} Digo, o {shake: 1, 1}"s" sumiu,{wait: 6}{b}
+e só tem metade do "p"!{nextpage_button}
+
+{{302}}
+{ponteiro: 134736,6820}{bloco: 64}{name: 2}{color: 32768}
+Se o Inspetor Gaspar realmente{b}
+fosse o culpado deste caso{desconhecido_20: 91}...{nextpage_button}
+
+{{303}}
+{ponteiro: 134964,24712}{bloco: 100}{name: 2}{color: 32768}
+{desconhecido_20: 91}...{desconhecido_1F: 91} eu duvido muito que ele não{wait: 12}{b}
+teria percebido seu próprio nome{b}
+escrito em sangue nos arquivos.{nextpage_button}
+
+{{304}}
+{ponteiro: 135192,15276}{bloco: 82}{name: 2}{color: 32768}
+{sfx: 14}{flash: 0, 1}{shake: 2, 2}{speed: 2}Especialmente um inspetor{b}
+que não {desconhecido_10: 92, 85, 0}suporta ver sangue!{nextpage_button}
+
+{{305}}
+{ponteiro: 135704,480}{bloco: 23}{name: 29}{color: 32768}
+{sfx: 23}{flash: 0, 1}{shake: 2, 2}Argh!{wait: 30}{nextpage_button}
+
+{{306}}
+{ponteiro: 136104,24920}{bloco: 101}{name: 3}{color: 32768}
+Isso significa{desconhecido_20: 92}... {wait: 16}{desconhecido_1F: 92}o que exatamente?{wait: 16}{b}
+{speed: 4}{sfx: 19}{flash: 0, 1}{wait: 8}O que isso faz com a mensagem{b}
+de morte{desconhecido_20: 92}...?{nextpage_button}
+
+{{307}}
+{ponteiro: 136332,12632}{bloco: 78}{name: 2}{color: 32768}
+Faz com que seja o trabalho de{b}
+um criminoso com a intenção de{b}
+adulterar a cena do crime.{nextpage_button}
+
+{{308}}
+{ponteiro: 136680,60}{bloco: 14}{name: 29}{color: 32768}
+............{nextpage_button}
+
+{{309}}
+{ponteiro: 137064,25024}{bloco: 101}{name: 3}{color: 32768}{flash: 0, 1}{sfx: 29}{shake: 0, 2}
+Isso é golpe baixo,{wait: 6} chapa!{wait: 16}{b}
+Não acredito que o criminoso quis{b}
+armar tudo isso pra mim, senhor!{nextpage_button}
+
+{{310}}
+{ponteiro: 137292,26836}{bloco: 110}{name: 3}{color: 32768}{flash: 0, 1}{sfx: 29}{shake: 2, 2}
+Eu vou pegar ele,{wait: 6} senhor!{wait: 20}{b}
+{flash: 0, 1}{sfx: 29}{shake: 2, 2}Vai vendo!{wait: 16}{b}
+Vou prender ele num instante!{nextpage_button}
+
+{{311}}
+{ponteiro: 137520,288}{bloco: 21}{name: 2}{color: 32768}
+E então,{wait: 6} Sr. Portivo?{nextpage_button}
+
+{{312}}
+{ponteiro: 138052,25752}{bloco: 103}{name: 29}{color: 32768}
+{sfx: 29}{flash: 0, 1}{shake: 2, 2}Ha ha ha ha ha ha ha ha ha!{wait: 16}{b}
+{sfx: 29}{flash: 0, 1}{shake: 2, 2}{speed: 2}Brilhante!{wait: 16}{sfx: 29}{flash: 0, 1}{shake: 2, 2} Totalmente esplêndido!{nextpage_button}
+
+{{313}}
+{ponteiro: 138280,2456}{bloco: 46}{name: 29}{color: 32768}
+Merece até uma {flash: 0, 1}{sfx: 21}{desconhecido_10: 93, 95, 2}medalha de ouro!{nextpage_button}
+
+{{314}}
+{ponteiro: 138612,18692}{bloco: 88}{name: 2}{color: 32768}
+Agradeço o elogio,{wait: 6} mas não{b}
+muda o fato de que sua{b}
+linha de raciocínio é falha.{nextpage_button}
+
+{{315}}
+{ponteiro: 139080,8044}{bloco: 67}{name: 29}{color: 32768}
+Nhé,{wait: 6} não dá pra ganhar todas.{wait: 16}{b}
+{shake: 1, 1}A vida é assim mesmo.{nextpage_button}
+
+{{316}}
+{ponteiro: 139412,14268}{bloco: 81}{name: 3}{color: 32768}
+Legal ver todo mundo {shake: 1, 1}alegre{desconhecido_20: 91}...{desconhecido_1F: 91}{b}
+apesar de eu estar me sentindo{b}
+mais morto do que vivo.{nextpage_button}
+
+{{317}}
+{ponteiro: 139744,3148}{bloco: 49}{name: 29}{color: 32768}
+Ah,{wait: 6}{speed: 4} mas sabe,{wait: 6} é realmente uma{b}
+pena{desconhecido_20: 10}...{nextpage_button}
+
+{{318}}
+{ponteiro: 139972,8968}{bloco: 69}{name: 29}{color: 32768}
+Eu não queria ter que{b}
+trazer isto à tona,{wait: 6}{b}
+{sfx: 19}{flash: 0, 1}contudo{desconhecido_20: 10}...{nextpage_button}
+
+{{319}}
+{ponteiro: 140552,10588}{bloco: 73}{name: 3}{color: 32768}
+Q-{wait: 16}{sfx: 23}{flash: 0, 1}{shake: 2, 2}qual foi agora?!{wait: 16}{b}
+Ainda tá atrás de mim,{wait: 6} chapa?!{nextpage_button}
+
+{{320}}
+{ponteiro: 140892,7500}{bloco: 66}{name: 29}{color: 32768}
+Foca em mim por um segundo.{wait: 16}{b}
+{sfx: 19}{flash: 0, 1}Quem tem a chave pra este{b}
+gabinete?{nextpage_button}
+
+{{321}}
+{ponteiro: 141224,760}{bloco: 29}{name: 3}{color: 32768}
+Sou{wait: 8}{flash: 0, 1}{sfx: 21} eu!{nextpage_button}
+
+{{322}}
+{ponteiro: 141452,7636}{bloco: 66}{name: 3}{color: 32768}
+Mas o Sr. Spada acabou de {flash: 0, 1}{sfx: 29}{shake: 2, 2}{b}
+provar minha inocência,{wait: 6} chapa!{nextpage_button}
+
+{{323}}
+{ponteiro: 141896,8112}{bloco: 67}{name: 29}{color: 32768}
+{flash: 0, 0}Tá certíssimo!{wait: 16}{b}
+E eu reconheço a sua inocência.{nextpage_button}
+
+{{324}}
+{ponteiro: 142228,7432}{bloco: 66}{name: 2}{color: 32768}{sfx: 19}{flash: 0, 1}
+Então por que eu sinto que{b}
+você ainda tem mais algo a{b}
+dizer?{nextpage_button}
+
+{{325}}
+{ponteiro: 142752,24300}{bloco: 99}{name: 29}{color: 32768}
+Bem,{wait: 6} eu tava pensando.{wait: 16}{b}
+Sabia que tem uma {flash: 0, 1}{sfx: 21}outra pessoa{b}
+com uma chave pra este gabinete?{nextpage_button}
+
+{{326}}
+{ponteiro: 143084,1112}{bloco: 31}{name: 2}{color: 32772}{sfx: 19}{flash: 0, 1}
+(Uma outra pessoa...?{wait: 30}{b}
+E por que precisa tirar e colocar{b}
+o casaco para nos dizer isso?){nextpage_button}
+
+{{327}}
+{ponteiro: 143792,18876}{bloco: 88}{name: 2}{color: 32768}
+Você vai continuar insistindo{b}
+que a Srta. Corval {flash: 0, 1}{sfx: 19}estava{b}
+decidida em roubar algo?{nextpage_button}
+
+{{328}}
+{ponteiro: 144260,1728}{bloco: 40}{name: 29}{color: 32768}
+Por que não?{wait: 16}{b}
+Afinal,{wait: 6} é a verdade.{nextpage_button}
+
+{{329}}
+{ponteiro: 144552,14352}{bloco: 81}{name: 29}{color: 32768}
+E foi pela sua própria lógica que{b}
+chegamos à toda a conclusão{b}
+de roubo de qualquer maneira.{nextpage_button}
+
+{{330}}
+{ponteiro: 144892,26396}{bloco: 107}{name: 2}{color: 32768}
+Pode ser,{wait: 6} mas você também deve{b}
+estar ciente de que o cofre é um{b}
+{wait: 8}{flash: 0, 1}{sfx: 21}{music: 11}{wait: 1}{color: 1}cofre secreto{color: 0}.{nextpage_button}
+
+{{331}}
+{ponteiro: 145120,11992}{bloco: 77}{name: 2}{color: 32768}
+E a existência desse cofre é{b}
+de conhecimento apenas dos{b}
+{flash: 0, 1}{sfx: 14}{desconhecido_10: 91, 18, 0}{color: 1}membros do Ministério Público{color: 0}{desconhecido_20: 91}...{nextpage_button}
+
+{{332}}
+{ponteiro: 145580,76}{bloco: 16}{name: 29}{color: 32768}
+{sfx: 23}{flash: 0, 0}{shake: 2, 2}Ah!{nextpage_button}
+
+{{333}}
+{ponteiro: 145920,17960}{bloco: 87}{name: 2}{color: 32768}
+Acho difícil acreditar que um cofre{b}
+secreto faria parte de seu plano{b}
+sorrateiro.{nextpage_button}
+
+{{334}}
+{ponteiro: 146260,240}{bloco: 21}{name: 29}{color: 32768}
+M-{wait: 8}{shake: 1, 1}mas{desconhecido_20: 93}...!{nextpage_button}
+
+{{335}}
+{ponteiro: 146488,23700}{bloco: 97}{name: 29}{color: 32768}
+Mas {flash: 0, 1}{sfx: 21}dava pra ela ter achado{b}
+por acidente enquanto tava{b}
+revirando tudo!{nextpage_button}
+
+{{336}}
+{ponteiro: 146956,360}{bloco: 22}{name: 2}{color: 32768}
+Duvido muito disso.{nextpage_button}
+
+{{337}}
+{ponteiro: 147184,5964}{bloco: 62}{name: 2}{color: 32768}
+Eu diria que o culpado sabia{b}
+exatamente o que estava{b}
+procurando.{nextpage_button}
+
+{{338}}
+{ponteiro: 147412,10816}{bloco: 74}{name: 2}{color: 32768}
+Afinal de contas,{wait: 6} apenas a{wait: 8}{b}
+{color: 1}estante{color: 0} e o {color: 1}cofre{color: 0} foram{b}
+visados.{nextpage_button}
+
+{{339}}
+{ponteiro: 147752,792}{bloco: 29}{name: 29}{color: 32768}
+{sfx: 23}{flash: 0, 0}{shake: 1, 1}Nnnnghaaaaaargh!{nextpage_button}
+
+{{340}}
+{ponteiro: 148092,7228}{bloco: 66}{name: 3}{color: 32768}
+{flash: 0, 1}{sfx: 29}{shake: 2, 2}Pois é!{wait: 16}{b}
+Nem eu {shake: 1, 1}sabia desse cofre,{wait: 6} chapa!{nextpage_button}
+
+{{341}}
+{ponteiro: 148320,10664}{bloco: 74}{name: 3}{color: 32768}
+E isso quer dizer que{b}
+não tem como a Giseli {shake: 1, 1}{b}
+saber também!{nextpage_button}
+
+{{342}}
+{ponteiro: 148660,1360}{bloco: 36}{name: 29}{color: 32768}
+E-{wait: 8}então você tá propondo{desconhecido_20: 93}...{nextpage_button}
+
+{{343}}
+{ponteiro: 148888,5644}{bloco: 62}{name: 29}{color: 32768}
+{desconhecido_20: 93}...{desconhecido_1F: 93} que {flash: 0, 1}{sfx: 21}{color: 1}o assassino é um{b}
+promotor{color: 0}{desconhecido_20: 93}...?{nextpage_button}
+
+{{344}}
+{ponteiro: 149356,12232}{bloco: 78}{name: 2}{color: 32768}
+Conclusão interessante.{wait: 16}{b}
+Isso está parecendo{b}
+cada vez mais provável.{nextpage_button}
+
+{{345}}
+{ponteiro: 149696,44}{bloco: 14}{name: 29}{color: 32768}
+............{nextpage_button}
+
+{{346}}
+{ponteiro: 150036,10968}{bloco: 75}{name: 2}{color: 32768}
+Algo errado,{wait: 6} promotor?{wait: 16}{b}
+Você tem outro suspeito{b}
+em mente agora?{nextpage_button}
+
+{{347}}
+{ponteiro: 150504,456}{bloco: 23}{name: 29}{color: 32768}
+Eu{desconhecido_20: 93}... {wait: 12}{desconhecido_1F: 93}eu{desconhecido_20: 93}...{nextpage_button}
+
+{{348}}
+{ponteiro: 150744,6956}{bloco: 65}{name: 29}{color: 32768}
+{sfx: 23}{flash: 0, 0}{shake: 2, 2}{shake: 1, 1}Maldição!{wait: 8} Por quê?!{wait: 16}{shake: 2, 2}{shake: 1, 1}{sfx: 23}{b}
+O que fez você...?!{nextpage_button}
+
+{{349}}
+{ponteiro: 151076,6480}{bloco: 64}{name: 3}{color: 32768}
+Q-{wait: 8}qual é a da {flash: 0, 1}{sfx: 19}cara{b}
+brava assim do nada{desconhecido_20: 91}...?{nextpage_button}
+
+{{350}}
+{ponteiro: 151416,4476}{bloco: 57}{name: 29}{color: 32768}
+É{desconhecido_20: 93}...{wait: 12}{b}
+{desconhecido_1F: 93}É tudo {wait: 8}{flash: 0, 1}{sfx: 23}{shake: 2, 2}minha culpa{desconhecido_20: 93}...!{nextpage_button}
+
+{{351}}
+{ponteiro: 151756,504}{bloco: 26}{name: 2}{color: 32768}
+{sfx: 19}{flash: 0, 1}O que você quer dizer?{nextpage_button}
+
+{{352}}
+{ponteiro: 152096,96}{bloco: 16}{name: 29}{color: 32768}
+É o Tite{desconhecido_20: 93}...{nextpage_button}
+
+{{353}}
+{ponteiro: 152324,8248}{bloco: 68}{name: 29}{color: 32768}
+Ele sabia{desconhecido_20: 93}... {wait: 16}{desconhecido_1F: 93}da existência{b}
+dos {color: 1}cofres secretos{color: 0}.{nextpage_button}
+
+{{354}}
+{ponteiro: 152676,3304}{bloco: 50}{name: 2}{color: 32768}
+{flash: 0, 1}{sfx: 21}{shake: 1, 1}!{wait: 30}{b}
+
+
+
+
+{desconhecido_1F: 91}O que você disse{desconhecido_20: 91}...?!{nextpage_button}
+
+{{355}}
+{ponteiro: 153016,7704}{bloco: 67}{name: 29}{color: 32768}
+{flash: 0, 1}{sfx: 23}{shake: 2, 2}Nós éramos parceiros!{wait: 16}{b}
+Tipo gêmeos siameses!{nextpage_button}
+
+{{356}}
+{ponteiro: 153244,16904}{bloco: 85}{name: 29}{color: 32768}
+É por isso{wait: 8} que eu contei pra ele.{wait: 16}{b}
+Eu contei pra ele sobre os{b}
+{sfx: 21}{flash: 0, 1}{desconhecido_10: 93, 95, 2}{color: 1}cofres secretos{color: 0}.{nextpage_button}
+
+{{357}}
+{ponteiro: 153584,408}{bloco: 23}{name: 3}{color: 32768}
+Então isso significa{desconhecido_20: 91}...{nextpage_button}
+
+{{358}}
+{ponteiro: 153924,27184}{bloco: 119}{name: 29}{color: 32768}
+{flash: 0, 1}{sfx: 23}{shake: 2, 2}É,{wait: 6} eu sei.{wait: 16}{b}
+Eu também falei só pra ele{desconhecido_20: 93}... {wait: 12}{desconhecido_1F: 93}{b}
+foi errado da minha parte,{wait: 6} óbvio{desconhecido_20: 93}...{nextpage_button}
+
+{{359}}
+{ponteiro: 154152,23800}{bloco: 98}{name: 29}{color: 32768}
+Ainda não consigo acreditar,{wait: 16}{b}
+mas o ladrão que entrou na sua{b}
+sala provavelmente foi o Tite{desconhecido_20: 93}...{nextpage_button}
+
+{{360}}
+{ponteiro: 154620,5772}{bloco: 62}{name: 2}{color: 32772}
+(Agora ele alega que{b}
+{flash: 0, 1}{sfx: 19}a vítima era o ladrão...?){nextpage_button}
+
+{{361}}
+{ponteiro: 154952,8680}{bloco: 69}{name: 29}{color: 32768}
+E{desconhecido_20: 93}... {wait: 16}{speed: 2}{desconhecido_1F: 93}você só tava{b}
+tentando parar ele,{wait: 6}{b}
+não tava?{nextpage_button}
+
+{{362}}
+{ponteiro: 155180,952}{bloco: 31}{name: 29}{color: 32768}{sfx: 21}{flash: 0, 1}... Srta. Giseli Corval{desconhecido_20: 93}...{nextpage_button}
+
+{{363}}
+{ponteiro: 155564,156}{bloco: 19}{name: 28}{color: 32768}
+{flash: 0, 1}{sfx: 19}Perdão?{nextpage_button}
+
+{{364}}
+{ponteiro: 155792,432}{bloco: 23}{name: 2}{color: 32768}
+{flash: 0, 1}{sfx: 21}.........{shake: 1, 1}!{nextpage_button}
+
+{{365}}
+{ponteiro: 156140,5708}{bloco: 62}{name: 29}{color: 32768}
+Digo, você É uma guarda,{wait: 6} né?{wait: 16}{b}
+Esse é o seu trabalho.{nextpage_button}
+
+{{366}}
+{ponteiro: 156368,15528}{bloco: 83}{name: 29}{color: 32768}
+Mas{wait: 8}{flash: 0, 1}{sfx: 23}{shake: 2, 2} matar foi um pouco demais,{wait: 6}{b}
+mesmo pro seu trampo perigoso.{nextpage_button}
+
+{{367}}
+{ponteiro: 156708,10208}{bloco: 73}{name: 3}{color: 32768}
+{shake: 2, 2}{flash: 0, 1}{sfx: 29}Como é que é...?!{wait: 16}{b}
+Você ainda tá acusando{b}
+a Giseli do assassinato?!{nextpage_button}
+
+{{368}}
+{ponteiro: 157048,20532}{bloco: 91}{name: 29}{color: 32768}
+Sim e não.{wait: 16} Assim,{wait: 8} ela trombou{b}
+com o Tite,{wait: 8} que provavelmente{b}
+sacou a arma dele{desconhecido_20: 93}...{nextpage_button}
+
+{{369}}
+{ponteiro: 157276,6412}{bloco: 64}{name: 29}{color: 32768}
+Saquei!{wait: 16}{b}
+Foi {flash: 0, 0}{shake: 2, 2}{sfx: 23}{color: 1}legítima defesa{color: 0},{wait: 6} não foi?!{nextpage_button}
+
+{{370}}
+{ponteiro: 157616,5016}{bloco: 59}{name: 28}{color: 32768}
+{flash: 0, 0}{shake: 1, 1}{sfx: 29}N-{wait: 8}{shake: 1, 1}não!{wait: 16}{speed: 4}{b}
+Eu{desconhecido_20: 91}... {desconhecido_1F: 91}eu jamais{desconhecido_20: 91}...{nextpage_button}
+
+{{371}}
+{ponteiro: 157844,20716}{bloco: 91}{name: 28}{color: 32768}
+Eu jamais poderia fazer algo assim,{wait: 16}{speed: 2}{flash: 0, 0}{shake: 1, 1}{sfx: 30}{b}
+nem mesmo como guarda,{wait: 6} senhor!{nextpage_button}
+
+{{372}}
+{ponteiro: 158256,15612}{bloco: 83}{name: 3}{color: 32768}
+E mais, mesmo se ele fosse{b}
+o ladrão,{wait: 6}{shake: 2, 2}{flash: 0, 1}{sfx: 29} ele não teria a{b}
+chave pra este gabinete!{nextpage_button}
+
+{{373}}
+{ponteiro: 158596,8896}{bloco: 69}{name: 29}{color: 32768}{sfx: 21}{flash: 0, 1}
+Que é precisamente o porquê{b}
+de ele roubar ela,{wait: 6} não acha?{nextpage_button}
+
+{{374}}
+{ponteiro: 158944,2992}{bloco: 48}{name: 29}{color: 32768}
+Foi o Tite que roubou a{b}
+{flash: 0, 0}{sfx: 21}{wait: 16}chave mestra.{nextpage_button}
+
+{{375}}
+{ponteiro: 159116,136}{bloco: 18}{name: 28}{color: 32768}
+{flash: 0, 0}{shake: 2, 2}{sfx: 23}Aaah!{nextpage_button}
+
+{{376}}
+{ponteiro: 159556,13032}{bloco: 79}{name: 29}{color: 32768}
+Bem impossível pra uma chave{b}
+supostamente "roubada" estar{b}
+aqui conosco,{wait: 6} a não ser que...{nextpage_button}
+
+{{377}}
+{ponteiro: 159784,14940}{bloco: 82}{name: 29}{color: 32768}
+{desconhecido_20: 93}...{desconhecido_1F: 93} bem,{wait: 6}{flash: 0, 1}{sfx: 23}{shake: 2, 2} a não ser que você tenha{b}
+pegado de volta com o Tite depois{b}
+de matar ele.{nextpage_button}
+
+{{378}}
+{ponteiro: 160116,11432}{bloco: 76}{name: 2}{color: 32768}
+Sr. Portivo,{wait: 6} você está realmente{b}
+acusando o seu parceiro de ser{b}
+o ladrão?{nextpage_button}
+
+{{379}}
+{ponteiro: 160584,23200}{bloco: 96}{name: 29}{color: 32768}
+Não quero admitir isso,{wait: 6}{b}
+mas {flash: 0, 1}{sfx: 21}{desconhecido_10: 93, 95, 2}é a única forma de{b}
+isso tudo fazer sentido.{nextpage_button}
+
+{{380}}
+{ponteiro: 160916,312}{bloco: 21}{name: 2}{color: 32772}
+(Ele não tem honra?!){nextpage_button}
