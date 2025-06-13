@@ -1,0 +1,388 @@
+﻿{{0}}
+{ponteiro: 6364,1056}{bloco: 64}{name: 0}{color: 32774}
+{margem: 71}14 de Março, 5:47{b}
+{margem: 52}Procuradoria de Justiça{b}
+{margem: 100}Sala 1202{nextpage_button}
+
+{{1}}
+{ponteiro: 6612,3932}{bloco: 93}{name: 3}{color: 32768}
+O Sr. Portivo foi {shake: 1, 1}preso pelo{b}
+assassinato do Inspetor Fidel{b}
+Leal,{wait: 6} senhor!{nextpage_button}
+
+{{2}}
+{ponteiro: 6896,40}{bloco: 12}{name: 2}{color: 32768}
+Muito bom.{nextpage_button}
+
+{{3}}
+{ponteiro: 7124,4728}{bloco: 101}{name: 3}{color: 32768}
+E a {sfx: 21}{flash: 0, 1}análise da fita que os{b}
+técnicos da perícia fizeram{b}
+comprovou tudo,{wait: 6} senhor!{nextpage_button}
+
+{{4}}
+{ponteiro: 7296,1848}{bloco: 76}{name: 3}{color: 32768}
+O exame de sangue foi feito,{wait: 6}{b}
+e o sangue de lá era do{b}
+Sr. Leal com toda a certeza.{nextpage_button}
+
+{{5}}
+{ponteiro: 7524,4124}{bloco: 95}{name: 3}{color: 32768}
+E ainda tem mais,{wait: 6} conseguiram{b}
+encontrar algumas {sfx: 29}{shake: 2, 2}impressões{b}
+digitais do Sr. Leal nela também!{nextpage_button}
+
+{{6}}
+{ponteiro: 7808,656}{bloco: 51}{name: 28}{color: 32768}
+Muito obrigada por tudo,{wait: 6}{speed: 1}{shake: 1, 1}{flash: 0, 1} Sr. Spada!{nextpage_button}
+
+{{7}}
+{ponteiro: 8036,3016}{bloco: 86}{name: 28}{color: 32768}
+Ainda não acredito que pude{b}
+ver suas técnicas legais de{b}
+dedução fora do tribunal!{nextpage_button}
+
+{{8}}
+{ponteiro: 8208,708}{bloco: 54}{name: 28}{color: 32768}
+Eu... {wait: 24}{speed: 2}{desconhecido_0E: 25, 23, 192, 1}{flash: 0, 1}{shake: 1, 1}estou sem palavras,{wait: 6} senhor!{nextpage_button}
+
+{{9}}
+{ponteiro: 8436,2248}{bloco: 79}{name: 2}{color: 32768}
+Não foi nada.{wait: 16} Só fico triste{b}
+por você ter se envolvido em{b}
+um homicídio em meu gabinete.{nextpage_button}
+
+{{10}}
+{ponteiro: 8664,168}{bloco: 29}{name: 2}{color: 32768}
+Por favor,{wait: 6} aceite minhas desculpas.{nextpage_button}
+
+{{11}}
+{ponteiro: 8948,3104}{bloco: 87}{name: 28}{color: 32768}
+Aah,{wait: 6} foi nada não.{wait: 16} Sério.{wait: 16}{b}
+{sfx: 29}{shake: 2, 2}Comparado com o que{b}
+eu já passei,{wait: 6} é claro!{nextpage_button}
+
+{{12}}
+{ponteiro: 9120,4320}{bloco: 97}{name: 28}{color: 32768}
+Eu acho que eu dei {flash: 0, 1}{sfx: 21}sorte de{b}
+ser só {flash: 0, 1}invasão e {flash: 0, 1}assassinato{b}
+desta vez,{wait: 6} senhor!{nextpage_button}
+
+{{13}}
+{ponteiro: 9348,5148}{bloco: 108}{name: 28}{color: 32768}
+Se tivesse sido um assalto{b}
+ou um crime com {wait: 8}{flash: 0, 1}reféns,{wait: 8}{shake: 1, 1}{speed: 3} eu{b}
+teria desistido de tudo de vez.{nextpage_button}
+
+{{14}}
+{ponteiro: 9576,5040}{bloco: 105}{name: 28}{color: 32768}
+Acho que tô perdendo o título de{b}
+"A Deusa do Azar" e ganhando o{b}
+de {flash: 0, 1}{sfx: 29}{shake: 2, 2}{speed: 1}"Pessoa Sem Sorte"!{nextpage_button}
+
+{{15}}
+{ponteiro: 9804,3836}{bloco: 92}{name: 2}{color: 32772}
+({flash: 0, 1}{sfx: 19}Algo me diz que nós devíamos{b}
+ter contratado uma outra pessoa{b}
+para cuidar da segurança...){nextpage_button}
+
+{{16}}
+{ponteiro: 10732,3192}{bloco: 89}{name: 3}{color: 32768}
+Sabe de uma coisa,{wait: 6} senhor?{wait: 16}{sfx: 21}{flash: 0, 1}{b}
+O Sr. Portivo era mesmo{b}
+um promotor bem corrupto.{nextpage_button}
+
+{{17}}
+{ponteiro: 10960,604}{bloco: 51}{name: 2}{color: 32768}
+E por que você diz que{b}
+ele era um {wait: 8}{flash: 0, 1}{sfx: 19}"corrupto"?{nextpage_button}
+
+{{18}}
+{ponteiro: 11188,3284}{bloco: 89}{name: 3}{color: 32768}
+É que ouvi dizer que tinha{b}
+várias coisas suspeitas nos{b}
+casos em que ele atuou.{nextpage_button}
+
+{{19}}
+{ponteiro: 11416,1768}{bloco: 76}{name: 3}{color: 32768}
+Tem até boatos de que ele usa{b}
+algumas provas forjadas,{wait: 6} senhor.{nextpage_button}
+
+{{20}}
+{ponteiro: 11644,84}{bloco: 27}{name: 2}{color: 32772}
+(Provas forjadas,{wait: 6} é...?){nextpage_button}
+
+{{21}}
+{ponteiro: 11872,3560}{bloco: 90}{name: 3}{color: 32768}
+E dizem até que ele escolheu não{b}
+participar de alguns casos por uns{b}
+motivos bem esfarrapados.{nextpage_button}
+
+{{22}}
+{ponteiro: 12340,2412}{bloco: 80}{name: 28}{color: 32768}
+Aaaah!{wait: 16} {shake: 2, 2}{sfx: 29}{flash: 0, 1}Aquele cara era uma{b}
+vergonha pra sua profissão!{nextpage_button}
+
+{{23}}
+{ponteiro: 12876,2664}{bloco: 84}{name: 2}{color: 32768}
+Nós nunca,{wait: 6} de fato,{wait: 6} conseguimos{b}
+interrogá-lo sobre as razões para{b}
+ter invadido o meu gabinete.{nextpage_button}
+
+{{24}}
+{ponteiro: 13104,1472}{bloco: 71}{name: 3}{color: 32768}
+É{desconhecido_20: 10}... {wait: 16}{desconhecido_1F: 10}sempre que a gente{b}
+tentava tocar no assunto,{wait: 6}{b}
+ele bancava o tonto.{nextpage_button}
+
+{{25}}
+{ponteiro: 13332,1400}{bloco: 70}{name: 2}{color: 32772}
+(Contudo,{wait: 6} podemos ter toda{b}
+a certeza de que foi a fim{b}
+de roubar alguma coisa.){nextpage_button}
+
+{{26}}
+{ponteiro: 13560,552}{bloco: 50}{name: 3}{color: 32768}
+Cá entre nós,{wait: 6} senhor,{wait: 6} mas{desconhecido_20: 10}...{nextpage_button}
+
+{{27}}
+{ponteiro: 13788,4220}{bloco: 97}{name: 3}{color: 32768}
+...{desconhecido_1F: 10} tem um boato de que tem{b}
+alguma {flash: 0, 1}{sfx: 19}organização bem grande{b}
+mexendo os pauzinhos por aí.{nextpage_button}
+
+{{28}}
+{ponteiro: 14016,264}{bloco: 32}{name: 2}{color: 32768}
+{flash: 0, 1}{sfx: 21}Como?{wait: 16} Ora,{wait: 6} ora{desconhecido_20: 1}...{nextpage_button}
+
+{{29}}
+{ponteiro: 14360,4028}{bloco: 95}{name: 2}{color: 32768}
+Com o Sr. Portivo sendo relutante{b}
+em divulgar qualquer coisa, então{b}
+certamente o boato ganha força.{nextpage_button}
+
+{{30}}
+{ponteiro: 14588,936}{bloco: 58}{name: 2}{color: 32768}
+... Parece que ainda ouviremos{b}
+muito disso pela frente.{nextpage_button}
+
+{{31}}
+{ponteiro: 14896,820}{bloco: 55}{name: 3}{color: 32768}
+{flash: 0, 1}Quê?!{wait: 16}{speed: 2} Então o Sr. Portivo{b}
+NÃO É o vilão da história?!{nextpage_button}
+
+{{32}}
+{ponteiro: 15124,4624}{bloco: 100}{name: 2}{color: 32768}
+Eu não disse isso.{wait: 16} Na verdade,{wait: 6}{sfx: 19}{flash: 0, 1}{b}
+disse que ainda existem vários{b}
+mistérios para resolvermos.{nextpage_button}
+
+{{33}}
+{ponteiro: 15272,3376}{bloco: 89}{name: 2}{color: 32774}
+Por exemplo, ainda não fomos{b}
+capazes de perceber o significado{b}
+por trás desta prova...{nextpage_nobutton}
+
+{{34}}
+{ponteiro: 15732,2496}{bloco: 81}{name: 3}{color: 32768}
+Err,{wait: 8} senhor... {wait: 16}{b}
+não acho que tenha algum {flash: 0, 1}{sfx: 19}{b}
+mistério por trás dessa prova...{nextpage_button}
+
+{{35}}
+{ponteiro: 16016,460}{bloco: 42}{name: 2}{color: 32768}{shake: 2, 2}{sfx: 23}
+Você... {wait: 16}talvez tenha razão...{nextpage_button}
+
+{{36}}
+{ponteiro: 16244,1192}{bloco: 66}{name: 3}{color: 32768}
+Acho que você já {shake: 2, 2}{sfx: 29}resolveu{b}
+o caso todinho,{wait: 8} Sr. Spada.{nextpage_button}
+
+{{37}}
+{ponteiro: 16472,1692}{bloco: 74}{name: 3}{color: 32768}
+A única coisa que sobrou pra{b}
+gente quebrar a cabeça talvez{b}
+seja {sfx: 19}{flash: 0, 1}isso.{nextpage_button}
+
+{{38}}
+{ponteiro: 16724,3744}{bloco: 90}{name: 2}{color: 32768}
+Sim,{wait: 12} o arquivo da série 0.{wait: 16}{b}
+A significância que reside nele é{b}
+algo que ainda devemos decifrar.{nextpage_button}
+
+{{39}}
+{ponteiro: 17104,1616}{bloco: 72}{name: 2}{color: 32768}
+A pessoa que pegou esse{b}
+arquivo...{wait: 16} o outro vilão{b}
+desta noite...{nextpage_button}
+
+{{40}}
+{ponteiro: 17332,336}{bloco: 38}{name: 3}{color: 32768}
+... É,{wait: 6}{flash: 0, 1}{sfx: 19} quem será que era ele?{nextpage_button}
+
+{{41}}
+{ponteiro: 17560,416}{bloco: 40}{name: 2}{color: 32768}
+E o que houve com{b}
+as páginas arrancadas?{nextpage_button}
+
+{{42}}
+{ponteiro: 17948,2008}{bloco: 77}{name: 2}{color: 32772}
+(Não tenho a mínima suspeita{speed: 6}...{wait: 16}{b}
+{speed: 3}quem raios era a pessoa que{b}
+me intimidou à mão armada?){nextpage_button}
+
+{{43}}
+{ponteiro: 18540,300}{bloco: 32}{name: 30}{color: 32768}
+{shake: 1, 1}{flash: 0, 1}{sfx: 109}Sr. Spada,{wait: 6} senhor!{nextpage_button}
+
+{{44}}
+{ponteiro: 18768,32}{bloco: 6}{name: 2}{color: 32768}
+Sim?{nextpage_button}
+
+{{45}}
+{ponteiro: 18996,1328}{bloco: 69}{name: 30}{color: 32768}
+Acabei achando isto enquanto{b}
+trabalhávamos no seu gabinete{b}
+mais cedo,{wait: 6} senhor.{nextpage_button}
+
+{{46}}
+{ponteiro: 19208,56}{bloco: 25}{name: 2}{color: 32768}{shake: 2, 2}{flash: 0, 1}{sfx: 19}
+Esse cartão...!{nextpage_button}
+
+{{47}}
+{ponteiro: 19604,996}{bloco: 59}{name: 3}{color: 32768}
+O que foi, senhor?{wait: 16}{b}
+Isso aí no cartão é um pássaro{b}
+ou alguma coisa parecida?{nextpage_button}
+
+{{48}}
+{ponteiro: 19776,140}{bloco: 27}{name: 2}{color: 32768}
+Não é um pássaro comum...{nextpage_button}
+
+{{49}}
+{ponteiro: 19948,764}{bloco: 55}{name: 2}{color: 32768}
+É a marca do corvo.{wait: 16}{b}
+Um corvo de três pernas.{nextpage_button}
+
+{{50}}
+{ponteiro: 20440,504}{bloco: 47}{name: 2}{color: 32768}
+Até você deve saber{b}
+do que se trata isto,{wait: 6}{b}
+Inspetor.{nextpage_button}
+
+{{51}}
+{ponteiro: 20668,4420}{bloco: 99}{name: 3}{color: 32768}{flash: 0, 1}{sfx: 21}
+Ei!{wait: 16} É sobre aquilo lá,{wait: 6} né?{wait: 16}{b}
+Um tal de {shake: 2, 2}"Grande Ladrão"{b}
+que todo mundo tá falando?!{nextpage_button}
+
+{{52}}
+{ponteiro: 20896,1260}{bloco: 67}{name: 2}{color: 32768}
+Sim, essa é a marca do{b}
+Grande Ladrão {flash: 0, 1}{sfx: 21}"{color: 1}Yatagarasu{color: 0}"!{nextpage_button}
+
+{{53}}
+{ponteiro: 21204,4520}{bloco: 100}{name: 2}{color: 32768}
+Usando a identidade de um pássaro{b}
+lendário,{wait: 6} o Yatagarasu é {color: 1}nobre{color: 0} em{b}
+objetivo,{wait: 6} um "Robin Hood" moderno.{nextpage_button}
+
+{{54}}
+{ponteiro: 21536,4832}{bloco: 102}{name: 2}{color: 32768}
+Rotulado como "misterioso" e{b}
+"fantasmagórico",{wait: 6} o {wait: 8}{speed: 8}{color: 1}Yatagarasu{speed: 2}{color: 0}{b}
+aparece e desaparece livremente.{nextpage_button}
+
+{{55}}
+{ponteiro: 21708,2840}{bloco: 85}{name: 2}{color: 32768}
+Embora nós não saibamos muito{b}
+sobre as reais intenções desse{b}
+ladrão,{wait: 6} conhecemos seus alvos.{nextpage_button}
+
+{{56}}
+{ponteiro: 22028,3652}{bloco: 90}{name: 2}{color: 32768}
+O Yatagarasu gosta de encontrar{b}
+e publicar provas de todo tipo de{b}
+pacto corrupto.{nextpage_button}
+
+{{57}}
+{ponteiro: 22200,2168}{bloco: 79}{name: 2}{color: 32768}
+Seus roubos são sempre{b}
+realizados de forma {wait: 8}sorrateira{wait: 8}{b}
+e {wait: 8}impecável.{nextpage_button}
+
+{{58}}
+{ponteiro: 22372,3468}{bloco: 89}{name: 2}{color: 32768}
+Assim que o alvo é escolhido, {wait: 8}{shake: 1, 1}{b}
+nenhum cartão de ameaça ou{b}
+aviso é enviado.{nextpage_button}
+
+{{59}}
+{ponteiro: 22544,2928}{bloco: 86}{name: 2}{color: 32768}
+Pelo contrário,{wait: 6} a corporação{b}
+escolhida é {flash: 0, 1}invadida de forma{b}
+que o alvo sequer perceba.{nextpage_button}
+
+{{60}}
+{ponteiro: 22716,2580}{bloco: 83}{name: 2}{color: 32768}
+Alguns dias depois,{wait: 6}{b}
+as {shake: 1, 1}provas encontradas são{b}
+enviadas à grande imprensa...{nextpage_button}
+
+{{61}}
+{ponteiro: 23352,376}{bloco: 39}{name: 2}{color: 32768}
+{desconhecido_20: 1}...{desconhecido_1F: 1} acompanhadas deste mesmo{b}
+cartão.{nextpage_button}
+
+{{62}}
+{ponteiro: 23600,2328}{bloco: 80}{name: 2}{color: 32768}
+Todavia,{wait: 6} já faz algum tempo desde{b}
+a {flash: 0, 1}{sfx: 19}última aparição do Yatagarasu...{nextpage_button}
+
+{{63}}
+{ponteiro: 23964,1928}{bloco: 77}{name: 3}{color: 32768}{flash: 0, 1}{sfx: 21}
+Ei,{wait: 6} Sr. Spada!{wait: 16}{b}
+{shake: 2, 2}{sfx: 29}Olha,{wait: 6} tem algo escrito atrás dele!{nextpage_button}
+
+{{64}}
+{ponteiro: 24192,200}{bloco: 29}{name: 2}{color: 32768}
+{flash: 0, 1}{sfx: 21}O quê?{wait: 16} Deixe-me ver!{nextpage_button}
+
+{{65}}
+{ponteiro: 24496,1544}{bloco: 71}{name: 3}{color: 32768}
+É a {wait: 12}{flash: 0, 1}{shake: 1, 1}localização de onde{b}
+esse ladrão deixou os{b}
+arquivos roubados!{nextpage_button}
+
+{{66}}
+{ponteiro: 24948,2088}{bloco: 78}{name: 2}{color: 32772}
+(Então a pessoa que roubou{b}
+o conteúdo do arquivo era{b}
+mesmo o Yatagarasu{speed: 8}...?){nextpage_button}
+
+{{67}}
+{ponteiro: 25264,4936}{bloco: 103}{name: 2}{color: 32768}
+"Yatagarasu"{speed: 6}{wait: 8}. {wait: 16}{speed: 4}"Organização".{wait: 24}{b}
+{speed: 3}Algumas palavras-chave{b}
+estão brotando desse mistério.{nextpage_button}
+
+{{68}}
+{ponteiro: 25632,232}{bloco: 31}{name: 2}{color: 32768}
+O homicídio em meu gabinete{speed: 8}...{nextpage_button}
+
+{{69}}
+{ponteiro: 25936,876}{bloco: 56}{name: 2}{color: 32768}
+E o retorno do Grande{b}
+Ladrão {wait: 16}{speed: 4}"Yatagarasu"{speed: 8}...{nextpage_button}
+
+{{70}}
+{ponteiro: 26140,1124}{bloco: 66}{name: 2}{color: 32768}
+Parando para pensar,{wait: 16}{b}
+não posso dizer que não previ a{b}
+chegada de todos esses eventos...{nextpage_button}
+
+{{71}}
+{ponteiro: 26312,2752}{bloco: 84}{name: 2}{color: 32768}
+... pois todos eles foram precedidos{b}
+pelos incidentes que começaram a{b}
+ocorrer {color: 1}há dois dias{color: 0}.{nextpage_button}

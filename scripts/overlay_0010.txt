@@ -1,0 +1,36 @@
+﻿{{0}}
+{ponteiro: 1100,32}{bloco: 44}{name: 2}{color: 32772}
+(O homicídio em meu gabinete...){nextpage_nobutton}
+
+{{1}}
+{ponteiro: 1760,132}{bloco: 53}{name: 2}{color: 32772}
+(E o retorno do grande{b}
+ladrão, o {color: 1}Yatagarasu{color: 2}...){nextpage_nobutton}
+
+{{2}}
+{ponteiro: 1980,188}{bloco: 72}{name: 2}{color: 32772}
+(Esta história tem um começo,{b}
+dois dias atrás, naquela{b}
+fatídica manhã...){nextpage_nobutton}
+
+{{3}}
+{ponteiro: 7248,264}{bloco: 85}{name: 2}{color: 32772}
+(A manhã em que eu estava{b}
+a aproximadamente três mil{b}
+metros do chão...){nextpage_nobutton}
+
+{{4}}
+{ponteiro: 7456,80}{bloco: 51}{name: 11}{color: 32774}
+Agradecemos {shake: 1, 1}{sfx: 114}a preferência pela{b}
+Companhia{shake: 1, 1}{sfx: 114} Aérea CeVoa.{nextpage_nobutton}
+
+{{5}}
+{ponteiro: 7636,488}{bloco: 155}{name: 11}{color: 32774}
+Nós {desconhecido_21: 2, 1}est{desconhecido_11: 49, 14, 0, 0, 50, 14, 0, 0, 16, 0, 0, 0, 0, 0}{desconhecido_10: 42, 0, 0}{wait: 4}amos {desconhecido_22: 2, 1}passando {shake: 1, 1}{sfx: 114}por {desconhecido_21: 2, 1}alg{desconhecido_11: 44, 14, 0, 0, 45, 14, 0, 0, 16, 0, 0, 0, 0, 0}{wait: 4}uns {desconhecido_22: 2, 1}{b}
+pequ{shake: 1, 1}{sfx: 114}enos {desconhecido_21: 2, 1}prob{desconhecido_11: 83, 14, 0, 0, 84, 14, 0, 0, 16, 0, 0, 0, 0, 0}lemas{wait: 4} técn{desconhecido_22: 2, 1}icos.{nextpage_nobutton}
+
+{{6}}
+{ponteiro: 7816,352}{bloco: 134}{name: 11}{color: 32774}
+Ped{desconhecido_21: 2, 1}imos {desconhecido_11: 55, 14, 0, 0, 56, 14, 0, 0, 16, 0, 0, 0, 0, 0}{wait: 8}para que todos os{b}
+passageiros {desconhecido_22: 2, 1}retornem a seus {shake: 1, 1}{sfx: 114}{b}
+lugares e {shake: 1, 1}{sfx: 114}apertem seus cintos.{wait: 50}{nextpage_nobutton}
