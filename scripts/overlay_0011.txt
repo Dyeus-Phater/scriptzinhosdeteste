@@ -1,0 +1,144 @@
+﻿{{0}}
+{ponteiro: 2408,620}{bloco: 61}{name: 0}{color: 32774}
+{margem: 71}12 de Março, 6:13{b}
+{margem: 41}Voo C-390, Primeiro Andar{b}
+{margem: 112}Bar{nextpage_button}
+
+{{1}}
+{ponteiro: 2580,32}{bloco: 20}{name: 2}{color: 32768}
+...{flash: 0, 1}{sfx: 21} Nnngh...{nextpage_button}
+
+{{2}}
+{ponteiro: 2888,684}{bloco: 65}{name: 2}{color: 32768}
+... Por que me sinto como{b}
+alguém acordando de um{b}
+terrível pesadelo?{nextpage_button}
+
+{{3}}
+{ponteiro: 3132,1852}{bloco: 96}{name: 2}{color: 32772}
+(6:13...{wait: 16} eu estive desacordado por{b}
+dez minutos. Parece que ocorreram{b}
+"problemas técnicos".){nextpage_button}
+
+{{4}}
+{ponteiro: 3380,904}{bloco: 77}{name: 11}{color: 32774}
+Nós estamos passando por alguns{b}
+pequenos problemas técnicos.{nextpage_nobutton}
+
+{{5}}
+{ponteiro: 3560,1064}{bloco: 82}{name: 11}{color: 32774}
+Pedimos para que todos os{b}
+passageiros retornem a seus{b}
+lugares e apertem seus cintos.{nextpage_nobutton}
+
+{{6}}
+{ponteiro: 3808,500}{bloco: 55}{name: 2}{color: 32772}
+(É fisicamente impossível que{b}
+tenha acontecido tremores{b}
+durante o voo.){nextpage_button}
+
+{{7}}
+{ponteiro: 3980,1664}{bloco: 88}{name: 2}{color: 32772}
+(Embora eu admita que sou uma{b}
+pessoa que não se sente muito{b}
+confortável em tremores...){nextpage_button}
+
+{{8}}
+{ponteiro: 4280,984}{bloco: 77}{name: 2}{color: 32772}
+({flash: 0, 1}{sfx: 19}Hã?{wait: 16} O que é isto...?{wait: 16} Seria uma{b}
+carteira de viagem? {wait: 16}Mas não é{b}
+a minha...){nextpage_button}
+
+{{9}}
+{ponteiro: 4508,752}{bloco: 72}{name: 2}{color: 32772}
+({sfx: 19}{flash: 0, 1}Como esta carteira foi{b}
+parar em meu bolso?){nextpage_button}
+
+{{10}}
+{ponteiro: 4680,828}{bloco: 74}{name: 2}{color: 32772}
+({flash: 0, 1}{shake: 2, 2}Nnngh...!{wait: 16} A minha cabeça...{wait: 16}{b}
+por que será que ela está{b}
+doendo tanto...?){nextpage_button}
+
+{{11}}
+{ponteiro: 4852,1400}{bloco: 84}{name: 2}{color: 32772}
+(Bem, por ora, eu cuidarei desta{b}
+carteira.{wait: 16} Talvez deva entregá-la a{b}
+uma aeromoça...){nextpage_button}
+
+{{12}}
+{ponteiro: 5424,1232}{bloco: 83}{name: 2}{color: 32768}
+Argh{desconhecido_20: 1}...{wait: 16} {desconhecido_1F: 1}De "tremores"{b}
+para um {flash: 0, 1}{shake: 2, 2}{sfx: 23}elevador{desconhecido_20: 1}...{nextpage_button}
+
+{{13}}
+{ponteiro: 5652,244}{bloco: 41}{name: 2}{color: 32768}
+.{wait: 10}.{wait: 9}.{wait: 8}.{wait: 7}.{wait: 6}.{wait: 5}.{wait: 4}.{wait: 3}.{wait: 2}...{nextpage_button}
+
+{{14}}
+{ponteiro: 5896,336}{bloco: 48}{name: 2}{color: 32768}
+Hmph.{wait: 16} Eu estou mesmo tão{b}
+hesitante perante um elevador?{nextpage_button}
+
+{{15}}
+{ponteiro: 6124,1756}{bloco: 94}{name: 2}{color: 32772}
+(Traumas gerados pelo dia mais{b}
+trágico da minha vida...{wait: 16} quando{b}
+eu ainda era apenas uma criança...){nextpage_button}
+
+{{16}}
+{ponteiro: 6520,556}{bloco: 61}{name: 2}{color: 32772}
+(Eu testemunhei um incidente{b}
+dentro de um elevador...){nextpage_button}
+
+{{17}}
+{ponteiro: 6956,388}{bloco: 53}{name: 2}{color: 32772}
+(Até quando o meu passado{b}
+vai continuar me perseguindo?!){nextpage_button}
+
+{{18}}
+{ponteiro: 7184,1576}{bloco: 87}{name: 2}{color: 32772}
+(É apenas um elevador!{wait: 16} {sfx: 21}{wait: 2}{flash: 0, 1}{b}
+Já sou um homem! Encarar{b}
+qualquer perigo é natural!){nextpage_button}
+
+{{19}}
+{ponteiro: 8108,444}{bloco: 54}{name: 2}{color: 32768}
+Ma{wait: 8}...{wait: 8}... {wait: 16}{sfx: 23}{shake: 2, 2}{flash: 0, 1}{speed: 2}Mas o que {shake: 2, 2}{flash: 0, 1}é isso...?!{nextpage_button}
+
+{{20}}
+{ponteiro: 8436,200}{bloco: 41}{name: 2}{color: 32768}
+{sfx: 17}{flash: 0, 1}{shake: 3, 3}O que está acontecendo aqui?!{nextpage_button}
+
+{{21}}
+{ponteiro: 8656,1148}{bloco: 83}{name: 1}{color: 32768}
+Há algo de errado, senhor?{wait: 16}{b}
+Por favor, poderia retornar{b}
+ao seu ass...{nextpage_button}
+
+{{22}}
+{ponteiro: 8908,120}{bloco: 38}{name: 1}{color: 32768}
+...{shake: 3, 3}{flash: 0, 1}{sfx: 14} AAAAAAAAAAAAAAAHHHHHHHHH!{nextpage_button}
+
+{{23}}
+{ponteiro: 9100,288}{bloco: 44}{name: 1}{color: 32768}
+{flash: 0, 1}ELE...{wait: 16} E-E-{speed: 1}{flash: 0, 1}{shake: 2, 2}ELE MORREU!!!{nextpage_button}
+
+{{24}}
+{ponteiro: 9272,1316}{bloco: 83}{name: 2}{color: 32768}
+{shake: 1, 1}Acalme-se, por favor! {shake: 1, 1}{b}
+Nessas horas, não devemos{b}
+tomar conclusões precipitadas...{nextpage_button}
+
+{{25}}
+{ponteiro: 9488,160}{bloco: 39}{name: 16}{color: 32768}O que é que tá acontecendo aí?!{nextpage_button}
+
+{{26}}
+{ponteiro: 9700,84}{bloco: 34}{name: 1}{color: 32768}
+S...{wait: 16} {sfx: 17}{flash: 0, 1}S-SEU ASSASSINO!!!{nextpage_button}
+
+{{27}}
+{ponteiro: 9872,1488}{bloco: 84}{name: 2}{color: 32768}
+{shake: 1, 1}O q...?!{wait: 16} {flash: 0, 1}{shake: 2, 2}N-NÃO!{wait: 16} Você entendeu{b}
+tudo errado, moça! {wait: 16}{speed: 1}{flash: 0, 1}{shake: 2, 2}Eu não matei{b}
+ninguém!!!{nextpage_button}
